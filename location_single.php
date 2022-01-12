@@ -29,7 +29,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 		        <span class="icon-bar"></span>
 		        <span class="icon-bar"></span>
 	        </button>
-	        <a class="navbar-brand" href="index.html"><img src="images/logo.png" alt=""/></a>
+	        <a class="navbar-brand" href="index.php"><img src="images/logo.png" alt=""/></a>
 	    </div>
 	    <!--/.navbar-header-->
 	    <div class="navbar-collapse collapse" id="bs-example-navbar-collapse-1" style="height: 1px;">
@@ -37,12 +37,12 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 		        <li class="dropdown">
 		            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Jobs<b class="caret"></b></a>
 		            <ul class="dropdown-menu">
-			            <li><a href="location.html">Contract Jobs</a></li>
-			            <li><a href="location.html">Walkin Jobs</a></li>
-			            <li><a href="location.html">Jobs by Location</a></li>
-			            <li><a href="location.html">Jobs by Function</a></li>
-			            <li><a href="location.html">Jobs by Industry</a></li>
-			            <li><a href="location.html">Jobs by Company</a></li>
+			            <li><a href="location.php">Contract Jobs</a></li>
+			            <li><a href="location.php">Walkin Jobs</a></li>
+			            <li><a href="location.php">Jobs by Location</a></li>
+			            <li><a href="location.php">Jobs by Function</a></li>
+			            <li><a href="location.php">Jobs by Industry</a></li>
+			            <li><a href="location.php">Jobs by Company</a></li>
 		            </ul>
 		        </li>
 		        <li class="dropdown">
@@ -51,35 +51,35 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 			            <div class="row">
 				            <div class="col-sm-4">
 					            <ul class="multi-column-dropdown">
-						            <li><a href="services.html">Action</a></li>
-						            <li><a href="services.html">Another action</a></li>
-						            <li><a href="services.html">Something else here</a></li>
+						            <li><a href="services.php">Action</a></li>
+						            <li><a href="services.php">Another action</a></li>
+						            <li><a href="services.php">Something else here</a></li>
 						            <li class="divider"></li>
-						            <li><a href="services.html">Separated link</a></li>
+						            <li><a href="services.php">Separated link</a></li>
 						            <li class="divider"></li>
-						            <li><a href="services.html">One more separated link</a></li>
+						            <li><a href="services.php">One more separated link</a></li>
 					            </ul>
 				            </div>
 				            <div class="col-sm-4">
 					            <ul class="multi-column-dropdown">
-						            <li><a href="services.html">Action</a></li>
-						            <li><a href="services.html">Another action</a></li>
-						            <li><a href="services.html">Something else here</a></li>
+						            <li><a href="services.php">Action</a></li>
+						            <li><a href="services.php">Another action</a></li>
+						            <li><a href="services.php">Something else here</a></li>
 						            <li class="divider"></li>
-						            <li><a href="services.html">Separated link</a></li>
+						            <li><a href="services.php">Separated link</a></li>
 						            <li class="divider"></li>
-						            <li><a href="services.html">One more separated link</a></li>
+						            <li><a href="services.php">One more separated link</a></li>
 					            </ul>
 				            </div>
 				            <div class="col-sm-4">
 					            <ul class="multi-column-dropdown">
-						            <li><a href="services.html">Action</a></li>
-						            <li><a href="services.html">Another action</a></li>
-						            <li><a href="services.html">Something else here</a></li>
+						            <li><a href="services.php">Action</a></li>
+						            <li><a href="services.php">Another action</a></li>
+						            <li><a href="services.php">Something else here</a></li>
 						            <li class="divider"></li>
-						            <li><a href="services.html">Separated link</a></li>
+						            <li><a href="services.php">Separated link</a></li>
 						            <li class="divider"></li>
-						            <li><a href="services.html">One more separated link</a></li>
+						            <li><a href="services.php">One more separated link</a></li>
 					            </ul>
 				            </div>
 			            </div>
@@ -88,30 +88,30 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 		        <li class="dropdown">
 		            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Recruiters<b class="caret"></b></a>
 		            <ul class="dropdown-menu">
-			            <li><a href="login.html">Recruiter Updates</a></li>
-			            <li><a href="recruiters.html">Recruiters you are following</a></li>
-			            <li><a href="codes.html">Shortcodes</a></li>
+			            <li><a href="login.php">Recruiter Updates</a></li>
+			            <li><a href="recruiters.php">Recruiters you are following</a></li>
+			            <li><a href="codes.php">Shortcodes</a></li>
 		            </ul>
 		        </li>
 		        <li class="dropdown">
 		            <a href="#" class="dropdown-toggle" data-toggle="dropdown">More<b class="caret"></b></a>
 		            <ul class="dropdown-menu">
-			            <li><a href="jobs.html">Walk-ins</a></li>
-			            <li><a href="jobs.html">Bpo Jobs</a></li>
-			            <li><a href="jobs.html">Teaching Jobs</a></li>
-			            <li><a href="jobs.html">Diploma Jobs</a></li>
-			            <li><a href="jobs.html">Tech Support</a></li>
-			            <li><a href="jobs.html">Finance Jobs</a></li>
-			            <li><a href="jobs.html">Part time Jobs</a></li>
-			            <li><a href="jobs.html">Health Care</a></li>
-			            <li><a href="jobs.html">Hospitality</a></li>
-			            <li><a href="jobs.html">Internships</a></li>
-			            <li><a href="jobs.html">Research Jobs</a></li>
-			            <li><a href="jobs.html">Defence Jobs</a></li>
+			            <li><a href="jobs.php">Walk-ins</a></li>
+			            <li><a href="jobs.php">Bpo Jobs</a></li>
+			            <li><a href="jobs.php">Teaching Jobs</a></li>
+			            <li><a href="jobs.php">Diploma Jobs</a></li>
+			            <li><a href="jobs.php">Tech Support</a></li>
+			            <li><a href="jobs.php">Finance Jobs</a></li>
+			            <li><a href="jobs.php">Part time Jobs</a></li>
+			            <li><a href="jobs.php">Health Care</a></li>
+			            <li><a href="jobs.php">Hospitality</a></li>
+			            <li><a href="jobs.php">Internships</a></li>
+			            <li><a href="jobs.php">Research Jobs</a></li>
+			            <li><a href="jobs.php">Defence Jobs</a></li>
 		            </ul>
 		        </li>
-		        <li><a href="login.html">Login</a></li>
-		        <li><a href="resume.html">Upload Resume</a></li>
+		        <li><a href="login.php">Login</a></li>
+		        <li><a href="resume.php">Upload Resume</a></li>
 	        </ul>
 	    </div>
 	    <div class="clearfix"> </div>
@@ -325,16 +325,16 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 		<div class="col-md-3 grid_3">
 			<h4>Navigate</h4>
 			<ul class="f_list f_list1">
-				<li><a href="index.html">Home</a></li>
-				<li><a href="login.html">Sign In</a></li>
-				<li><a href="login.html">Join Now</a></li>
-				<li><a href="about.html">About</a></li>
+				<li><a href="index.php">Home</a></li>
+				<li><a href="login.php">Sign In</a></li>
+				<li><a href="login.php">Join Now</a></li>
+				<li><a href="about.php">About</a></li>
 			</ul>
 			<ul class="f_list">
-				<li><a href="features.html">Features</a></li>
-				<li><a href="terms.html">Terms of use</a></li>
-				<li><a href="contact.html">Contact Us</a></li>
-				<li><a href="jobs.html">Post a Job</a></li>
+				<li><a href="features.php">Features</a></li>
+				<li><a href="terms.php">Terms of use</a></li>
+				<li><a href="contact.php">Contact Us</a></li>
+				<li><a href="jobs.php">Post a Job</a></li>
 			</ul>
 			<div class="clearfix"> </div>
 		</div>

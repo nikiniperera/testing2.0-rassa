@@ -29,7 +29,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 		        <span class="icon-bar"></span>
 		        <span class="icon-bar"></span>
 	        </button>
-	        <a class="navbar-brand" href="index.html"><img src="images/logo.png" alt=""/></a>
+	        <a class="navbar-brand" href="index.php"><img src="images/logo.png" alt=""/></a>
 	    </div>
 	    <!--/.navbar-header-->
 	    <div class="navbar-collapse collapse" id="bs-example-navbar-collapse-1" style="height: 1px;">
@@ -37,12 +37,12 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 		        <li class="dropdown">
 		            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Jobs<b class="caret"></b></a>
 		            <ul class="dropdown-menu">
-			           <li><a href="location.html">Contract Jobs</a></li>
-			            <li><a href="location.html">Walkin Jobs</a></li>
-			            <li><a href="location.html">Jobs by Location</a></li>
-			            <li><a href="location.html">Jobs by Function</a></li>
-			            <li><a href="location.html">Jobs by Industry</a></li>
-			            <li><a href="location.html">Jobs by Company</a></li>
+			           <li><a href="location.php">Contract Jobs</a></li>
+			            <li><a href="location.php">Walkin Jobs</a></li>
+			            <li><a href="location.php">Jobs by Location</a></li>
+			            <li><a href="location.php">Jobs by Function</a></li>
+			            <li><a href="location.php">Jobs by Industry</a></li>
+			            <li><a href="location.php">Jobs by Company</a></li>
 		            </ul>
 		        </li>
 		        <li class="dropdown">
@@ -51,35 +51,35 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 			            <div class="row">
 				            <div class="col-sm-4">
 					            <ul class="multi-column-dropdown">
-						            <li><a href="services.html">Action</a></li>
-						            <li><a href="services.html">Another action</a></li>
-						            <li><a href="services.html">Something else here</a></li>
+						            <li><a href="services.php">Action</a></li>
+						            <li><a href="services.php">Another action</a></li>
+						            <li><a href="services.php">Something else here</a></li>
 						            <li class="divider"></li>
-						            <li><a href="services.html">Separated link</a></li>
+						            <li><a href="services.php">Separated link</a></li>
 						            <li class="divider"></li>
-						            <li><a href="services.html">One more separated link</a></li>
+						            <li><a href="services.php">One more separated link</a></li>
 					            </ul>
 				            </div>
 				            <div class="col-sm-4">
 					            <ul class="multi-column-dropdown">
-						            <li><a href="services.html">Action</a></li>
-						            <li><a href="services.html">Another action</a></li>
-						            <li><a href="services.html">Something else here</a></li>
+						            <li><a href="services.php">Action</a></li>
+						            <li><a href="services.php">Another action</a></li>
+						            <li><a href="services.php">Something else here</a></li>
 						            <li class="divider"></li>
-						            <li><a href="services.html">Separated link</a></li>
+						            <li><a href="services.php">Separated link</a></li>
 						            <li class="divider"></li>
-						            <li><a href="services.html">One more separated link</a></li>
+						            <li><a href="services.php">One more separated link</a></li>
 					            </ul>
 				            </div>
 				            <div class="col-sm-4">
 					            <ul class="multi-column-dropdown">
-						            <li><a href="services.html">Action</a></li>
-						            <li><a href="services.html">Another action</a></li>
-						            <li><a href="services.html">Something else here</a></li>
+						            <li><a href="services.php">Action</a></li>
+						            <li><a href="services.php">Another action</a></li>
+						            <li><a href="services.php">Something else here</a></li>
 						            <li class="divider"></li>
-						            <li><a href="services.html">Separated link</a></li>
+						            <li><a href="services.php">Separated link</a></li>
 						            <li class="divider"></li>
-						            <li><a href="services.html">One more separated link</a></li>
+						            <li><a href="services.php">One more separated link</a></li>
 					            </ul>
 				            </div>
 			            </div>
@@ -88,30 +88,30 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 		        <li class="dropdown">
 		            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Recruiters<b class="caret"></b></a>
 		            <ul class="dropdown-menu">
-			            <li><a href="login.html">Recruiter Updates</a></li>
-			            <li><a href="recruiters.html">Recruiters you are following</a></li>
-			            <li><a href="codes.html">Shortcodes</a></li>
+			            <li><a href="login.php">Recruiter Updates</a></li>
+			            <li><a href="recruiters.php">Recruiters you are following</a></li>
+			            <li><a href="codes.php">Shortcodes</a></li>
 		            </ul>
 		        </li>
 		        <li class="dropdown">
 		            <a href="#" class="dropdown-toggle" data-toggle="dropdown">More<b class="caret"></b></a>
 		            <ul class="dropdown-menu">
-			            <li><a href="jobs.html">Walk-ins</a></li>
-			            <li><a href="jobs.html">Bpo Jobs</a></li>
-			            <li><a href="jobs.html">Teaching Jobs</a></li>
-			            <li><a href="jobs.html">Diploma Jobs</a></li>
-			            <li><a href="jobs.html">Tech Support</a></li>
-			            <li><a href="jobs.html">Finance Jobs</a></li>
-			            <li><a href="jobs.html">Part time Jobs</a></li>
-			            <li><a href="jobs.html">Health Care</a></li>
-			            <li><a href="jobs.html">Hospitality</a></li>
-			            <li><a href="jobs.html">Internships</a></li>
-			            <li><a href="jobs.html">Research Jobs</a></li>
-			            <li><a href="jobs.html">Defence Jobs</a></li>
+			            <li><a href="jobs.php">Walk-ins</a></li>
+			            <li><a href="jobs.php">Bpo Jobs</a></li>
+			            <li><a href="jobs.php">Teaching Jobs</a></li>
+			            <li><a href="jobs.php">Diploma Jobs</a></li>
+			            <li><a href="jobs.php">Tech Support</a></li>
+			            <li><a href="jobs.php">Finance Jobs</a></li>
+			            <li><a href="jobs.php">Part time Jobs</a></li>
+			            <li><a href="jobs.php">Health Care</a></li>
+			            <li><a href="jobs.php">Hospitality</a></li>
+			            <li><a href="jobs.php">Internships</a></li>
+			            <li><a href="jobs.php">Research Jobs</a></li>
+			            <li><a href="jobs.php">Defence Jobs</a></li>
 		            </ul>
 		        </li>
-		        <li><a href="login.html">Login</a></li>
-		        <li><a href="resume.html">Upload Resume</a></li>
+		        <li><a href="login.php">Login</a></li>
+		        <li><a href="resume.php">Upload Resume</a></li>
 	        </ul>
 	    </div>
 	    <div class="clearfix"> </div>
@@ -211,16 +211,16 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 		  <div role="tabpanel" class="tab-pane fade in active" id="home" aria-labelledby="home-tab">
 		    <div class="tab_grid">
 			    <div class="col-sm-3 loc_1">
-			    	<a href="location_single.html"><img data-src="holder.js/100%x180" alt="100%x180" src="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9InllcyI/PjxzdmcgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iMTcxIiBoZWlnaHQ9IjE4MCIgdmlld0JveD0iMCAwIDE3MSAxODAiIHByZXNlcnZlQXNwZWN0UmF0aW89Im5vbmUiPjwhLS0KU291cmNlIFVSTDogaG9sZGVyLmpzLzEwMCV4MTgwCkNyZWF0ZWQgd2l0aCBIb2xkZXIuanMgMi42LjAuCkxlYXJuIG1vcmUgYXQgaHR0cDovL2hvbGRlcmpzLmNvbQooYykgMjAxMi0yMDE1IEl2YW4gTWFsb3BpbnNreSAtIGh0dHA6Ly9pbXNreS5jbwotLT48ZGVmcz48c3R5bGUgdHlwZT0idGV4dC9jc3MiPjwhW0NEQVRBWyNob2xkZXJfMTRlZmNkYWRhYjQgdGV4dCB7IGZpbGw6I0FBQUFBQTtmb250LXdlaWdodDpib2xkO2ZvbnQtZmFtaWx5OkFyaWFsLCBIZWx2ZXRpY2EsIE9wZW4gU2Fucywgc2Fucy1zZXJpZiwgbW9ub3NwYWNlO2ZvbnQtc2l6ZToxMHB0IH0gXV0+PC9zdHlsZT48L2RlZnM+PGcgaWQ9ImhvbGRlcl8xNGVmY2RhZGFiNCI+PHJlY3Qgd2lkdGg9IjE3MSIgaGVpZ2h0PSIxODAiIGZpbGw9IiNFRUVFRUUiLz48Zz48dGV4dCB4PSI2MSIgeT0iOTQuNSI+MTcxeDE4MDwvdGV4dD48L2c+PC9nPjwvc3ZnPg==" data-holder-rendered="true" style="height: 140px; width: 100%; display: block;"></a>
+			    	<a href="location_single.php"><img data-src="holder.js/100%x180" alt="100%x180" src="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9InllcyI/PjxzdmcgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iMTcxIiBoZWlnaHQ9IjE4MCIgdmlld0JveD0iMCAwIDE3MSAxODAiIHByZXNlcnZlQXNwZWN0UmF0aW89Im5vbmUiPjwhLS0KU291cmNlIFVSTDogaG9sZGVyLmpzLzEwMCV4MTgwCkNyZWF0ZWQgd2l0aCBIb2xkZXIuanMgMi42LjAuCkxlYXJuIG1vcmUgYXQgaHR0cDovL2hvbGRlcmpzLmNvbQooYykgMjAxMi0yMDE1IEl2YW4gTWFsb3BpbnNreSAtIGh0dHA6Ly9pbXNreS5jbwotLT48ZGVmcz48c3R5bGUgdHlwZT0idGV4dC9jc3MiPjwhW0NEQVRBWyNob2xkZXJfMTRlZmNkYWRhYjQgdGV4dCB7IGZpbGw6I0FBQUFBQTtmb250LXdlaWdodDpib2xkO2ZvbnQtZmFtaWx5OkFyaWFsLCBIZWx2ZXRpY2EsIE9wZW4gU2Fucywgc2Fucy1zZXJpZiwgbW9ub3NwYWNlO2ZvbnQtc2l6ZToxMHB0IH0gXV0+PC9zdHlsZT48L2RlZnM+PGcgaWQ9ImhvbGRlcl8xNGVmY2RhZGFiNCI+PHJlY3Qgd2lkdGg9IjE3MSIgaGVpZ2h0PSIxODAiIGZpbGw9IiNFRUVFRUUiLz48Zz48dGV4dCB4PSI2MSIgeT0iOTQuNSI+MTcxeDE4MDwvdGV4dD48L2c+PC9nPjwvc3ZnPg==" data-holder-rendered="true" style="height: 140px; width: 100%; display: block;"></a>
 			    </div>
 			    <div class="col-sm-9">
 			       <div class="location_box1">
-			    	 <h6><a href="location_single.html">IT Recruiter </a><span class="m_1">Posted 5 hours ago</span></h6>
+			    	 <h6><a href="location_single.php">IT Recruiter </a><span class="m_1">Posted 5 hours ago</span></h6>
 			    	 <p><span class="m_2">Location : </span>On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure</p>
 			    	 <ul class="links_bottom">
-		  		    	<li><a href="location_single.html"><i class="fa fa-envelope-o icon_1"> </i><span class="icon_text">Email this Job</span></a></li>
-			  			<li><a href="location_single.html"><i class="fa fa-eye icon_1"> </i><span class="icon_text">View full Job Description</span></a></li>
-			  			<li class="last"><a href="location_single.html"><i class="fa fa-sort-desc icon_1"> </i><span class="icon_text">View similar Jobs</span></a></li>
+		  		    	<li><a href="location_single.php"><i class="fa fa-envelope-o icon_1"> </i><span class="icon_text">Email this Job</span></a></li>
+			  			<li><a href="location_single.php"><i class="fa fa-eye icon_1"> </i><span class="icon_text">View full Job Description</span></a></li>
+			  			<li class="last"><a href="location_single.php"><i class="fa fa-sort-desc icon_1"> </i><span class="icon_text">View similar Jobs</span></a></li>
 					 </ul>
 				   </div>
 			    </div>
@@ -228,16 +228,16 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 			 </div>
 			 <div class="tab_grid">
 			    <div class="col-sm-3 loc_1">
-			    	<a href="location_single.html"><img data-src="holder.js/100%x180" alt="100%x180" src="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9InllcyI/PjxzdmcgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iMTcxIiBoZWlnaHQ9IjE4MCIgdmlld0JveD0iMCAwIDE3MSAxODAiIHByZXNlcnZlQXNwZWN0UmF0aW89Im5vbmUiPjwhLS0KU291cmNlIFVSTDogaG9sZGVyLmpzLzEwMCV4MTgwCkNyZWF0ZWQgd2l0aCBIb2xkZXIuanMgMi42LjAuCkxlYXJuIG1vcmUgYXQgaHR0cDovL2hvbGRlcmpzLmNvbQooYykgMjAxMi0yMDE1IEl2YW4gTWFsb3BpbnNreSAtIGh0dHA6Ly9pbXNreS5jbwotLT48ZGVmcz48c3R5bGUgdHlwZT0idGV4dC9jc3MiPjwhW0NEQVRBWyNob2xkZXJfMTRlZmNkYWRhYjQgdGV4dCB7IGZpbGw6I0FBQUFBQTtmb250LXdlaWdodDpib2xkO2ZvbnQtZmFtaWx5OkFyaWFsLCBIZWx2ZXRpY2EsIE9wZW4gU2Fucywgc2Fucy1zZXJpZiwgbW9ub3NwYWNlO2ZvbnQtc2l6ZToxMHB0IH0gXV0+PC9zdHlsZT48L2RlZnM+PGcgaWQ9ImhvbGRlcl8xNGVmY2RhZGFiNCI+PHJlY3Qgd2lkdGg9IjE3MSIgaGVpZ2h0PSIxODAiIGZpbGw9IiNFRUVFRUUiLz48Zz48dGV4dCB4PSI2MSIgeT0iOTQuNSI+MTcxeDE4MDwvdGV4dD48L2c+PC9nPjwvc3ZnPg==" data-holder-rendered="true" style="height: 140px; width: 100%; display: block;"></a>
+			    	<a href="location_single.php"><img data-src="holder.js/100%x180" alt="100%x180" src="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9InllcyI/PjxzdmcgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iMTcxIiBoZWlnaHQ9IjE4MCIgdmlld0JveD0iMCAwIDE3MSAxODAiIHByZXNlcnZlQXNwZWN0UmF0aW89Im5vbmUiPjwhLS0KU291cmNlIFVSTDogaG9sZGVyLmpzLzEwMCV4MTgwCkNyZWF0ZWQgd2l0aCBIb2xkZXIuanMgMi42LjAuCkxlYXJuIG1vcmUgYXQgaHR0cDovL2hvbGRlcmpzLmNvbQooYykgMjAxMi0yMDE1IEl2YW4gTWFsb3BpbnNreSAtIGh0dHA6Ly9pbXNreS5jbwotLT48ZGVmcz48c3R5bGUgdHlwZT0idGV4dC9jc3MiPjwhW0NEQVRBWyNob2xkZXJfMTRlZmNkYWRhYjQgdGV4dCB7IGZpbGw6I0FBQUFBQTtmb250LXdlaWdodDpib2xkO2ZvbnQtZmFtaWx5OkFyaWFsLCBIZWx2ZXRpY2EsIE9wZW4gU2Fucywgc2Fucy1zZXJpZiwgbW9ub3NwYWNlO2ZvbnQtc2l6ZToxMHB0IH0gXV0+PC9zdHlsZT48L2RlZnM+PGcgaWQ9ImhvbGRlcl8xNGVmY2RhZGFiNCI+PHJlY3Qgd2lkdGg9IjE3MSIgaGVpZ2h0PSIxODAiIGZpbGw9IiNFRUVFRUUiLz48Zz48dGV4dCB4PSI2MSIgeT0iOTQuNSI+MTcxeDE4MDwvdGV4dD48L2c+PC9nPjwvc3ZnPg==" data-holder-rendered="true" style="height: 140px; width: 100%; display: block;"></a>
 			    </div>
 			    <div class="col-sm-9">
 			       <div class="location_box1">
-			    	 <h6><a href="location_single.html">who are so </a><span class="m_1">Posted 5 hours ago</span></h6>
+			    	 <h6><a href="location_single.php">who are so </a><span class="m_1">Posted 5 hours ago</span></h6>
 			    	 <p><span class="m_2">Location : </span>On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure</p>
 			    	 <ul class="links_bottom">
-		  		    	<li><a href="location_single.html"><i class="fa fa-envelope-o icon_1"> </i><span class="icon_text">Email this Job</span></a></li>
-			  			<li><a href="location_single.html"><i class="fa fa-eye icon_1"> </i><span class="icon_text">View full Job Description</span></a></li>
-			  			<li class="last"><a href="location_single.html"><i class="fa fa-sort-desc icon_1"> </i><span class="icon_text">View similar Jobs</span></a></li>
+		  		    	<li><a href="location_single.php"><i class="fa fa-envelope-o icon_1"> </i><span class="icon_text">Email this Job</span></a></li>
+			  			<li><a href="location_single.php"><i class="fa fa-eye icon_1"> </i><span class="icon_text">View full Job Description</span></a></li>
+			  			<li class="last"><a href="location_single.php"><i class="fa fa-sort-desc icon_1"> </i><span class="icon_text">View similar Jobs</span></a></li>
 					 </ul>
 				   </div>
 			    </div>
@@ -245,16 +245,16 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 			 </div>
 			 <div class="tab_grid">
 			    <div class="col-sm-3 loc_1">
-			    	<a href="location_single.html"><img data-src="holder.js/100%x180" alt="100%x180" src="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9InllcyI/PjxzdmcgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iMTcxIiBoZWlnaHQ9IjE4MCIgdmlld0JveD0iMCAwIDE3MSAxODAiIHByZXNlcnZlQXNwZWN0UmF0aW89Im5vbmUiPjwhLS0KU291cmNlIFVSTDogaG9sZGVyLmpzLzEwMCV4MTgwCkNyZWF0ZWQgd2l0aCBIb2xkZXIuanMgMi42LjAuCkxlYXJuIG1vcmUgYXQgaHR0cDovL2hvbGRlcmpzLmNvbQooYykgMjAxMi0yMDE1IEl2YW4gTWFsb3BpbnNreSAtIGh0dHA6Ly9pbXNreS5jbwotLT48ZGVmcz48c3R5bGUgdHlwZT0idGV4dC9jc3MiPjwhW0NEQVRBWyNob2xkZXJfMTRlZmNkYWRhYjQgdGV4dCB7IGZpbGw6I0FBQUFBQTtmb250LXdlaWdodDpib2xkO2ZvbnQtZmFtaWx5OkFyaWFsLCBIZWx2ZXRpY2EsIE9wZW4gU2Fucywgc2Fucy1zZXJpZiwgbW9ub3NwYWNlO2ZvbnQtc2l6ZToxMHB0IH0gXV0+PC9zdHlsZT48L2RlZnM+PGcgaWQ9ImhvbGRlcl8xNGVmY2RhZGFiNCI+PHJlY3Qgd2lkdGg9IjE3MSIgaGVpZ2h0PSIxODAiIGZpbGw9IiNFRUVFRUUiLz48Zz48dGV4dCB4PSI2MSIgeT0iOTQuNSI+MTcxeDE4MDwvdGV4dD48L2c+PC9nPjwvc3ZnPg==" data-holder-rendered="true" style="height: 140px; width: 100%; display: block;"></a>
+			    	<a href="location_single.php"><img data-src="holder.js/100%x180" alt="100%x180" src="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9InllcyI/PjxzdmcgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iMTcxIiBoZWlnaHQ9IjE4MCIgdmlld0JveD0iMCAwIDE3MSAxODAiIHByZXNlcnZlQXNwZWN0UmF0aW89Im5vbmUiPjwhLS0KU291cmNlIFVSTDogaG9sZGVyLmpzLzEwMCV4MTgwCkNyZWF0ZWQgd2l0aCBIb2xkZXIuanMgMi42LjAuCkxlYXJuIG1vcmUgYXQgaHR0cDovL2hvbGRlcmpzLmNvbQooYykgMjAxMi0yMDE1IEl2YW4gTWFsb3BpbnNreSAtIGh0dHA6Ly9pbXNreS5jbwotLT48ZGVmcz48c3R5bGUgdHlwZT0idGV4dC9jc3MiPjwhW0NEQVRBWyNob2xkZXJfMTRlZmNkYWRhYjQgdGV4dCB7IGZpbGw6I0FBQUFBQTtmb250LXdlaWdodDpib2xkO2ZvbnQtZmFtaWx5OkFyaWFsLCBIZWx2ZXRpY2EsIE9wZW4gU2Fucywgc2Fucy1zZXJpZiwgbW9ub3NwYWNlO2ZvbnQtc2l6ZToxMHB0IH0gXV0+PC9zdHlsZT48L2RlZnM+PGcgaWQ9ImhvbGRlcl8xNGVmY2RhZGFiNCI+PHJlY3Qgd2lkdGg9IjE3MSIgaGVpZ2h0PSIxODAiIGZpbGw9IiNFRUVFRUUiLz48Zz48dGV4dCB4PSI2MSIgeT0iOTQuNSI+MTcxeDE4MDwvdGV4dD48L2c+PC9nPjwvc3ZnPg==" data-holder-rendered="true" style="height: 140px; width: 100%; display: block;"></a>
 			    </div>
 			    <div class="col-sm-9">
 			       <div class="location_box1">
-			    	 <h6><a href="location_single.html">Icorrupti quos </a><span class="m_1">Posted 5 hours ago</span></h6>
+			    	 <h6><a href="location_single.php">Icorrupti quos </a><span class="m_1">Posted 5 hours ago</span></h6>
 			    	 <p><span class="m_2">Location : </span>On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure</p>
 			    	 <ul class="links_bottom">
-		  		    	<li><a href="location_single.html"><i class="fa fa-envelope-o icon_1"> </i><span class="icon_text">Email this Job</span></a></li>
-			  			<li><a href="location_single.html"><i class="fa fa-eye icon_1"> </i><span class="icon_text">View full Job Description</span></a></li>
-			  			<li class="last"><a href="location_single.html"><i class="fa fa-sort-desc icon_1"> </i><span class="icon_text">View similar Jobs</span></a></li>
+		  		    	<li><a href="location_single.php"><i class="fa fa-envelope-o icon_1"> </i><span class="icon_text">Email this Job</span></a></li>
+			  			<li><a href="location_single.php"><i class="fa fa-eye icon_1"> </i><span class="icon_text">View full Job Description</span></a></li>
+			  			<li class="last"><a href="location_single.php"><i class="fa fa-sort-desc icon_1"> </i><span class="icon_text">View similar Jobs</span></a></li>
 					 </ul>
 				   </div>
 			    </div>
@@ -262,16 +262,16 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 			 </div>
 			 <div class="tab_grid">
 			    <div class="col-sm-3 loc_1">
-			    	<a href="location_single.html"><img data-src="holder.js/100%x180" alt="100%x180" src="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9InllcyI/PjxzdmcgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iMTcxIiBoZWlnaHQ9IjE4MCIgdmlld0JveD0iMCAwIDE3MSAxODAiIHByZXNlcnZlQXNwZWN0UmF0aW89Im5vbmUiPjwhLS0KU291cmNlIFVSTDogaG9sZGVyLmpzLzEwMCV4MTgwCkNyZWF0ZWQgd2l0aCBIb2xkZXIuanMgMi42LjAuCkxlYXJuIG1vcmUgYXQgaHR0cDovL2hvbGRlcmpzLmNvbQooYykgMjAxMi0yMDE1IEl2YW4gTWFsb3BpbnNreSAtIGh0dHA6Ly9pbXNreS5jbwotLT48ZGVmcz48c3R5bGUgdHlwZT0idGV4dC9jc3MiPjwhW0NEQVRBWyNob2xkZXJfMTRlZmNkYWRhYjQgdGV4dCB7IGZpbGw6I0FBQUFBQTtmb250LXdlaWdodDpib2xkO2ZvbnQtZmFtaWx5OkFyaWFsLCBIZWx2ZXRpY2EsIE9wZW4gU2Fucywgc2Fucy1zZXJpZiwgbW9ub3NwYWNlO2ZvbnQtc2l6ZToxMHB0IH0gXV0+PC9zdHlsZT48L2RlZnM+PGcgaWQ9ImhvbGRlcl8xNGVmY2RhZGFiNCI+PHJlY3Qgd2lkdGg9IjE3MSIgaGVpZ2h0PSIxODAiIGZpbGw9IiNFRUVFRUUiLz48Zz48dGV4dCB4PSI2MSIgeT0iOTQuNSI+MTcxeDE4MDwvdGV4dD48L2c+PC9nPjwvc3ZnPg==" data-holder-rendered="true" style="height: 140px; width: 100%; display: block;"></a>
+			    	<a href="location_single.php"><img data-src="holder.js/100%x180" alt="100%x180" src="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9InllcyI/PjxzdmcgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iMTcxIiBoZWlnaHQ9IjE4MCIgdmlld0JveD0iMCAwIDE3MSAxODAiIHByZXNlcnZlQXNwZWN0UmF0aW89Im5vbmUiPjwhLS0KU291cmNlIFVSTDogaG9sZGVyLmpzLzEwMCV4MTgwCkNyZWF0ZWQgd2l0aCBIb2xkZXIuanMgMi42LjAuCkxlYXJuIG1vcmUgYXQgaHR0cDovL2hvbGRlcmpzLmNvbQooYykgMjAxMi0yMDE1IEl2YW4gTWFsb3BpbnNreSAtIGh0dHA6Ly9pbXNreS5jbwotLT48ZGVmcz48c3R5bGUgdHlwZT0idGV4dC9jc3MiPjwhW0NEQVRBWyNob2xkZXJfMTRlZmNkYWRhYjQgdGV4dCB7IGZpbGw6I0FBQUFBQTtmb250LXdlaWdodDpib2xkO2ZvbnQtZmFtaWx5OkFyaWFsLCBIZWx2ZXRpY2EsIE9wZW4gU2Fucywgc2Fucy1zZXJpZiwgbW9ub3NwYWNlO2ZvbnQtc2l6ZToxMHB0IH0gXV0+PC9zdHlsZT48L2RlZnM+PGcgaWQ9ImhvbGRlcl8xNGVmY2RhZGFiNCI+PHJlY3Qgd2lkdGg9IjE3MSIgaGVpZ2h0PSIxODAiIGZpbGw9IiNFRUVFRUUiLz48Zz48dGV4dCB4PSI2MSIgeT0iOTQuNSI+MTcxeDE4MDwvdGV4dD48L2c+PC9nPjwvc3ZnPg==" data-holder-rendered="true" style="height: 140px; width: 100%; display: block;"></a>
 			    </div>
 			    <div class="col-sm-9">
 			       <div class="location_box1">
-			    	 <h6><a href="location_single.html">therefore always </a><span class="m_1">Posted 5 hours ago</span></h6>
+			    	 <h6><a href="location_single.php">therefore always </a><span class="m_1">Posted 5 hours ago</span></h6>
 			    	 <p><span class="m_2">Location : </span>On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure</p>
 			    	 <ul class="links_bottom">
-		  		    	<li><a href="location_single.html"><i class="fa fa-envelope-o icon_1"> </i><span class="icon_text">Email this Job</span></a></li>
-			  			<li><a href="location_single.html"><i class="fa fa-eye icon_1"> </i><span class="icon_text">View full Job Description</span></a></li>
-			  			<li class="last"><a href="location_single.html"><i class="fa fa-sort-desc icon_1"> </i><span class="icon_text">View similar Jobs</span></a></li>
+		  		    	<li><a href="location_single.php"><i class="fa fa-envelope-o icon_1"> </i><span class="icon_text">Email this Job</span></a></li>
+			  			<li><a href="location_single.php"><i class="fa fa-eye icon_1"> </i><span class="icon_text">View full Job Description</span></a></li>
+			  			<li class="last"><a href="location_single.php"><i class="fa fa-sort-desc icon_1"> </i><span class="icon_text">View similar Jobs</span></a></li>
 					 </ul>
 				   </div>
 			    </div>
@@ -279,16 +279,16 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 			 </div>
 			 <div class="tab_grid">
 			    <div class="col-sm-3 loc_1">
-			    	<a href="location_single.html"><img data-src="holder.js/100%x180" alt="100%x180" src="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9InllcyI/PjxzdmcgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iMTcxIiBoZWlnaHQ9IjE4MCIgdmlld0JveD0iMCAwIDE3MSAxODAiIHByZXNlcnZlQXNwZWN0UmF0aW89Im5vbmUiPjwhLS0KU291cmNlIFVSTDogaG9sZGVyLmpzLzEwMCV4MTgwCkNyZWF0ZWQgd2l0aCBIb2xkZXIuanMgMi42LjAuCkxlYXJuIG1vcmUgYXQgaHR0cDovL2hvbGRlcmpzLmNvbQooYykgMjAxMi0yMDE1IEl2YW4gTWFsb3BpbnNreSAtIGh0dHA6Ly9pbXNreS5jbwotLT48ZGVmcz48c3R5bGUgdHlwZT0idGV4dC9jc3MiPjwhW0NEQVRBWyNob2xkZXJfMTRlZmNkYWRhYjQgdGV4dCB7IGZpbGw6I0FBQUFBQTtmb250LXdlaWdodDpib2xkO2ZvbnQtZmFtaWx5OkFyaWFsLCBIZWx2ZXRpY2EsIE9wZW4gU2Fucywgc2Fucy1zZXJpZiwgbW9ub3NwYWNlO2ZvbnQtc2l6ZToxMHB0IH0gXV0+PC9zdHlsZT48L2RlZnM+PGcgaWQ9ImhvbGRlcl8xNGVmY2RhZGFiNCI+PHJlY3Qgd2lkdGg9IjE3MSIgaGVpZ2h0PSIxODAiIGZpbGw9IiNFRUVFRUUiLz48Zz48dGV4dCB4PSI2MSIgeT0iOTQuNSI+MTcxeDE4MDwvdGV4dD48L2c+PC9nPjwvc3ZnPg==" data-holder-rendered="true" style="height: 140px; width: 100%; display: block;"></a>
+			    	<a href="location_single.php"><img data-src="holder.js/100%x180" alt="100%x180" src="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9InllcyI/PjxzdmcgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iMTcxIiBoZWlnaHQ9IjE4MCIgdmlld0JveD0iMCAwIDE3MSAxODAiIHByZXNlcnZlQXNwZWN0UmF0aW89Im5vbmUiPjwhLS0KU291cmNlIFVSTDogaG9sZGVyLmpzLzEwMCV4MTgwCkNyZWF0ZWQgd2l0aCBIb2xkZXIuanMgMi42LjAuCkxlYXJuIG1vcmUgYXQgaHR0cDovL2hvbGRlcmpzLmNvbQooYykgMjAxMi0yMDE1IEl2YW4gTWFsb3BpbnNreSAtIGh0dHA6Ly9pbXNreS5jbwotLT48ZGVmcz48c3R5bGUgdHlwZT0idGV4dC9jc3MiPjwhW0NEQVRBWyNob2xkZXJfMTRlZmNkYWRhYjQgdGV4dCB7IGZpbGw6I0FBQUFBQTtmb250LXdlaWdodDpib2xkO2ZvbnQtZmFtaWx5OkFyaWFsLCBIZWx2ZXRpY2EsIE9wZW4gU2Fucywgc2Fucy1zZXJpZiwgbW9ub3NwYWNlO2ZvbnQtc2l6ZToxMHB0IH0gXV0+PC9zdHlsZT48L2RlZnM+PGcgaWQ9ImhvbGRlcl8xNGVmY2RhZGFiNCI+PHJlY3Qgd2lkdGg9IjE3MSIgaGVpZ2h0PSIxODAiIGZpbGw9IiNFRUVFRUUiLz48Zz48dGV4dCB4PSI2MSIgeT0iOTQuNSI+MTcxeDE4MDwvdGV4dD48L2c+PC9nPjwvc3ZnPg==" data-holder-rendered="true" style="height: 140px; width: 100%; display: block;"></a>
 			    </div>
 			    <div class="col-sm-9">
 			       <div class="location_box1">
-			    	 <h6><a href="location_single.html">you need to be </a><span class="m_1">Posted 5 hours ago</span></h6>
+			    	 <h6><a href="location_single.php">you need to be </a><span class="m_1">Posted 5 hours ago</span></h6>
 			    	 <p><span class="m_2">Location : </span>On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure</p>
 			    	 <ul class="links_bottom">
-		  		    	<li><a href="location_single.html"><i class="fa fa-envelope-o icon_1"> </i><span class="icon_text">Email this Job</span></a></li>
-			  			<li><a href="location_single.html"><i class="fa fa-eye icon_1"> </i><span class="icon_text">View full Job Description</span></a></li>
-			  			<li class="last"><a href="location_single.html"><i class="fa fa-sort-desc icon_1"> </i><span class="icon_text">View similar Jobs</span></a></li>
+		  		    	<li><a href="location_single.php"><i class="fa fa-envelope-o icon_1"> </i><span class="icon_text">Email this Job</span></a></li>
+			  			<li><a href="location_single.php"><i class="fa fa-eye icon_1"> </i><span class="icon_text">View full Job Description</span></a></li>
+			  			<li class="last"><a href="location_single.php"><i class="fa fa-sort-desc icon_1"> </i><span class="icon_text">View similar Jobs</span></a></li>
 					 </ul>
 				   </div>
 			    </div>
@@ -296,16 +296,16 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 			 </div>
 			 <div class="tab_grid">
 			    <div class="col-sm-3 loc_1">
-			    	<a href="location_single.html"><img data-src="holder.js/100%x180" alt="100%x180" src="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9InllcyI/PjxzdmcgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iMTcxIiBoZWlnaHQ9IjE4MCIgdmlld0JveD0iMCAwIDE3MSAxODAiIHByZXNlcnZlQXNwZWN0UmF0aW89Im5vbmUiPjwhLS0KU291cmNlIFVSTDogaG9sZGVyLmpzLzEwMCV4MTgwCkNyZWF0ZWQgd2l0aCBIb2xkZXIuanMgMi42LjAuCkxlYXJuIG1vcmUgYXQgaHR0cDovL2hvbGRlcmpzLmNvbQooYykgMjAxMi0yMDE1IEl2YW4gTWFsb3BpbnNreSAtIGh0dHA6Ly9pbXNreS5jbwotLT48ZGVmcz48c3R5bGUgdHlwZT0idGV4dC9jc3MiPjwhW0NEQVRBWyNob2xkZXJfMTRlZmNkYWRhYjQgdGV4dCB7IGZpbGw6I0FBQUFBQTtmb250LXdlaWdodDpib2xkO2ZvbnQtZmFtaWx5OkFyaWFsLCBIZWx2ZXRpY2EsIE9wZW4gU2Fucywgc2Fucy1zZXJpZiwgbW9ub3NwYWNlO2ZvbnQtc2l6ZToxMHB0IH0gXV0+PC9zdHlsZT48L2RlZnM+PGcgaWQ9ImhvbGRlcl8xNGVmY2RhZGFiNCI+PHJlY3Qgd2lkdGg9IjE3MSIgaGVpZ2h0PSIxODAiIGZpbGw9IiNFRUVFRUUiLz48Zz48dGV4dCB4PSI2MSIgeT0iOTQuNSI+MTcxeDE4MDwvdGV4dD48L2c+PC9nPjwvc3ZnPg==" data-holder-rendered="true" style="height: 140px; width: 100%; display: block;"></a>
+			    	<a href="location_single.php"><img data-src="holder.js/100%x180" alt="100%x180" src="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9InllcyI/PjxzdmcgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iMTcxIiBoZWlnaHQ9IjE4MCIgdmlld0JveD0iMCAwIDE3MSAxODAiIHByZXNlcnZlQXNwZWN0UmF0aW89Im5vbmUiPjwhLS0KU291cmNlIFVSTDogaG9sZGVyLmpzLzEwMCV4MTgwCkNyZWF0ZWQgd2l0aCBIb2xkZXIuanMgMi42LjAuCkxlYXJuIG1vcmUgYXQgaHR0cDovL2hvbGRlcmpzLmNvbQooYykgMjAxMi0yMDE1IEl2YW4gTWFsb3BpbnNreSAtIGh0dHA6Ly9pbXNreS5jbwotLT48ZGVmcz48c3R5bGUgdHlwZT0idGV4dC9jc3MiPjwhW0NEQVRBWyNob2xkZXJfMTRlZmNkYWRhYjQgdGV4dCB7IGZpbGw6I0FBQUFBQTtmb250LXdlaWdodDpib2xkO2ZvbnQtZmFtaWx5OkFyaWFsLCBIZWx2ZXRpY2EsIE9wZW4gU2Fucywgc2Fucy1zZXJpZiwgbW9ub3NwYWNlO2ZvbnQtc2l6ZToxMHB0IH0gXV0+PC9zdHlsZT48L2RlZnM+PGcgaWQ9ImhvbGRlcl8xNGVmY2RhZGFiNCI+PHJlY3Qgd2lkdGg9IjE3MSIgaGVpZ2h0PSIxODAiIGZpbGw9IiNFRUVFRUUiLz48Zz48dGV4dCB4PSI2MSIgeT0iOTQuNSI+MTcxeDE4MDwvdGV4dD48L2c+PC9nPjwvc3ZnPg==" data-holder-rendered="true" style="height: 140px; width: 100%; display: block;"></a>
 			    </div>
 			    <div class="col-sm-9">
 			       <div class="location_box1">
 			    	 <h6><a href="#">praising pain </a><span class="m_1">Posted 5 hours ago</span></h6>
 			    	 <p><span class="m_2">Location : </span>On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure</p>
 			    	 <ul class="links_bottom">
-		  		    	<li><a href="location_single.html"><i class="fa fa-envelope-o icon_1"> </i><span class="icon_text">Email this Job</span></a></li>
-			  			<li><a href="location_single.html"><i class="fa fa-eye icon_1"> </i><span class="icon_text">View full Job Description</span></a></li>
-			  			<li class="last"><a href="location_single.html"><i class="fa fa-sort-desc icon_1"> </i><span class="icon_text">View similar Jobs</span></a></li>
+		  		    	<li><a href="location_single.php"><i class="fa fa-envelope-o icon_1"> </i><span class="icon_text">Email this Job</span></a></li>
+			  			<li><a href="location_single.php"><i class="fa fa-eye icon_1"> </i><span class="icon_text">View full Job Description</span></a></li>
+			  			<li class="last"><a href="location_single.php"><i class="fa fa-sort-desc icon_1"> </i><span class="icon_text">View similar Jobs</span></a></li>
 					 </ul>
 				   </div>
 			    </div>
@@ -313,16 +313,16 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 			 </div>
 			 <div class="tab_grid">
 			    <div class="col-sm-3 loc_1">
-			    	<a href="location_single.html"><img data-src="holder.js/100%x180" alt="100%x180" src="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9InllcyI/PjxzdmcgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iMTcxIiBoZWlnaHQ9IjE4MCIgdmlld0JveD0iMCAwIDE3MSAxODAiIHByZXNlcnZlQXNwZWN0UmF0aW89Im5vbmUiPjwhLS0KU291cmNlIFVSTDogaG9sZGVyLmpzLzEwMCV4MTgwCkNyZWF0ZWQgd2l0aCBIb2xkZXIuanMgMi42LjAuCkxlYXJuIG1vcmUgYXQgaHR0cDovL2hvbGRlcmpzLmNvbQooYykgMjAxMi0yMDE1IEl2YW4gTWFsb3BpbnNreSAtIGh0dHA6Ly9pbXNreS5jbwotLT48ZGVmcz48c3R5bGUgdHlwZT0idGV4dC9jc3MiPjwhW0NEQVRBWyNob2xkZXJfMTRlZmNkYWRhYjQgdGV4dCB7IGZpbGw6I0FBQUFBQTtmb250LXdlaWdodDpib2xkO2ZvbnQtZmFtaWx5OkFyaWFsLCBIZWx2ZXRpY2EsIE9wZW4gU2Fucywgc2Fucy1zZXJpZiwgbW9ub3NwYWNlO2ZvbnQtc2l6ZToxMHB0IH0gXV0+PC9zdHlsZT48L2RlZnM+PGcgaWQ9ImhvbGRlcl8xNGVmY2RhZGFiNCI+PHJlY3Qgd2lkdGg9IjE3MSIgaGVpZ2h0PSIxODAiIGZpbGw9IiNFRUVFRUUiLz48Zz48dGV4dCB4PSI2MSIgeT0iOTQuNSI+MTcxeDE4MDwvdGV4dD48L2c+PC9nPjwvc3ZnPg==" data-holder-rendered="true" style="height: 140px; width: 100%; display: block;"></a>
+			    	<a href="location_single.php"><img data-src="holder.js/100%x180" alt="100%x180" src="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9InllcyI/PjxzdmcgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iMTcxIiBoZWlnaHQ9IjE4MCIgdmlld0JveD0iMCAwIDE3MSAxODAiIHByZXNlcnZlQXNwZWN0UmF0aW89Im5vbmUiPjwhLS0KU291cmNlIFVSTDogaG9sZGVyLmpzLzEwMCV4MTgwCkNyZWF0ZWQgd2l0aCBIb2xkZXIuanMgMi42LjAuCkxlYXJuIG1vcmUgYXQgaHR0cDovL2hvbGRlcmpzLmNvbQooYykgMjAxMi0yMDE1IEl2YW4gTWFsb3BpbnNreSAtIGh0dHA6Ly9pbXNreS5jbwotLT48ZGVmcz48c3R5bGUgdHlwZT0idGV4dC9jc3MiPjwhW0NEQVRBWyNob2xkZXJfMTRlZmNkYWRhYjQgdGV4dCB7IGZpbGw6I0FBQUFBQTtmb250LXdlaWdodDpib2xkO2ZvbnQtZmFtaWx5OkFyaWFsLCBIZWx2ZXRpY2EsIE9wZW4gU2Fucywgc2Fucy1zZXJpZiwgbW9ub3NwYWNlO2ZvbnQtc2l6ZToxMHB0IH0gXV0+PC9zdHlsZT48L2RlZnM+PGcgaWQ9ImhvbGRlcl8xNGVmY2RhZGFiNCI+PHJlY3Qgd2lkdGg9IjE3MSIgaGVpZ2h0PSIxODAiIGZpbGw9IiNFRUVFRUUiLz48Zz48dGV4dCB4PSI2MSIgeT0iOTQuNSI+MTcxeDE4MDwvdGV4dD48L2c+PC9nPjwvc3ZnPg==" data-holder-rendered="true" style="height: 140px; width: 100%; display: block;"></a>
 			    </div>
 			    <div class="col-sm-9">
 			       <div class="location_box1">
 			    	 <h6><a href="#"> blame belongs  </a><span class="m_1">Posted 5 hours ago</span></h6>
 			    	 <p><span class="m_2">Location : </span>On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure</p>
 			    	 <ul class="links_bottom">
-		  		    	<li><a href="location_single.html"><i class="fa fa-envelope-o icon_1"> </i><span class="icon_text">Email this Job</span></a></li>
-			  			<li><a href="location_single.html"><i class="fa fa-eye icon_1"> </i><span class="icon_text">View full Job Description</span></a></li>
-			  			<li class="last"><a href="location_single.html"><i class="fa fa-sort-desc icon_1"> </i><span class="icon_text">View similar Jobs</span></a></li>
+		  		    	<li><a href="location_single.php"><i class="fa fa-envelope-o icon_1"> </i><span class="icon_text">Email this Job</span></a></li>
+			  			<li><a href="location_single.php"><i class="fa fa-eye icon_1"> </i><span class="icon_text">View full Job Description</span></a></li>
+			  			<li class="last"><a href="location_single.php"><i class="fa fa-sort-desc icon_1"> </i><span class="icon_text">View similar Jobs</span></a></li>
 					 </ul>
 				   </div>
 			    </div>
@@ -330,16 +330,16 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 			 </div>
 			 <div class="tab_grid">
 			    <div class="col-sm-3 loc_1">
-			    	<a href="location_single.html"><img data-src="holder.js/100%x180" alt="100%x180" src="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9InllcyI/PjxzdmcgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iMTcxIiBoZWlnaHQ9IjE4MCIgdmlld0JveD0iMCAwIDE3MSAxODAiIHByZXNlcnZlQXNwZWN0UmF0aW89Im5vbmUiPjwhLS0KU291cmNlIFVSTDogaG9sZGVyLmpzLzEwMCV4MTgwCkNyZWF0ZWQgd2l0aCBIb2xkZXIuanMgMi42LjAuCkxlYXJuIG1vcmUgYXQgaHR0cDovL2hvbGRlcmpzLmNvbQooYykgMjAxMi0yMDE1IEl2YW4gTWFsb3BpbnNreSAtIGh0dHA6Ly9pbXNreS5jbwotLT48ZGVmcz48c3R5bGUgdHlwZT0idGV4dC9jc3MiPjwhW0NEQVRBWyNob2xkZXJfMTRlZmNkYWRhYjQgdGV4dCB7IGZpbGw6I0FBQUFBQTtmb250LXdlaWdodDpib2xkO2ZvbnQtZmFtaWx5OkFyaWFsLCBIZWx2ZXRpY2EsIE9wZW4gU2Fucywgc2Fucy1zZXJpZiwgbW9ub3NwYWNlO2ZvbnQtc2l6ZToxMHB0IH0gXV0+PC9zdHlsZT48L2RlZnM+PGcgaWQ9ImhvbGRlcl8xNGVmY2RhZGFiNCI+PHJlY3Qgd2lkdGg9IjE3MSIgaGVpZ2h0PSIxODAiIGZpbGw9IiNFRUVFRUUiLz48Zz48dGV4dCB4PSI2MSIgeT0iOTQuNSI+MTcxeDE4MDwvdGV4dD48L2c+PC9nPjwvc3ZnPg==" data-holder-rendered="true" style="height: 140px; width: 100%; display: block;"></a>
+			    	<a href="location_single.php"><img data-src="holder.js/100%x180" alt="100%x180" src="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9InllcyI/PjxzdmcgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iMTcxIiBoZWlnaHQ9IjE4MCIgdmlld0JveD0iMCAwIDE3MSAxODAiIHByZXNlcnZlQXNwZWN0UmF0aW89Im5vbmUiPjwhLS0KU291cmNlIFVSTDogaG9sZGVyLmpzLzEwMCV4MTgwCkNyZWF0ZWQgd2l0aCBIb2xkZXIuanMgMi42LjAuCkxlYXJuIG1vcmUgYXQgaHR0cDovL2hvbGRlcmpzLmNvbQooYykgMjAxMi0yMDE1IEl2YW4gTWFsb3BpbnNreSAtIGh0dHA6Ly9pbXNreS5jbwotLT48ZGVmcz48c3R5bGUgdHlwZT0idGV4dC9jc3MiPjwhW0NEQVRBWyNob2xkZXJfMTRlZmNkYWRhYjQgdGV4dCB7IGZpbGw6I0FBQUFBQTtmb250LXdlaWdodDpib2xkO2ZvbnQtZmFtaWx5OkFyaWFsLCBIZWx2ZXRpY2EsIE9wZW4gU2Fucywgc2Fucy1zZXJpZiwgbW9ub3NwYWNlO2ZvbnQtc2l6ZToxMHB0IH0gXV0+PC9zdHlsZT48L2RlZnM+PGcgaWQ9ImhvbGRlcl8xNGVmY2RhZGFiNCI+PHJlY3Qgd2lkdGg9IjE3MSIgaGVpZ2h0PSIxODAiIGZpbGw9IiNFRUVFRUUiLz48Zz48dGV4dCB4PSI2MSIgeT0iOTQuNSI+MTcxeDE4MDwvdGV4dD48L2c+PC9nPjwvc3ZnPg==" data-holder-rendered="true" style="height: 140px; width: 100%; display: block;"></a>
 			    </div>
 			    <div class="col-sm-9">
 			       <div class="location_box1">
-			    	 <h6><a href="location_single.html">IT Recruiter </a><span class="m_1">Posted 5 hours ago</span></h6>
+			    	 <h6><a href="location_single.php">IT Recruiter </a><span class="m_1">Posted 5 hours ago</span></h6>
 			    	 <p><span class="m_2">Location : </span>On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure</p>
 			    	 <ul class="links_bottom">
-		  		    	<li><a href="location_single.html"><i class="fa fa-envelope-o icon_1"> </i><span class="icon_text">Email this Job</span></a></li>
-			  			<li><a href="location_single.html"><i class="fa fa-eye icon_1"> </i><span class="icon_text">View full Job Description</span></a></li>
-			  			<li class="last"><a href="location_single.html"><i class="fa fa-sort-desc icon_1"> </i><span class="icon_text">View similar Jobs</span></a></li>
+		  		    	<li><a href="location_single.php"><i class="fa fa-envelope-o icon_1"> </i><span class="icon_text">Email this Job</span></a></li>
+			  			<li><a href="location_single.php"><i class="fa fa-eye icon_1"> </i><span class="icon_text">View full Job Description</span></a></li>
+			  			<li class="last"><a href="location_single.php"><i class="fa fa-sort-desc icon_1"> </i><span class="icon_text">View similar Jobs</span></a></li>
 					 </ul>
 				   </div>
 			    </div>
@@ -347,16 +347,16 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 			 </div>
 			 <div class="tab_grid">
 			    <div class="col-sm-3 loc_1">
-			    	<a href="location_single.html"><img data-src="holder.js/100%x180" alt="100%x180" src="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9InllcyI/PjxzdmcgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iMTcxIiBoZWlnaHQ9IjE4MCIgdmlld0JveD0iMCAwIDE3MSAxODAiIHByZXNlcnZlQXNwZWN0UmF0aW89Im5vbmUiPjwhLS0KU291cmNlIFVSTDogaG9sZGVyLmpzLzEwMCV4MTgwCkNyZWF0ZWQgd2l0aCBIb2xkZXIuanMgMi42LjAuCkxlYXJuIG1vcmUgYXQgaHR0cDovL2hvbGRlcmpzLmNvbQooYykgMjAxMi0yMDE1IEl2YW4gTWFsb3BpbnNreSAtIGh0dHA6Ly9pbXNreS5jbwotLT48ZGVmcz48c3R5bGUgdHlwZT0idGV4dC9jc3MiPjwhW0NEQVRBWyNob2xkZXJfMTRlZmNkYWRhYjQgdGV4dCB7IGZpbGw6I0FBQUFBQTtmb250LXdlaWdodDpib2xkO2ZvbnQtZmFtaWx5OkFyaWFsLCBIZWx2ZXRpY2EsIE9wZW4gU2Fucywgc2Fucy1zZXJpZiwgbW9ub3NwYWNlO2ZvbnQtc2l6ZToxMHB0IH0gXV0+PC9zdHlsZT48L2RlZnM+PGcgaWQ9ImhvbGRlcl8xNGVmY2RhZGFiNCI+PHJlY3Qgd2lkdGg9IjE3MSIgaGVpZ2h0PSIxODAiIGZpbGw9IiNFRUVFRUUiLz48Zz48dGV4dCB4PSI2MSIgeT0iOTQuNSI+MTcxeDE4MDwvdGV4dD48L2c+PC9nPjwvc3ZnPg==" data-holder-rendered="true" style="height: 140px; width: 100%; display: block;"></a>
+			    	<a href="location_single.php"><img data-src="holder.js/100%x180" alt="100%x180" src="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9InllcyI/PjxzdmcgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iMTcxIiBoZWlnaHQ9IjE4MCIgdmlld0JveD0iMCAwIDE3MSAxODAiIHByZXNlcnZlQXNwZWN0UmF0aW89Im5vbmUiPjwhLS0KU291cmNlIFVSTDogaG9sZGVyLmpzLzEwMCV4MTgwCkNyZWF0ZWQgd2l0aCBIb2xkZXIuanMgMi42LjAuCkxlYXJuIG1vcmUgYXQgaHR0cDovL2hvbGRlcmpzLmNvbQooYykgMjAxMi0yMDE1IEl2YW4gTWFsb3BpbnNreSAtIGh0dHA6Ly9pbXNreS5jbwotLT48ZGVmcz48c3R5bGUgdHlwZT0idGV4dC9jc3MiPjwhW0NEQVRBWyNob2xkZXJfMTRlZmNkYWRhYjQgdGV4dCB7IGZpbGw6I0FBQUFBQTtmb250LXdlaWdodDpib2xkO2ZvbnQtZmFtaWx5OkFyaWFsLCBIZWx2ZXRpY2EsIE9wZW4gU2Fucywgc2Fucy1zZXJpZiwgbW9ub3NwYWNlO2ZvbnQtc2l6ZToxMHB0IH0gXV0+PC9zdHlsZT48L2RlZnM+PGcgaWQ9ImhvbGRlcl8xNGVmY2RhZGFiNCI+PHJlY3Qgd2lkdGg9IjE3MSIgaGVpZ2h0PSIxODAiIGZpbGw9IiNFRUVFRUUiLz48Zz48dGV4dCB4PSI2MSIgeT0iOTQuNSI+MTcxeDE4MDwvdGV4dD48L2c+PC9nPjwvc3ZnPg==" data-holder-rendered="true" style="height: 140px; width: 100%; display: block;"></a>
 			    </div>
 			    <div class="col-sm-9">
 			       <div class="location_box1">
-			    	 <h6><a href="location_single.html"> right to find </a><span class="m_1">Posted 5 hours ago</span></h6>
+			    	 <h6><a href="location_single.php"> right to find </a><span class="m_1">Posted 5 hours ago</span></h6>
 			    	 <p><span class="m_2">Location : </span>On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure</p>
 			    	 <ul class="links_bottom">
-		  		    	<li><a href="location_single.html"><i class="fa fa-envelope-o icon_1"> </i><span class="icon_text">Email this Job</span></a></li>
-			  			<li><a href="location_single.html"><i class="fa fa-eye icon_1"> </i><span class="icon_text">View full Job Description</span></a></li>
-			  			<li class="last"><a href="location_single.html"><i class="fa fa-sort-desc icon_1"> </i><span class="icon_text">View similar Jobs</span></a></li>
+		  		    	<li><a href="location_single.php"><i class="fa fa-envelope-o icon_1"> </i><span class="icon_text">Email this Job</span></a></li>
+			  			<li><a href="location_single.php"><i class="fa fa-eye icon_1"> </i><span class="icon_text">View full Job Description</span></a></li>
+			  			<li class="last"><a href="location_single.php"><i class="fa fa-sort-desc icon_1"> </i><span class="icon_text">View similar Jobs</span></a></li>
 					 </ul>
 				   </div>
 			    </div>
@@ -366,16 +366,16 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 		  <div role="tabpanel" class="tab-pane fade" id="profile" aria-labelledby="profile-tab">
 		    <div class="tab_grid">
 			    <div class="col-sm-3 loc_1">
-			    	<a href="location_single.html"><img data-src="holder.js/100%x180" alt="100%x180" src="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9InllcyI/PjxzdmcgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iMTcxIiBoZWlnaHQ9IjE4MCIgdmlld0JveD0iMCAwIDE3MSAxODAiIHByZXNlcnZlQXNwZWN0UmF0aW89Im5vbmUiPjwhLS0KU291cmNlIFVSTDogaG9sZGVyLmpzLzEwMCV4MTgwCkNyZWF0ZWQgd2l0aCBIb2xkZXIuanMgMi42LjAuCkxlYXJuIG1vcmUgYXQgaHR0cDovL2hvbGRlcmpzLmNvbQooYykgMjAxMi0yMDE1IEl2YW4gTWFsb3BpbnNreSAtIGh0dHA6Ly9pbXNreS5jbwotLT48ZGVmcz48c3R5bGUgdHlwZT0idGV4dC9jc3MiPjwhW0NEQVRBWyNob2xkZXJfMTRlZmNkYWRhYjQgdGV4dCB7IGZpbGw6I0FBQUFBQTtmb250LXdlaWdodDpib2xkO2ZvbnQtZmFtaWx5OkFyaWFsLCBIZWx2ZXRpY2EsIE9wZW4gU2Fucywgc2Fucy1zZXJpZiwgbW9ub3NwYWNlO2ZvbnQtc2l6ZToxMHB0IH0gXV0+PC9zdHlsZT48L2RlZnM+PGcgaWQ9ImhvbGRlcl8xNGVmY2RhZGFiNCI+PHJlY3Qgd2lkdGg9IjE3MSIgaGVpZ2h0PSIxODAiIGZpbGw9IiNFRUVFRUUiLz48Zz48dGV4dCB4PSI2MSIgeT0iOTQuNSI+MTcxeDE4MDwvdGV4dD48L2c+PC9nPjwvc3ZnPg==" data-holder-rendered="true" style="height: 140px; width: 100%; display: block;"></a>
+			    	<a href="location_single.php"><img data-src="holder.js/100%x180" alt="100%x180" src="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9InllcyI/PjxzdmcgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iMTcxIiBoZWlnaHQ9IjE4MCIgdmlld0JveD0iMCAwIDE3MSAxODAiIHByZXNlcnZlQXNwZWN0UmF0aW89Im5vbmUiPjwhLS0KU291cmNlIFVSTDogaG9sZGVyLmpzLzEwMCV4MTgwCkNyZWF0ZWQgd2l0aCBIb2xkZXIuanMgMi42LjAuCkxlYXJuIG1vcmUgYXQgaHR0cDovL2hvbGRlcmpzLmNvbQooYykgMjAxMi0yMDE1IEl2YW4gTWFsb3BpbnNreSAtIGh0dHA6Ly9pbXNreS5jbwotLT48ZGVmcz48c3R5bGUgdHlwZT0idGV4dC9jc3MiPjwhW0NEQVRBWyNob2xkZXJfMTRlZmNkYWRhYjQgdGV4dCB7IGZpbGw6I0FBQUFBQTtmb250LXdlaWdodDpib2xkO2ZvbnQtZmFtaWx5OkFyaWFsLCBIZWx2ZXRpY2EsIE9wZW4gU2Fucywgc2Fucy1zZXJpZiwgbW9ub3NwYWNlO2ZvbnQtc2l6ZToxMHB0IH0gXV0+PC9zdHlsZT48L2RlZnM+PGcgaWQ9ImhvbGRlcl8xNGVmY2RhZGFiNCI+PHJlY3Qgd2lkdGg9IjE3MSIgaGVpZ2h0PSIxODAiIGZpbGw9IiNFRUVFRUUiLz48Zz48dGV4dCB4PSI2MSIgeT0iOTQuNSI+MTcxeDE4MDwvdGV4dD48L2c+PC9nPjwvc3ZnPg==" data-holder-rendered="true" style="height: 140px; width: 100%; display: block;"></a>
 			    </div>
 			    <div class="col-sm-9">
 			       <div class="location_box1">
-			    	 <h6><a href="location_single.html">dolor repellendus </a><span class="m_1">Posted 5 hours ago</span></h6>
+			    	 <h6><a href="location_single.php">dolor repellendus </a><span class="m_1">Posted 5 hours ago</span></h6>
 			    	 <p><span class="m_2">Location : </span>On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure</p>
 			    	 <ul class="links_bottom">
-		  		    	<li><a href="location_single.html"><i class="fa fa-envelope-o icon_1"> </i><span class="icon_text">Email this Job</span></a></li>
-			  			<li><a href="location_single.html"><i class="fa fa-eye icon_1"> </i><span class="icon_text">View full Job Description</span></a></li>
-			  			<li class="last"><a href="location_single.html"><i class="fa fa-sort-desc icon_1"> </i><span class="icon_text">View similar Jobs</span></a></li>
+		  		    	<li><a href="location_single.php"><i class="fa fa-envelope-o icon_1"> </i><span class="icon_text">Email this Job</span></a></li>
+			  			<li><a href="location_single.php"><i class="fa fa-eye icon_1"> </i><span class="icon_text">View full Job Description</span></a></li>
+			  			<li class="last"><a href="location_single.php"><i class="fa fa-sort-desc icon_1"> </i><span class="icon_text">View similar Jobs</span></a></li>
 					 </ul>
 				   </div>
 			    </div>
@@ -383,16 +383,16 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 			 </div>
 			 <div class="tab_grid">
 			    <div class="col-sm-3 loc_1">
-			    	<a href="location_single.html"><img data-src="holder.js/100%x180" alt="100%x180" src="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9InllcyI/PjxzdmcgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iMTcxIiBoZWlnaHQ9IjE4MCIgdmlld0JveD0iMCAwIDE3MSAxODAiIHByZXNlcnZlQXNwZWN0UmF0aW89Im5vbmUiPjwhLS0KU291cmNlIFVSTDogaG9sZGVyLmpzLzEwMCV4MTgwCkNyZWF0ZWQgd2l0aCBIb2xkZXIuanMgMi42LjAuCkxlYXJuIG1vcmUgYXQgaHR0cDovL2hvbGRlcmpzLmNvbQooYykgMjAxMi0yMDE1IEl2YW4gTWFsb3BpbnNreSAtIGh0dHA6Ly9pbXNreS5jbwotLT48ZGVmcz48c3R5bGUgdHlwZT0idGV4dC9jc3MiPjwhW0NEQVRBWyNob2xkZXJfMTRlZmNkYWRhYjQgdGV4dCB7IGZpbGw6I0FBQUFBQTtmb250LXdlaWdodDpib2xkO2ZvbnQtZmFtaWx5OkFyaWFsLCBIZWx2ZXRpY2EsIE9wZW4gU2Fucywgc2Fucy1zZXJpZiwgbW9ub3NwYWNlO2ZvbnQtc2l6ZToxMHB0IH0gXV0+PC9zdHlsZT48L2RlZnM+PGcgaWQ9ImhvbGRlcl8xNGVmY2RhZGFiNCI+PHJlY3Qgd2lkdGg9IjE3MSIgaGVpZ2h0PSIxODAiIGZpbGw9IiNFRUVFRUUiLz48Zz48dGV4dCB4PSI2MSIgeT0iOTQuNSI+MTcxeDE4MDwvdGV4dD48L2c+PC9nPjwvc3ZnPg==" data-holder-rendered="true" style="height: 140px; width: 100%; display: block;"></a>
+			    	<a href="location_single.php"><img data-src="holder.js/100%x180" alt="100%x180" src="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9InllcyI/PjxzdmcgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iMTcxIiBoZWlnaHQ9IjE4MCIgdmlld0JveD0iMCAwIDE3MSAxODAiIHByZXNlcnZlQXNwZWN0UmF0aW89Im5vbmUiPjwhLS0KU291cmNlIFVSTDogaG9sZGVyLmpzLzEwMCV4MTgwCkNyZWF0ZWQgd2l0aCBIb2xkZXIuanMgMi42LjAuCkxlYXJuIG1vcmUgYXQgaHR0cDovL2hvbGRlcmpzLmNvbQooYykgMjAxMi0yMDE1IEl2YW4gTWFsb3BpbnNreSAtIGh0dHA6Ly9pbXNreS5jbwotLT48ZGVmcz48c3R5bGUgdHlwZT0idGV4dC9jc3MiPjwhW0NEQVRBWyNob2xkZXJfMTRlZmNkYWRhYjQgdGV4dCB7IGZpbGw6I0FBQUFBQTtmb250LXdlaWdodDpib2xkO2ZvbnQtZmFtaWx5OkFyaWFsLCBIZWx2ZXRpY2EsIE9wZW4gU2Fucywgc2Fucy1zZXJpZiwgbW9ub3NwYWNlO2ZvbnQtc2l6ZToxMHB0IH0gXV0+PC9zdHlsZT48L2RlZnM+PGcgaWQ9ImhvbGRlcl8xNGVmY2RhZGFiNCI+PHJlY3Qgd2lkdGg9IjE3MSIgaGVpZ2h0PSIxODAiIGZpbGw9IiNFRUVFRUUiLz48Zz48dGV4dCB4PSI2MSIgeT0iOTQuNSI+MTcxeDE4MDwvdGV4dD48L2c+PC9nPjwvc3ZnPg==" data-holder-rendered="true" style="height: 140px; width: 100%; display: block;"></a>
 			    </div>
 			    <div class="col-sm-9">
 			       <div class="location_box1">
-			    	 <h6><a href="location_single.html"> These cases </a><span class="m_1">Posted 5 hours ago</span></h6>
+			    	 <h6><a href="location_single.php"> These cases </a><span class="m_1">Posted 5 hours ago</span></h6>
 			    	 <p><span class="m_2">Location : </span>On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure</p>
 			    	 <ul class="links_bottom">
-		  		    	<li><a href="location_single.html"><i class="fa fa-envelope-o icon_1"> </i><span class="icon_text">Email this Job</span></a></li>
-			  			<li><a href="location_single.html"><i class="fa fa-eye icon_1"> </i><span class="icon_text">View full Job Description</span></a></li>
-			  			<li class="last"><a href="location_single.html"><i class="fa fa-sort-desc icon_1"> </i><span class="icon_text">View similar Jobs</span></a></li>
+		  		    	<li><a href="location_single.php"><i class="fa fa-envelope-o icon_1"> </i><span class="icon_text">Email this Job</span></a></li>
+			  			<li><a href="location_single.php"><i class="fa fa-eye icon_1"> </i><span class="icon_text">View full Job Description</span></a></li>
+			  			<li class="last"><a href="location_single.php"><i class="fa fa-sort-desc icon_1"> </i><span class="icon_text">View similar Jobs</span></a></li>
 					 </ul>
 				   </div>
 			    </div>
@@ -400,16 +400,16 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 			 </div>
 			 <div class="tab_grid">
 			    <div class="col-sm-3 loc_1">
-			    	<a href="location_single.html"><img data-src="holder.js/100%x180" alt="100%x180" src="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9InllcyI/PjxzdmcgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iMTcxIiBoZWlnaHQ9IjE4MCIgdmlld0JveD0iMCAwIDE3MSAxODAiIHByZXNlcnZlQXNwZWN0UmF0aW89Im5vbmUiPjwhLS0KU291cmNlIFVSTDogaG9sZGVyLmpzLzEwMCV4MTgwCkNyZWF0ZWQgd2l0aCBIb2xkZXIuanMgMi42LjAuCkxlYXJuIG1vcmUgYXQgaHR0cDovL2hvbGRlcmpzLmNvbQooYykgMjAxMi0yMDE1IEl2YW4gTWFsb3BpbnNreSAtIGh0dHA6Ly9pbXNreS5jbwotLT48ZGVmcz48c3R5bGUgdHlwZT0idGV4dC9jc3MiPjwhW0NEQVRBWyNob2xkZXJfMTRlZmNkYWRhYjQgdGV4dCB7IGZpbGw6I0FBQUFBQTtmb250LXdlaWdodDpib2xkO2ZvbnQtZmFtaWx5OkFyaWFsLCBIZWx2ZXRpY2EsIE9wZW4gU2Fucywgc2Fucy1zZXJpZiwgbW9ub3NwYWNlO2ZvbnQtc2l6ZToxMHB0IH0gXV0+PC9zdHlsZT48L2RlZnM+PGcgaWQ9ImhvbGRlcl8xNGVmY2RhZGFiNCI+PHJlY3Qgd2lkdGg9IjE3MSIgaGVpZ2h0PSIxODAiIGZpbGw9IiNFRUVFRUUiLz48Zz48dGV4dCB4PSI2MSIgeT0iOTQuNSI+MTcxeDE4MDwvdGV4dD48L2c+PC9nPjwvc3ZnPg==" data-holder-rendered="true" style="height: 140px; width: 100%; display: block;"></a>
+			    	<a href="location_single.php"><img data-src="holder.js/100%x180" alt="100%x180" src="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9InllcyI/PjxzdmcgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iMTcxIiBoZWlnaHQ9IjE4MCIgdmlld0JveD0iMCAwIDE3MSAxODAiIHByZXNlcnZlQXNwZWN0UmF0aW89Im5vbmUiPjwhLS0KU291cmNlIFVSTDogaG9sZGVyLmpzLzEwMCV4MTgwCkNyZWF0ZWQgd2l0aCBIb2xkZXIuanMgMi42LjAuCkxlYXJuIG1vcmUgYXQgaHR0cDovL2hvbGRlcmpzLmNvbQooYykgMjAxMi0yMDE1IEl2YW4gTWFsb3BpbnNreSAtIGh0dHA6Ly9pbXNreS5jbwotLT48ZGVmcz48c3R5bGUgdHlwZT0idGV4dC9jc3MiPjwhW0NEQVRBWyNob2xkZXJfMTRlZmNkYWRhYjQgdGV4dCB7IGZpbGw6I0FBQUFBQTtmb250LXdlaWdodDpib2xkO2ZvbnQtZmFtaWx5OkFyaWFsLCBIZWx2ZXRpY2EsIE9wZW4gU2Fucywgc2Fucy1zZXJpZiwgbW9ub3NwYWNlO2ZvbnQtc2l6ZToxMHB0IH0gXV0+PC9zdHlsZT48L2RlZnM+PGcgaWQ9ImhvbGRlcl8xNGVmY2RhZGFiNCI+PHJlY3Qgd2lkdGg9IjE3MSIgaGVpZ2h0PSIxODAiIGZpbGw9IiNFRUVFRUUiLz48Zz48dGV4dCB4PSI2MSIgeT0iOTQuNSI+MTcxeDE4MDwvdGV4dD48L2c+PC9nPjwvc3ZnPg==" data-holder-rendered="true" style="height: 140px; width: 100%; display: block;"></a>
 			    </div>
 			    <div class="col-sm-9">
 			       <div class="location_box1">
-			    	 <h6><a href="location_single.html">equal blame  </a><span class="m_1">Posted 5 hours ago</span></h6>
+			    	 <h6><a href="location_single.php">equal blame  </a><span class="m_1">Posted 5 hours ago</span></h6>
 			    	 <p><span class="m_2">Location : </span>On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure</p>
 			    	 <ul class="links_bottom">
-		  		    	<li><a href="location_single.html"><i class="fa fa-envelope-o icon_1"> </i><span class="icon_text">Email this Job</span></a></li>
-			  			<li><a href="location_single.html"><i class="fa fa-eye icon_1"> </i><span class="icon_text">View full Job Description</span></a></li>
-			  			<li class="last"><a href="location_single.html"><i class="fa fa-sort-desc icon_1"> </i><span class="icon_text">View similar Jobs</span></a></li>
+		  		    	<li><a href="location_single.php"><i class="fa fa-envelope-o icon_1"> </i><span class="icon_text">Email this Job</span></a></li>
+			  			<li><a href="location_single.php"><i class="fa fa-eye icon_1"> </i><span class="icon_text">View full Job Description</span></a></li>
+			  			<li class="last"><a href="location_single.php"><i class="fa fa-sort-desc icon_1"> </i><span class="icon_text">View similar Jobs</span></a></li>
 					 </ul>
 				   </div>
 			    </div>
@@ -417,16 +417,16 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 			 </div>
 			 <div class="tab_grid">
 			    <div class="col-sm-3 loc_1">
-			    	<a href="location_single.html"><img data-src="holder.js/100%x180" alt="100%x180" src="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9InllcyI/PjxzdmcgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iMTcxIiBoZWlnaHQ9IjE4MCIgdmlld0JveD0iMCAwIDE3MSAxODAiIHByZXNlcnZlQXNwZWN0UmF0aW89Im5vbmUiPjwhLS0KU291cmNlIFVSTDogaG9sZGVyLmpzLzEwMCV4MTgwCkNyZWF0ZWQgd2l0aCBIb2xkZXIuanMgMi42LjAuCkxlYXJuIG1vcmUgYXQgaHR0cDovL2hvbGRlcmpzLmNvbQooYykgMjAxMi0yMDE1IEl2YW4gTWFsb3BpbnNreSAtIGh0dHA6Ly9pbXNreS5jbwotLT48ZGVmcz48c3R5bGUgdHlwZT0idGV4dC9jc3MiPjwhW0NEQVRBWyNob2xkZXJfMTRlZmNkYWRhYjQgdGV4dCB7IGZpbGw6I0FBQUFBQTtmb250LXdlaWdodDpib2xkO2ZvbnQtZmFtaWx5OkFyaWFsLCBIZWx2ZXRpY2EsIE9wZW4gU2Fucywgc2Fucy1zZXJpZiwgbW9ub3NwYWNlO2ZvbnQtc2l6ZToxMHB0IH0gXV0+PC9zdHlsZT48L2RlZnM+PGcgaWQ9ImhvbGRlcl8xNGVmY2RhZGFiNCI+PHJlY3Qgd2lkdGg9IjE3MSIgaGVpZ2h0PSIxODAiIGZpbGw9IiNFRUVFRUUiLz48Zz48dGV4dCB4PSI2MSIgeT0iOTQuNSI+MTcxeDE4MDwvdGV4dD48L2c+PC9nPjwvc3ZnPg==" data-holder-rendered="true" style="height: 140px; width: 100%; display: block;"></a>
+			    	<a href="location_single.php"><img data-src="holder.js/100%x180" alt="100%x180" src="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9InllcyI/PjxzdmcgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iMTcxIiBoZWlnaHQ9IjE4MCIgdmlld0JveD0iMCAwIDE3MSAxODAiIHByZXNlcnZlQXNwZWN0UmF0aW89Im5vbmUiPjwhLS0KU291cmNlIFVSTDogaG9sZGVyLmpzLzEwMCV4MTgwCkNyZWF0ZWQgd2l0aCBIb2xkZXIuanMgMi42LjAuCkxlYXJuIG1vcmUgYXQgaHR0cDovL2hvbGRlcmpzLmNvbQooYykgMjAxMi0yMDE1IEl2YW4gTWFsb3BpbnNreSAtIGh0dHA6Ly9pbXNreS5jbwotLT48ZGVmcz48c3R5bGUgdHlwZT0idGV4dC9jc3MiPjwhW0NEQVRBWyNob2xkZXJfMTRlZmNkYWRhYjQgdGV4dCB7IGZpbGw6I0FBQUFBQTtmb250LXdlaWdodDpib2xkO2ZvbnQtZmFtaWx5OkFyaWFsLCBIZWx2ZXRpY2EsIE9wZW4gU2Fucywgc2Fucy1zZXJpZiwgbW9ub3NwYWNlO2ZvbnQtc2l6ZToxMHB0IH0gXV0+PC9zdHlsZT48L2RlZnM+PGcgaWQ9ImhvbGRlcl8xNGVmY2RhZGFiNCI+PHJlY3Qgd2lkdGg9IjE3MSIgaGVpZ2h0PSIxODAiIGZpbGw9IiNFRUVFRUUiLz48Zz48dGV4dCB4PSI2MSIgeT0iOTQuNSI+MTcxeDE4MDwvdGV4dD48L2c+PC9nPjwvc3ZnPg==" data-holder-rendered="true" style="height: 140px; width: 100%; display: block;"></a>
 			    </div>
 			    <div class="col-sm-9">
 			       <div class="location_box1">
-			    	 <h6><a href="location_single.html">IT Recruiter </a><span class="m_1">Posted 5 hours ago</span></h6>
+			    	 <h6><a href="location_single.php">IT Recruiter </a><span class="m_1">Posted 5 hours ago</span></h6>
 			    	 <p><span class="m_2">Location : </span>On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure</p>
 			    	 <ul class="links_bottom">
-		  		    	<li><a href="location_single.html"><i class="fa fa-envelope-o icon_1"> </i><span class="icon_text">Email this Job</span></a></li>
-			  			<li><a href="location_single.html"><i class="fa fa-eye icon_1"> </i><span class="icon_text">View full Job Description</span></a></li>
-			  			<li class="last"><a href="location_single.html"><i class="fa fa-sort-desc icon_1"> </i><span class="icon_text">View similar Jobs</span></a></li>
+		  		    	<li><a href="location_single.php"><i class="fa fa-envelope-o icon_1"> </i><span class="icon_text">Email this Job</span></a></li>
+			  			<li><a href="location_single.php"><i class="fa fa-eye icon_1"> </i><span class="icon_text">View full Job Description</span></a></li>
+			  			<li class="last"><a href="location_single.php"><i class="fa fa-sort-desc icon_1"> </i><span class="icon_text">View similar Jobs</span></a></li>
 					 </ul>
 				   </div>
 			    </div>
@@ -434,16 +434,16 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 			 </div>
 			 <div class="tab_grid">
 			    <div class="col-sm-3 loc_1">
-			    	<a href="location_single.html"><img data-src="holder.js/100%x180" alt="100%x180" src="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9InllcyI/PjxzdmcgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iMTcxIiBoZWlnaHQ9IjE4MCIgdmlld0JveD0iMCAwIDE3MSAxODAiIHByZXNlcnZlQXNwZWN0UmF0aW89Im5vbmUiPjwhLS0KU291cmNlIFVSTDogaG9sZGVyLmpzLzEwMCV4MTgwCkNyZWF0ZWQgd2l0aCBIb2xkZXIuanMgMi42LjAuCkxlYXJuIG1vcmUgYXQgaHR0cDovL2hvbGRlcmpzLmNvbQooYykgMjAxMi0yMDE1IEl2YW4gTWFsb3BpbnNreSAtIGh0dHA6Ly9pbXNreS5jbwotLT48ZGVmcz48c3R5bGUgdHlwZT0idGV4dC9jc3MiPjwhW0NEQVRBWyNob2xkZXJfMTRlZmNkYWRhYjQgdGV4dCB7IGZpbGw6I0FBQUFBQTtmb250LXdlaWdodDpib2xkO2ZvbnQtZmFtaWx5OkFyaWFsLCBIZWx2ZXRpY2EsIE9wZW4gU2Fucywgc2Fucy1zZXJpZiwgbW9ub3NwYWNlO2ZvbnQtc2l6ZToxMHB0IH0gXV0+PC9zdHlsZT48L2RlZnM+PGcgaWQ9ImhvbGRlcl8xNGVmY2RhZGFiNCI+PHJlY3Qgd2lkdGg9IjE3MSIgaGVpZ2h0PSIxODAiIGZpbGw9IiNFRUVFRUUiLz48Zz48dGV4dCB4PSI2MSIgeT0iOTQuNSI+MTcxeDE4MDwvdGV4dD48L2c+PC9nPjwvc3ZnPg==" data-holder-rendered="true" style="height: 140px; width: 100%; display: block;"></a>
+			    	<a href="location_single.php"><img data-src="holder.js/100%x180" alt="100%x180" src="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9InllcyI/PjxzdmcgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iMTcxIiBoZWlnaHQ9IjE4MCIgdmlld0JveD0iMCAwIDE3MSAxODAiIHByZXNlcnZlQXNwZWN0UmF0aW89Im5vbmUiPjwhLS0KU291cmNlIFVSTDogaG9sZGVyLmpzLzEwMCV4MTgwCkNyZWF0ZWQgd2l0aCBIb2xkZXIuanMgMi42LjAuCkxlYXJuIG1vcmUgYXQgaHR0cDovL2hvbGRlcmpzLmNvbQooYykgMjAxMi0yMDE1IEl2YW4gTWFsb3BpbnNreSAtIGh0dHA6Ly9pbXNreS5jbwotLT48ZGVmcz48c3R5bGUgdHlwZT0idGV4dC9jc3MiPjwhW0NEQVRBWyNob2xkZXJfMTRlZmNkYWRhYjQgdGV4dCB7IGZpbGw6I0FBQUFBQTtmb250LXdlaWdodDpib2xkO2ZvbnQtZmFtaWx5OkFyaWFsLCBIZWx2ZXRpY2EsIE9wZW4gU2Fucywgc2Fucy1zZXJpZiwgbW9ub3NwYWNlO2ZvbnQtc2l6ZToxMHB0IH0gXV0+PC9zdHlsZT48L2RlZnM+PGcgaWQ9ImhvbGRlcl8xNGVmY2RhZGFiNCI+PHJlY3Qgd2lkdGg9IjE3MSIgaGVpZ2h0PSIxODAiIGZpbGw9IiNFRUVFRUUiLz48Zz48dGV4dCB4PSI2MSIgeT0iOTQuNSI+MTcxeDE4MDwvdGV4dD48L2c+PC9nPjwvc3ZnPg==" data-holder-rendered="true" style="height: 140px; width: 100%; display: block;"></a>
 			    </div>
 			    <div class="col-sm-9">
 			       <div class="location_box1">
-			    	 <h6><a href="location_single.html">distracted by </a><span class="m_1">Posted 5 hours ago</span></h6>
+			    	 <h6><a href="location_single.php">distracted by </a><span class="m_1">Posted 5 hours ago</span></h6>
 			    	 <p><span class="m_2">Location : </span>On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure</p>
 			    	 <ul class="links_bottom">
-		  		    	<li><a href="location_single.html"><i class="fa fa-envelope-o icon_1"> </i><span class="icon_text">Email this Job</span></a></li>
-			  			<li><a href="location_single.html"><i class="fa fa-eye icon_1"> </i><span class="icon_text">View full Job Description</span></a></li>
-			  			<li class="last"><a href="location_single.html"><i class="fa fa-sort-desc icon_1"> </i><span class="icon_text">View similar Jobs</span></a></li>
+		  		    	<li><a href="location_single.php"><i class="fa fa-envelope-o icon_1"> </i><span class="icon_text">Email this Job</span></a></li>
+			  			<li><a href="location_single.php"><i class="fa fa-eye icon_1"> </i><span class="icon_text">View full Job Description</span></a></li>
+			  			<li class="last"><a href="location_single.php"><i class="fa fa-sort-desc icon_1"> </i><span class="icon_text">View similar Jobs</span></a></li>
 					 </ul>
 				   </div>
 			    </div>
@@ -451,16 +451,16 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 			 </div>
 			 <div class="tab_grid">
 			    <div class="col-sm-3 loc_1">
-			    	<a href="location_single.html"><img data-src="holder.js/100%x180" alt="100%x180" src="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9InllcyI/PjxzdmcgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iMTcxIiBoZWlnaHQ9IjE4MCIgdmlld0JveD0iMCAwIDE3MSAxODAiIHByZXNlcnZlQXNwZWN0UmF0aW89Im5vbmUiPjwhLS0KU291cmNlIFVSTDogaG9sZGVyLmpzLzEwMCV4MTgwCkNyZWF0ZWQgd2l0aCBIb2xkZXIuanMgMi42LjAuCkxlYXJuIG1vcmUgYXQgaHR0cDovL2hvbGRlcmpzLmNvbQooYykgMjAxMi0yMDE1IEl2YW4gTWFsb3BpbnNreSAtIGh0dHA6Ly9pbXNreS5jbwotLT48ZGVmcz48c3R5bGUgdHlwZT0idGV4dC9jc3MiPjwhW0NEQVRBWyNob2xkZXJfMTRlZmNkYWRhYjQgdGV4dCB7IGZpbGw6I0FBQUFBQTtmb250LXdlaWdodDpib2xkO2ZvbnQtZmFtaWx5OkFyaWFsLCBIZWx2ZXRpY2EsIE9wZW4gU2Fucywgc2Fucy1zZXJpZiwgbW9ub3NwYWNlO2ZvbnQtc2l6ZToxMHB0IH0gXV0+PC9zdHlsZT48L2RlZnM+PGcgaWQ9ImhvbGRlcl8xNGVmY2RhZGFiNCI+PHJlY3Qgd2lkdGg9IjE3MSIgaGVpZ2h0PSIxODAiIGZpbGw9IiNFRUVFRUUiLz48Zz48dGV4dCB4PSI2MSIgeT0iOTQuNSI+MTcxeDE4MDwvdGV4dD48L2c+PC9nPjwvc3ZnPg==" data-holder-rendered="true" style="height: 140px; width: 100%; display: block;"></a>
+			    	<a href="location_single.php"><img data-src="holder.js/100%x180" alt="100%x180" src="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9InllcyI/PjxzdmcgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iMTcxIiBoZWlnaHQ9IjE4MCIgdmlld0JveD0iMCAwIDE3MSAxODAiIHByZXNlcnZlQXNwZWN0UmF0aW89Im5vbmUiPjwhLS0KU291cmNlIFVSTDogaG9sZGVyLmpzLzEwMCV4MTgwCkNyZWF0ZWQgd2l0aCBIb2xkZXIuanMgMi42LjAuCkxlYXJuIG1vcmUgYXQgaHR0cDovL2hvbGRlcmpzLmNvbQooYykgMjAxMi0yMDE1IEl2YW4gTWFsb3BpbnNreSAtIGh0dHA6Ly9pbXNreS5jbwotLT48ZGVmcz48c3R5bGUgdHlwZT0idGV4dC9jc3MiPjwhW0NEQVRBWyNob2xkZXJfMTRlZmNkYWRhYjQgdGV4dCB7IGZpbGw6I0FBQUFBQTtmb250LXdlaWdodDpib2xkO2ZvbnQtZmFtaWx5OkFyaWFsLCBIZWx2ZXRpY2EsIE9wZW4gU2Fucywgc2Fucy1zZXJpZiwgbW9ub3NwYWNlO2ZvbnQtc2l6ZToxMHB0IH0gXV0+PC9zdHlsZT48L2RlZnM+PGcgaWQ9ImhvbGRlcl8xNGVmY2RhZGFiNCI+PHJlY3Qgd2lkdGg9IjE3MSIgaGVpZ2h0PSIxODAiIGZpbGw9IiNFRUVFRUUiLz48Zz48dGV4dCB4PSI2MSIgeT0iOTQuNSI+MTcxeDE4MDwvdGV4dD48L2c+PC9nPjwvc3ZnPg==" data-holder-rendered="true" style="height: 140px; width: 100%; display: block;"></a>
 			    </div>
 			    <div class="col-sm-9">
 			       <div class="location_box1">
-			    	 <h6><a href="location_single.html"> totam rem  </a><span class="m_1">Posted 5 hours ago</span></h6>
+			    	 <h6><a href="location_single.php"> totam rem  </a><span class="m_1">Posted 5 hours ago</span></h6>
 			    	 <p><span class="m_2">Location : </span>On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure</p>
 			    	 <ul class="links_bottom">
-		  		    	<li><a href="location_single.html"><i class="fa fa-envelope-o icon_1"> </i><span class="icon_text">Email this Job</span></a></li>
-			  			<li><a href="location_single.html"><i class="fa fa-eye icon_1"> </i><span class="icon_text">View full Job Description</span></a></li>
-			  			<li class="last"><a href="location_single.html"><i class="fa fa-sort-desc icon_1"> </i><span class="icon_text">View similar Jobs</span></a></li>
+		  		    	<li><a href="location_single.php"><i class="fa fa-envelope-o icon_1"> </i><span class="icon_text">Email this Job</span></a></li>
+			  			<li><a href="location_single.php"><i class="fa fa-eye icon_1"> </i><span class="icon_text">View full Job Description</span></a></li>
+			  			<li class="last"><a href="location_single.php"><i class="fa fa-sort-desc icon_1"> </i><span class="icon_text">View similar Jobs</span></a></li>
 					 </ul>
 				   </div>
 			    </div>
@@ -468,16 +468,16 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 			 </div>
 			 <div class="tab_grid">
 			    <div class="col-sm-3 loc_1">
-			    	<a href="location_single.html"><img data-src="holder.js/100%x180" alt="100%x180" src="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9InllcyI/PjxzdmcgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iMTcxIiBoZWlnaHQ9IjE4MCIgdmlld0JveD0iMCAwIDE3MSAxODAiIHByZXNlcnZlQXNwZWN0UmF0aW89Im5vbmUiPjwhLS0KU291cmNlIFVSTDogaG9sZGVyLmpzLzEwMCV4MTgwCkNyZWF0ZWQgd2l0aCBIb2xkZXIuanMgMi42LjAuCkxlYXJuIG1vcmUgYXQgaHR0cDovL2hvbGRlcmpzLmNvbQooYykgMjAxMi0yMDE1IEl2YW4gTWFsb3BpbnNreSAtIGh0dHA6Ly9pbXNreS5jbwotLT48ZGVmcz48c3R5bGUgdHlwZT0idGV4dC9jc3MiPjwhW0NEQVRBWyNob2xkZXJfMTRlZmNkYWRhYjQgdGV4dCB7IGZpbGw6I0FBQUFBQTtmb250LXdlaWdodDpib2xkO2ZvbnQtZmFtaWx5OkFyaWFsLCBIZWx2ZXRpY2EsIE9wZW4gU2Fucywgc2Fucy1zZXJpZiwgbW9ub3NwYWNlO2ZvbnQtc2l6ZToxMHB0IH0gXV0+PC9zdHlsZT48L2RlZnM+PGcgaWQ9ImhvbGRlcl8xNGVmY2RhZGFiNCI+PHJlY3Qgd2lkdGg9IjE3MSIgaGVpZ2h0PSIxODAiIGZpbGw9IiNFRUVFRUUiLz48Zz48dGV4dCB4PSI2MSIgeT0iOTQuNSI+MTcxeDE4MDwvdGV4dD48L2c+PC9nPjwvc3ZnPg==" data-holder-rendered="true" style="height: 140px; width: 100%; display: block;"></a>
+			    	<a href="location_single.php"><img data-src="holder.js/100%x180" alt="100%x180" src="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9InllcyI/PjxzdmcgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iMTcxIiBoZWlnaHQ9IjE4MCIgdmlld0JveD0iMCAwIDE3MSAxODAiIHByZXNlcnZlQXNwZWN0UmF0aW89Im5vbmUiPjwhLS0KU291cmNlIFVSTDogaG9sZGVyLmpzLzEwMCV4MTgwCkNyZWF0ZWQgd2l0aCBIb2xkZXIuanMgMi42LjAuCkxlYXJuIG1vcmUgYXQgaHR0cDovL2hvbGRlcmpzLmNvbQooYykgMjAxMi0yMDE1IEl2YW4gTWFsb3BpbnNreSAtIGh0dHA6Ly9pbXNreS5jbwotLT48ZGVmcz48c3R5bGUgdHlwZT0idGV4dC9jc3MiPjwhW0NEQVRBWyNob2xkZXJfMTRlZmNkYWRhYjQgdGV4dCB7IGZpbGw6I0FBQUFBQTtmb250LXdlaWdodDpib2xkO2ZvbnQtZmFtaWx5OkFyaWFsLCBIZWx2ZXRpY2EsIE9wZW4gU2Fucywgc2Fucy1zZXJpZiwgbW9ub3NwYWNlO2ZvbnQtc2l6ZToxMHB0IH0gXV0+PC9zdHlsZT48L2RlZnM+PGcgaWQ9ImhvbGRlcl8xNGVmY2RhZGFiNCI+PHJlY3Qgd2lkdGg9IjE3MSIgaGVpZ2h0PSIxODAiIGZpbGw9IiNFRUVFRUUiLz48Zz48dGV4dCB4PSI2MSIgeT0iOTQuNSI+MTcxeDE4MDwvdGV4dD48L2c+PC9nPjwvc3ZnPg==" data-holder-rendered="true" style="height: 140px; width: 100%; display: block;"></a>
 			    </div>
 			    <div class="col-sm-9">
 			       <div class="location_box1">
-			    	 <h6><a href="location_single.html"> complete account </a><span class="m_1">Posted 5 hours ago</span></h6>
+			    	 <h6><a href="location_single.php"> complete account </a><span class="m_1">Posted 5 hours ago</span></h6>
 			    	 <p><span class="m_2">Location : </span>On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure</p>
 			    	 <ul class="links_bottom">
-		  		    	<li><a href="location_single.html"><i class="fa fa-envelope-o icon_1"> </i><span class="icon_text">Email this Job</span></a></li>
-			  			<li><a href="location_single.html"><i class="fa fa-eye icon_1"> </i><span class="icon_text">View full Job Description</span></a></li>
-			  			<li class="last"><a href="location_single.html"><i class="fa fa-sort-desc icon_1"> </i><span class="icon_text">View similar Jobs</span></a></li>
+		  		    	<li><a href="location_single.php"><i class="fa fa-envelope-o icon_1"> </i><span class="icon_text">Email this Job</span></a></li>
+			  			<li><a href="location_single.php"><i class="fa fa-eye icon_1"> </i><span class="icon_text">View full Job Description</span></a></li>
+			  			<li class="last"><a href="location_single.php"><i class="fa fa-sort-desc icon_1"> </i><span class="icon_text">View similar Jobs</span></a></li>
 					 </ul>
 				   </div>
 			    </div>
@@ -485,16 +485,16 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 			 </div>
 			 <div class="tab_grid">
 			    <div class="col-sm-3 loc_1">
-			    	<a href="location_single.html"><img data-src="holder.js/100%x180" alt="100%x180" src="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9InllcyI/PjxzdmcgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iMTcxIiBoZWlnaHQ9IjE4MCIgdmlld0JveD0iMCAwIDE3MSAxODAiIHByZXNlcnZlQXNwZWN0UmF0aW89Im5vbmUiPjwhLS0KU291cmNlIFVSTDogaG9sZGVyLmpzLzEwMCV4MTgwCkNyZWF0ZWQgd2l0aCBIb2xkZXIuanMgMi42LjAuCkxlYXJuIG1vcmUgYXQgaHR0cDovL2hvbGRlcmpzLmNvbQooYykgMjAxMi0yMDE1IEl2YW4gTWFsb3BpbnNreSAtIGh0dHA6Ly9pbXNreS5jbwotLT48ZGVmcz48c3R5bGUgdHlwZT0idGV4dC9jc3MiPjwhW0NEQVRBWyNob2xkZXJfMTRlZmNkYWRhYjQgdGV4dCB7IGZpbGw6I0FBQUFBQTtmb250LXdlaWdodDpib2xkO2ZvbnQtZmFtaWx5OkFyaWFsLCBIZWx2ZXRpY2EsIE9wZW4gU2Fucywgc2Fucy1zZXJpZiwgbW9ub3NwYWNlO2ZvbnQtc2l6ZToxMHB0IH0gXV0+PC9zdHlsZT48L2RlZnM+PGcgaWQ9ImhvbGRlcl8xNGVmY2RhZGFiNCI+PHJlY3Qgd2lkdGg9IjE3MSIgaGVpZ2h0PSIxODAiIGZpbGw9IiNFRUVFRUUiLz48Zz48dGV4dCB4PSI2MSIgeT0iOTQuNSI+MTcxeDE4MDwvdGV4dD48L2c+PC9nPjwvc3ZnPg==" data-holder-rendered="true" style="height: 140px; width: 100%; display: block;"></a>
+			    	<a href="location_single.php"><img data-src="holder.js/100%x180" alt="100%x180" src="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9InllcyI/PjxzdmcgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iMTcxIiBoZWlnaHQ9IjE4MCIgdmlld0JveD0iMCAwIDE3MSAxODAiIHByZXNlcnZlQXNwZWN0UmF0aW89Im5vbmUiPjwhLS0KU291cmNlIFVSTDogaG9sZGVyLmpzLzEwMCV4MTgwCkNyZWF0ZWQgd2l0aCBIb2xkZXIuanMgMi42LjAuCkxlYXJuIG1vcmUgYXQgaHR0cDovL2hvbGRlcmpzLmNvbQooYykgMjAxMi0yMDE1IEl2YW4gTWFsb3BpbnNreSAtIGh0dHA6Ly9pbXNreS5jbwotLT48ZGVmcz48c3R5bGUgdHlwZT0idGV4dC9jc3MiPjwhW0NEQVRBWyNob2xkZXJfMTRlZmNkYWRhYjQgdGV4dCB7IGZpbGw6I0FBQUFBQTtmb250LXdlaWdodDpib2xkO2ZvbnQtZmFtaWx5OkFyaWFsLCBIZWx2ZXRpY2EsIE9wZW4gU2Fucywgc2Fucy1zZXJpZiwgbW9ub3NwYWNlO2ZvbnQtc2l6ZToxMHB0IH0gXV0+PC9zdHlsZT48L2RlZnM+PGcgaWQ9ImhvbGRlcl8xNGVmY2RhZGFiNCI+PHJlY3Qgd2lkdGg9IjE3MSIgaGVpZ2h0PSIxODAiIGZpbGw9IiNFRUVFRUUiLz48Zz48dGV4dCB4PSI2MSIgeT0iOTQuNSI+MTcxeDE4MDwvdGV4dD48L2c+PC9nPjwvc3ZnPg==" data-holder-rendered="true" style="height: 140px; width: 100%; display: block;"></a>
 			    </div>
 			    <div class="col-sm-9">
 			       <div class="location_box1">
-			    	 <h6><a href="location_single.html">must explain </a><span class="m_1">Posted 5 hours ago</span></h6>
+			    	 <h6><a href="location_single.php">must explain </a><span class="m_1">Posted 5 hours ago</span></h6>
 			    	 <p><span class="m_2">Location : </span>On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure</p>
 			    	 <ul class="links_bottom">
-		  		    	<li><a href="location_single.html"><i class="fa fa-envelope-o icon_1"> </i><span class="icon_text">Email this Job</span></a></li>
-			  			<li><a href="location_single.html"><i class="fa fa-eye icon_1"> </i><span class="icon_text">View full Job Description</span></a></li>
-			  			<li class="last"><a href="location_single.html"><i class="fa fa-sort-desc icon_1"> </i><span class="icon_text">View similar Jobs</span></a></li>
+		  		    	<li><a href="location_single.php"><i class="fa fa-envelope-o icon_1"> </i><span class="icon_text">Email this Job</span></a></li>
+			  			<li><a href="location_single.php"><i class="fa fa-eye icon_1"> </i><span class="icon_text">View full Job Description</span></a></li>
+			  			<li class="last"><a href="location_single.php"><i class="fa fa-sort-desc icon_1"> </i><span class="icon_text">View similar Jobs</span></a></li>
 					 </ul>
 				   </div>
 			    </div>
@@ -502,16 +502,16 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 			 </div>
 			 <div class="tab_grid">
 			    <div class="col-sm-3 loc_1">
-			    	<a href="location_single.html"><img data-src="holder.js/100%x180" alt="100%x180" src="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9InllcyI/PjxzdmcgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iMTcxIiBoZWlnaHQ9IjE4MCIgdmlld0JveD0iMCAwIDE3MSAxODAiIHByZXNlcnZlQXNwZWN0UmF0aW89Im5vbmUiPjwhLS0KU291cmNlIFVSTDogaG9sZGVyLmpzLzEwMCV4MTgwCkNyZWF0ZWQgd2l0aCBIb2xkZXIuanMgMi42LjAuCkxlYXJuIG1vcmUgYXQgaHR0cDovL2hvbGRlcmpzLmNvbQooYykgMjAxMi0yMDE1IEl2YW4gTWFsb3BpbnNreSAtIGh0dHA6Ly9pbXNreS5jbwotLT48ZGVmcz48c3R5bGUgdHlwZT0idGV4dC9jc3MiPjwhW0NEQVRBWyNob2xkZXJfMTRlZmNkYWRhYjQgdGV4dCB7IGZpbGw6I0FBQUFBQTtmb250LXdlaWdodDpib2xkO2ZvbnQtZmFtaWx5OkFyaWFsLCBIZWx2ZXRpY2EsIE9wZW4gU2Fucywgc2Fucy1zZXJpZiwgbW9ub3NwYWNlO2ZvbnQtc2l6ZToxMHB0IH0gXV0+PC9zdHlsZT48L2RlZnM+PGcgaWQ9ImhvbGRlcl8xNGVmY2RhZGFiNCI+PHJlY3Qgd2lkdGg9IjE3MSIgaGVpZ2h0PSIxODAiIGZpbGw9IiNFRUVFRUUiLz48Zz48dGV4dCB4PSI2MSIgeT0iOTQuNSI+MTcxeDE4MDwvdGV4dD48L2c+PC9nPjwvc3ZnPg==" data-holder-rendered="true" style="height: 140px; width: 100%; display: block;"></a>
+			    	<a href="location_single.php"><img data-src="holder.js/100%x180" alt="100%x180" src="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9InllcyI/PjxzdmcgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iMTcxIiBoZWlnaHQ9IjE4MCIgdmlld0JveD0iMCAwIDE3MSAxODAiIHByZXNlcnZlQXNwZWN0UmF0aW89Im5vbmUiPjwhLS0KU291cmNlIFVSTDogaG9sZGVyLmpzLzEwMCV4MTgwCkNyZWF0ZWQgd2l0aCBIb2xkZXIuanMgMi42LjAuCkxlYXJuIG1vcmUgYXQgaHR0cDovL2hvbGRlcmpzLmNvbQooYykgMjAxMi0yMDE1IEl2YW4gTWFsb3BpbnNreSAtIGh0dHA6Ly9pbXNreS5jbwotLT48ZGVmcz48c3R5bGUgdHlwZT0idGV4dC9jc3MiPjwhW0NEQVRBWyNob2xkZXJfMTRlZmNkYWRhYjQgdGV4dCB7IGZpbGw6I0FBQUFBQTtmb250LXdlaWdodDpib2xkO2ZvbnQtZmFtaWx5OkFyaWFsLCBIZWx2ZXRpY2EsIE9wZW4gU2Fucywgc2Fucy1zZXJpZiwgbW9ub3NwYWNlO2ZvbnQtc2l6ZToxMHB0IH0gXV0+PC9zdHlsZT48L2RlZnM+PGcgaWQ9ImhvbGRlcl8xNGVmY2RhZGFiNCI+PHJlY3Qgd2lkdGg9IjE3MSIgaGVpZ2h0PSIxODAiIGZpbGw9IiNFRUVFRUUiLz48Zz48dGV4dCB4PSI2MSIgeT0iOTQuNSI+MTcxeDE4MDwvdGV4dD48L2c+PC9nPjwvc3ZnPg==" data-holder-rendered="true" style="height: 140px; width: 100%; display: block;"></a>
 			    </div>
 			    <div class="col-sm-9">
 			       <div class="location_box1">
-			    	 <h6><a href="location_single.html">IT Recruiter </a><span class="m_1">Posted 5 hours ago</span></h6>
+			    	 <h6><a href="location_single.php">IT Recruiter </a><span class="m_1">Posted 5 hours ago</span></h6>
 			    	 <p><span class="m_2">Location : </span>On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure</p>
 			    	 <ul class="links_bottom">
-		  		    	<li><a href="location_single.html"><i class="fa fa-envelope-o icon_1"> </i><span class="icon_text">Email this Job</span></a></li>
-			  			<li><a href="location_single.html"><i class="fa fa-eye icon_1"> </i><span class="icon_text">View full Job Description</span></a></li>
-			  			<li class="last"><a href="location_single.html"><i class="fa fa-sort-desc icon_1"> </i><span class="icon_text">View similar Jobs</span></a></li>
+		  		    	<li><a href="location_single.php"><i class="fa fa-envelope-o icon_1"> </i><span class="icon_text">Email this Job</span></a></li>
+			  			<li><a href="location_single.php"><i class="fa fa-eye icon_1"> </i><span class="icon_text">View full Job Description</span></a></li>
+			  			<li class="last"><a href="location_single.php"><i class="fa fa-sort-desc icon_1"> </i><span class="icon_text">View similar Jobs</span></a></li>
 					 </ul>
 				   </div>
 			    </div>
@@ -530,16 +530,16 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 		<div class="col-md-3 grid_3">
 			<h4>Navigate</h4>
 			<ul class="f_list f_list1">
-				<li><a href="index.html">Home</a></li>
-				<li><a href="login.html">Sign In</a></li>
-				<li><a href="login.html">Join Now</a></li>
-				<li><a href="about.html">About</a></li>
+				<li><a href="index.php">Home</a></li>
+				<li><a href="login.php">Sign In</a></li>
+				<li><a href="login.php">Join Now</a></li>
+				<li><a href="about.php">About</a></li>
 			</ul>
 			<ul class="f_list">
-				<li><a href="features.html">Features</a></li>
-				<li><a href="terms.html">Terms of use</a></li>
-				<li><a href="contact.html">Contact Us</a></li>
-				<li><a href="jobs.html">Post a Job</a></li>
+				<li><a href="features.php">Features</a></li>
+				<li><a href="terms.php">Terms of use</a></li>
+				<li><a href="contact.php">Contact Us</a></li>
+				<li><a href="jobs.php">Post a Job</a></li>
 			</ul>
 			<div class="clearfix"> </div>
 		</div>
