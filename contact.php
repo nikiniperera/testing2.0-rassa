@@ -62,8 +62,8 @@
 	     <div class="col-sm-4">
 	   	   <address class="addr">
                 <p class="secondary3">
-                    8901 Marmora Road, <br>
-                   Glasgow, D04 89GR.</p>
+                    8901 Main Road, <br>
+                   Kottawa, athurugitiy.</p>
                 <dl>
                     <dt>Freephone:</dt>
                     <dd>
@@ -88,7 +88,7 @@
                 <dl class="email">
                     <dt>E-mail:</dt>
                     <dd>
-                        <a href=" dev.rassa.lk@gmail.com">mail(at)Rassa.lk</a>
+                        <a href=" dev.rassa.lk@gmail.com">dev.rassa.lk@gmail.com</a>
                     </dd>
                 </dl>
            </address>
@@ -100,7 +100,7 @@
     </div>
 </div>
 <div class="map">
-	<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d3150859.767904157!2d-96.62081048651531!3d39.536794757966845!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sin!4v1408111832978"> </iframe>
+	<div style="width: 100%"><iframe width="720" height="240" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?width=720&amp;height=240&amp;hl=en&amp;q=kottawa+()&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"><a href="https://www.gps.ie/sport-gps/">bike gps</a></iframe></div>
 </div>
 <div class="footer">
 	<div class="container">
