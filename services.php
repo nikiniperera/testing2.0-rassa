@@ -63,9 +63,9 @@
         	<img src="images/1.png" class="img-responsive" alt=""/>
         </div>
         <div class="col-md-7 service_box1">
-        	<h5>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,</h5>
-        	<p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. </p>
-        	<a href="#" class="btn_3">Read More</a>
+        	<h5>This site gives job seekers the opportunity to apply for a job of their choice, to find out more, and to apply for a job. Suppose that unemployment will also disappear due to this. It also gives them the opportunity to apply for a job of their choice. This will help many unemployed youths to find employment.</h5>
+        	<p>The site also offers the opportunity to recruit new employees for their business. This makes it very easy to find an employee who is qualified for their job. </p>
+        	<a href="#" class="btn_3"></a>
         </div>
         <div class="clearfix"> </div>
        </div>
