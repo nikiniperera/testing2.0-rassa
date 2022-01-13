@@ -174,6 +174,7 @@
 	   <script type="text/javascript" src="js/jquery.flexisel.js"></script>
 	 </div>
 	 <div class="single">  
+	   
 	 </div>
 	   <div class="col-md-8">
 	      <div class="col_1">
@@ -328,6 +329,9 @@
 		   </div>
 	   </div>
 	   <div class="clearfix"> </div>
+	 </div>
+	 <div class="single">  
+	   
 	 </div>
 </div>
 <div class="footer">
