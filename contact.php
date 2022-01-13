@@ -62,8 +62,8 @@
 	     <div class="col-sm-4">
 	   	   <address class="addr">
                 <p class="secondary3">
-                    8901 Main Road, <br>
-                   Kottawa, athurugitiy.</p>
+                   8901, Main Road, <br>
+                   Kottawa, Athurugiriya.</p>
                 <dl>
                     <dt>Freephone:</dt>
                     <dd>
