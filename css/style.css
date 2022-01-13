@@ -2742,7 +2742,7 @@ ul.grid-1 li.grid-1_right h4, ul.grid-1 li.grid-1_left h4 {
     font-size: 0.85em;
 }    
 .col-md-3.team-member.text-center {
-    width: 80%;
+    width: 100%;
     padding: 20px 10px;
     float: none;
 }
