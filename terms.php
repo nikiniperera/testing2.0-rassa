@@ -78,20 +78,7 @@
 	  </div>
 	    <!--/.navbar-collapse-->
 	</nav>
-<div class="banner_1">
-	<div class="container">
-		<div id="search_wrapper1">
-		   <div id="search_form" class="clearfix">
-		    <h1>Start your job search</h1>
-		    <p>
-			 <input type="text" class="text" placeholder=" " value="Enter Keyword(s)" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Enter Keyword(s)';}">
-			 <input type="text" class="text" placeholder=" " value="Location" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Location';}">
-			 <label class="btn2 btn-2 btn2-1b"><input type="submit" value="Find Jobs"></label>
-			</p>
-           </div>
-		</div>
-   </div> 
-</div>	
+
 <div class="container">
     <div class="single">  
 
@@ -127,6 +114,9 @@
 		<p>On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire, that they cannot foresee the pain and trouble that are bound to ensue; and equal blame belongs to those who fail in their duty through weakness of will, which is the same as saying through shrinking from toil and pain.</p>
      </div>
      <div class="clearfix"> </div>
+	 <div class="single">  
+
+	 </div>
  </div>
 </div>
 <div class="footer">
