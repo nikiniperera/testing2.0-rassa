@@ -86,7 +86,7 @@
 				<ul>
 					<li><span class="dropcap">3.</span>  
 					   <div class="item_content">
-						<h5><a href="#">Anyone can easily place an ad for any job vacancy anywhere, in any workplace</a></h5> 
+						<h5><a href="#">Anyone can easily place an ad for any job vacancy anywhere, in any workplace.</a></h5> 
 					</div>
 					</li>
 			    </ul>
