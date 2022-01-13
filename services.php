@@ -138,7 +138,7 @@
 					<img src="images/f2.jpg" class="img-responsive" alt=""/>
 				</figure>
 				<h6>Mark</h6>
-				<span class="author-info">Designer, Compay Name</span>
+				<span class="author-info">Fashion Designer, DKSA</span>
 			</div>
 		  </div>
 		  <div class="col-md-6 testimonial">
@@ -150,7 +150,7 @@
 					<img src="images/f1.jpg" class="img-responsive" alt=""/>
 				</figure>
 				<h6>Tharushi</h6>
-				<span class="author-info">Designer, Compay Name</span>
+				<span class="author-info">Cake maker , Tharu cake pvt.ltd</span>
 			</div>
 		 </div>
 		 <div class="clearfix"> </div>
