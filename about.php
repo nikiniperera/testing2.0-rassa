@@ -178,7 +178,7 @@
 		    <img src="images/Yomin.jpg" class="img-responsive img-circle1" alt=""/>
 			<h5>Yomindu Rajasooriya</h5>
 			<h6>Front-End Developer </h6>
-			<p>Yomindu Rajasooriya is Working as a front-end developer and Managing director alongside the executive team of Rassa.lk company. He is studying Cloud Computing at Sri Lanka Technological Campus. </p>
+			<p>Yomindu Rajasooriya is Working as a front-end developer alongside the executive team of Rassa.lk company. He is studying Cloud Computing at Sri Lanka Technological Campus. </p>
 			<a href="#"><i class="fa fa-facebook fa1"> </i></a>
 			<a href="#"><i class="fa fa-twitter fa1"> </i></a>
 			<a href="#"><i class="fa fa-linkedin fa1"> </i></a>
