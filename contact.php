@@ -167,28 +167,10 @@
           </div>
           <div class="clearfix"> </div>
 	   </div>
-	   <div class="content_bottom">
-	   	 <h3>Contact Form</h3>
-	   	   <form>
-			<div class="contact_box1">
-             	<input type="text" class="text" value="Name" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Name';}">
-			 	<input type="text" class="text" value="Email" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Email';}" style="margin-left:3%">
-			 	<input type="text" class="text" value="Phone" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Phone';}" style="margin-left:3%">
-			</div>
-			<div class="text_1">
-               <textarea value="Message" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Message';}">Message</textarea>
-            </div>
-            <div class="form-submit1 form_but1">
-	           <input name="submit" type="submit" id="submit" value="Submit"><br>
-	        </div>
-			<div class="clearfix"></div>
-           </form>
-	   </div>
     </div>
 </div>
 <div class="map">
-	<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d3150859.767904157!2d-96.62081048651531!3d39.536794757966845!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sin!4v1408111832978"> </iframe>
-</div>
+<div class="mapouter"><div class="gmap_canvas"><iframe width="1014" height="215" id="gmap_canvas" src="https://maps.google.com/maps?q=kottawa&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><a href="https://123movies-to.org"></a><br><style>.mapouter{position:relative;text-align:right;height:215px;width:1014px;}</style><a href="https://www.embedgooglemap.net">how to copy a map from google maps</a><style>.gmap_canvas {overflow:hidden;background:none!important;height:215px;width:1014px;}</style></div></div></div>
 <div class="footer">
 	<div class="container">
 		<div class="col-md-3 grid_3">
