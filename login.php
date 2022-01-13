@@ -154,19 +154,7 @@
 					   <input type="submit" value="Log in">
 					</div>
 					<div class="login-bottom">
-					 <p>With your social media account</p>
-					 <div class="social-icons">
-						<div class="button">
-							<a class="tw" href="#"> <i class="fa fa-twitter tw2"> </i><span>Twitter</span>
-							<div class="clearfix"> </div></a>
-							<a class="fa" href="#"> <i class="fa fa-facebook tw2"> </i><span>Facebook</span>
-							<div class="clearfix"> </div></a>
-							<a class="go" href="#"><i class="fa fa-google-plus tw2"> </i><span>Google+</span>
-							<div class="clearfix"> </div></a>
-							<div class="clearfix"> </div>
-						</div>
 						<h4>Don,t have an Account? <a href="register.php"> Register Now!</a></h4>
-					 </div>
 		           </div>
                 </div>
 		<div class="single"> 
