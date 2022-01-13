@@ -122,7 +122,9 @@
     <div class="single">  
 	   <div class="form-container">
         <h2>Upload Your Job Details</h2>
-		<p1> confirmation of your post will be provide trough email. 
+		<p1>Confirmation of your post will be provided through email.
+		
+		<p2>Put your Email and information RAR file below. 
         <div class="search_form1">
 		    <form action="">
 			  <input type="text" class="text" placeholder=" " value="Email Address" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Email Address';}"><br>
