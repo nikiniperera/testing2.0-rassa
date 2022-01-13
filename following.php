@@ -45,14 +45,7 @@
 		            </ul>
 		        </li>
 		        <li><a href="services.php">Services</a></li>
-		        <li class="dropdown">
-		            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Recruiters<b class="caret"></b></a>
-		            <ul class="dropdown-menu">
-			            <li><a href="login.php">Recruiter Updates</a></li>
-			            <li><a href="recruiters.php">Recruiters you are following</a></li>
-			            <li><a href="codes.php">Shortcodes</a></li>
-		            </ul>
-		        </li>
+                <li><a href="recruiters.php">Recruiters</a></li>
 		        <li class="dropdown">
 		            <a href="#" class="dropdown-toggle" data-toggle="dropdown">More<b class="caret"></b></a>
 		            <ul class="dropdown-menu">
