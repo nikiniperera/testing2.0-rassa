@@ -96,6 +96,8 @@
 		</ul>
      </div>
      <div class="clearfix"> </div>
+	 <div class="single">     
+	 </div>
  </div>
 </div>
 <div class="footer">
