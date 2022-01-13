@@ -64,10 +64,8 @@
 				<ul>
 					<li><span class="dropcap">1.</span>  
 					   <div class="item_content">
-						<h5><a href="#">nunc nobis videntur parum</a></h5> 
-						<p> anteposuerit litterarum formas humanitatis per seacula quarta decima et quinta decima. Eodem modo typi, qui nunc nobis videntur paru.</p>
-						<p class="m_1">Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock</p>
-					   </div>
+						<h5><a href="#">• Any Company representatives logging in may also access any information put up by Job Seeker.</a></h5> 
+						</div>
 					</li>
 			    </ul>
 			</div>
@@ -77,9 +75,7 @@
 				<ul>
 					<li><span class="dropcap">2.</span>  
 					   <div class="item_content">
-						<h5><a href="#">nunc nobis videntur parum</a></h5> 
-						<p> anteposuerit litterarum formas humanitatis per seacula quarta decima et quinta decima. Eodem modo typi, qui nunc nobis videntur paru.</p>
-						<p class="m_1">Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock</p>
+						<h5><a href="#">• we can be used as an Online Job Portal for the Placements providing to the un employees who are seeking for a job placement. </a></h5> 
 					   </div>
 					</li>
 			    </ul>
@@ -90,10 +86,8 @@
 				<ul>
 					<li><span class="dropcap">3.</span>  
 					   <div class="item_content">
-						<h5><a href="#">nunc nobis videntur parum</a></h5> 
-						<p> anteposuerit litterarum formas humanitatis per seacula quarta decima et quinta decima. Eodem modo typi, qui nunc nobis videntur paru.</p>
-						<p class="m_1">Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock</p>
-					   </div>
+						<h5><a href="#">• Anyone can easily place an ad for any job vacancy anywhere, in any workplace</a></h5> 
+					</div>
 					</li>
 			    </ul>
 			</div>
