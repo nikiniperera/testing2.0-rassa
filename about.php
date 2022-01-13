@@ -205,20 +205,20 @@
 			<a href="#"><i class="fa fa-instagram fa1"> </i></a>
 		</div>
 		<div class="col-md-3 team-member text-center">
-		    <img src="images/f13.jpg" class="img-responsive img-circle1" alt=""/>
-			<h5>Nipun Anjana</h5>
-			<h6>Administrative Manager</h6>
-			<p>Nipun Anjana is an administrative working alongside the executive team of a Rassa.lk company. Currently he is studying Cloud Computing at Sri Lanka Technological Campus in Padukka..</p>
+	        <img src="images/Tharu.jpg" class="img-responsive img-circle1" alt=""/>
+			<h5>Tharshi Umayanga</h5>
+			<h6>Account Manager</h6>
+			<p>As an Account Manager at Rassa.lk, I have experience working extensively with several companies. I am a graduate of software engineering at sri lanka technologycle campus and am currently studying for my master's degree.</p>
 			<a href="#"><i class="fa fa-facebook fa1"> </i></a>
 			<a href="#"><i class="fa fa-twitter fa1"> </i></a>
 			<a href="#"><i class="fa fa-linkedin fa1"> </i></a>
 			<a href="#"><i class="fa fa-instagram fa1"> </i></a>
 		</div>
 		<div class="col-md-3 team-member text-center">
-	        <img src="images/Tharu.jpg" class="img-responsive img-circle1" alt=""/>
-			<h5>Tharshi Umayanga</h5>
-			<h6>Account Manager</h6>
-			<p>As an Account Manager at Rassa.lk, I have experience working extensively with several companies. I am a graduate of software engineering at sri lanka technologycle campus and am currently studying for my master's degree.</p>
+		    <img src="images/f13.jpg" class="img-responsive img-circle1" alt=""/>
+			<h5>Nipun Anjana</h5>
+			<h6>Administrative Manager</h6>
+			<p>Nipun Anjana is an administrative working alongside the executive team of a Rassa.lk company. Currently he is studying Cloud Computing at Sri Lanka Technological Campus in Padukka..</p>
 			<a href="#"><i class="fa fa-facebook fa1"> </i></a>
 			<a href="#"><i class="fa fa-twitter fa1"> </i></a>
 			<a href="#"><i class="fa fa-linkedin fa1"> </i></a>
