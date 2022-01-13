@@ -44,46 +44,7 @@
 			            <li><a href="location.php">Jobs by Company</a></li>
 		            </ul>
 		        </li>
-		        <li class="dropdown">
-		        	<a href="#" class="dropdown-toggle" data-toggle="dropdown">Services<b class="caret"></b></a>
-		            <ul class="dropdown-menu multi-column columns-3">
-			            <div class="row">
-				            <div class="col-sm-4">
-					            <ul class="multi-column-dropdown">
-						            <li><a href="services.php">Action</a></li>
-						            <li><a href="services.php">Another action</a></li>
-						            <li><a href="services.php">Something else here</a></li>
-						            <li class="divider"></li>
-						            <li><a href="services.php">Separated link</a></li>
-						            <li class="divider"></li>
-						            <li><a href="services.php">One more separated link</a></li>
-					            </ul>
-				            </div>
-				            <div class="col-sm-4">
-					            <ul class="multi-column-dropdown">
-						            <li><a href="services.php">Action</a></li>
-						            <li><a href="services.php">Another action</a></li>
-						            <li><a href="services.php">Something else here</a></li>
-						            <li class="divider"></li>
-						            <li><a href="services.php">Separated link</a></li>
-						            <li class="divider"></li>
-						            <li><a href="services.php">One more separated link</a></li>
-					            </ul>
-				            </div>
-				            <div class="col-sm-4">
-					            <ul class="multi-column-dropdown">
-						            <li><a href="services.php">Action</a></li>
-						            <li><a href="services.php">Another action</a></li>
-						            <li><a href="services.php">Something else here</a></li>
-						            <li class="divider"></li>
-						            <li><a href="services.php">Separated link</a></li>
-						            <li class="divider"></li>
-						            <li><a href="services.php">One more separated link</a></li>
-					            </ul>
-				            </div>
-			            </div>
-		            </ul>
-		        </li>
+		        <li><a href="services.php">Services</a></li>
 		        <li class="dropdown">
 		            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Recruiters<b class="caret"></b></a>
 		            <ul class="dropdown-menu">
