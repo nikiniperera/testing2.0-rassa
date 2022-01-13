@@ -1,19 +1,16 @@
-
-<!DOCTYPE HTML>
-<html>
-<head>
+<html><head>
 <title>Rassa.lk</title>
 <link rel="icon" type="image/x-icon" href="images/logo2.png">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
-<link href="css/bootstrap-3.1.1.min.css" rel='stylesheet' type='text/css' />
+<link href="css/bootstrap-3.1.1.min.css" rel="stylesheet" type="text/css">
 <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
 <script src="js/jquery.min.js"></script>
 <script src="js/bootstrap.min.js"></script>
 <!-- Custom Theme files -->
-<link href="css/style.css" rel='stylesheet' type='text/css' />
-<link href='//fonts.googleapis.com/css?family=Roboto:100,200,300,400,500,600,700,800,900' rel='stylesheet' type='text/css'>
+<link href="css/style.css" rel="stylesheet" type="text/css">
+<link href="//fonts.googleapis.com/css?family=Roboto:100,200,300,400,500,600,700,800,900" rel="stylesheet" type="text/css">
 <!----font-Awesome----->
 <link href="css/font-awesome.css" rel="stylesheet"> 
 <!----font-Awesome----->
@@ -28,7 +25,7 @@
 		        <span class="icon-bar"></span>
 		        <span class="icon-bar"></span>
 	        </button>
-	        <a class="navbar-brand" href="index.php"><img src="images/logo.png" alt=""/></a>
+	        <a class="navbar-brand" href="index.php"><img src="images/logo.png" alt=""></a>
 	    </div>
 	    <!--/.navbar-header-->
 	    <div class="navbar-collapse collapse" id="bs-example-navbar-collapse-1" style="height: 1px;">
@@ -132,82 +129,18 @@
    </div> 
 </div>	
 <div class="container">
-    <div class="single">  
-	   <div class="col-md-4">
-	   	  <div class="col_3">
-	   	  	<h3>Todays Jobs</h3>
-	   	  	<ul class="list_1">
-	   	  		<li><a href="#">Department of Health - Western Australia</a></li>
-	   	  		<li><a href="#">Australian Nursing Agency currently require experiences</a></li>		
-	   	  		<li><a href="#">Russia Nursing Agency currently require experiences</a></li>
-	   	  		<li><a href="#">The Government of Western Saudi Arbia</a></li>		
-	   	  		<li><a href="#">Department of Health - Western Australia</a></li>
-	   	  		<li><a href="#">Australian Nursing Agency currently require experiences</a></li>		
-	   	  		<li><a href="#">Russia Nursing Agency currently require experiences</a></li>
-	   	  		<li><a href="#">The Scientific Publishing Services in Saudi Arbia</a></li>	
-	   	  		<li><a href="#">BPO Private Limited in Canada</a></li>		
-	   	  		<li><a href="#">Executive Tracks Associates in Pakistan</a></li>
-	   	  		<li><a href="#">Pyramid IT Consulting Pvt. Ltd. in Pakistan</a></li>						
-	   	  	</ul>
-	   	  </div>
-	   	  <div class="col_3">
-	   	  	<h3>Jobs by Category</h3>
-	   	  	<ul class="list_2">
-	   	  		<li><a href="#">Railway Recruitment</a></li>
-	   	  		<li><a href="#">Air Force Jobs</a></li>		
-	   	  		<li><a href="#">Police Jobs</a></li>
-	   	  		<li><a href="#">Intelligence Bureau Jobs</a></li>		
-	   	  		<li><a href="#">Army Jobs</a></li>
-	   	  		<li><a href="#">Navy Jobs</a></li>		
-	   	  		<li><a href="#">BSNL Jobs</a></li>
-	   	  		<li><a href="#">Software Jobs</a></li>	
-	   	  		<li><a href="#">Research Jobs</a></li>								
-	   	  	</ul>
-	   	  </div>
-	   	  <div class="widget">
-	        <h3>Take The Job Portal Poll!</h3>
-    	        <div class="widget-content"> 
-                 <div class="Job Portal-answer">
-			    	<span class="Job Portal-answer-group">
-		    			<span class="Job Portal-answer-input">
-		    			   <input class="Job Portal-radiobutton" type="radio">
-		    			</span>
-		    			<label for="" class="Job Portal-input-label">
-		    				<span class="Job Portal-answer-span">Frequently</span>
-		    			</label>
-		    		</span>
-			    	<span class="Job Portal-answer-group">
-		    			<span class="Job Portal-answer-input">
-		    			   <input class="Job Portal-radiobutton" type="radio">
-		    			</span>
-		    			<label for="" class="Job Portal-input-label">
-		    				<span class="Job Portal-answer-span">Interviewing</span>
-		    			</label>
-		    		</span>
-			        <span class="Job Portal-answer-group">
-		    			<span class="Job Portal-answer-input">
-		    			   <input class="Job Portal-radiobutton" type="radio">
-		    			</span>
-		    			<label for="" class="Job Portal-input-label">
-		    				<span class="Job Portal-answer-span">Leaving a familiar workplace</span>
-		    			</label>
-		    		</span>
-		    		<div class="Job Portal_vote">
-		    		  <a class="Job Portal-vote-button">Vote</a>
-		    		</div>
-			     </div>
-    	       </div>
-    	</div>
-	 </div>
+       	  
+	   	  
+	 
 	 <div class="col-md-8 single_right">
 	      <div class="but_list">
 	       <div class="bs-example bs-example-tabs" role="tabpanel" data-example-id="togglable-tabs">
 			<ul id="myTab" class="nav nav-tabs" role="tablist">
 			  <li role="presentation" class="active"><a href="#home" id="home-tab" role="tab" data-toggle="tab" aria-controls="home" aria-expanded="true">Top Locations</a></li>
-			  <li role="presentation"><a href="#profile" role="tab" id="profile-tab" data-toggle="tab" aria-controls="profile">Show Descriptions</a></li>
+			  <li role="presentation" class=""><a href="#profile" role="tab" id="profile-tab" data-toggle="tab" aria-controls="profile">Show Descriptions</a></li>
 			</ul>
 		<div id="myTabContent" class="tab-content">
-		  <div role="tabpanel" class="tab-pane fade in active" id="home" aria-labelledby="home-tab">
+		  <div role="tabpanel" class="tab-pane fade active in" id="home" aria-labelledby="home-tab">
 		    <div class="tab_grid">
 			    <div class="col-sm-3 loc_1">
 			    	<a href="location_single.php"><img data-src="holder.js/100%x180" alt="100%x180" src="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9InllcyI/PjxzdmcgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iMTcxIiBoZWlnaHQ9IjE4MCIgdmlld0JveD0iMCAwIDE3MSAxODAiIHByZXNlcnZlQXNwZWN0UmF0aW89Im5vbmUiPjwhLS0KU291cmNlIFVSTDogaG9sZGVyLmpzLzEwMCV4MTgwCkNyZWF0ZWQgd2l0aCBIb2xkZXIuanMgMi42LjAuCkxlYXJuIG1vcmUgYXQgaHR0cDovL2hvbGRlcmpzLmNvbQooYykgMjAxMi0yMDE1IEl2YW4gTWFsb3BpbnNreSAtIGh0dHA6Ly9pbXNreS5jbwotLT48ZGVmcz48c3R5bGUgdHlwZT0idGV4dC9jc3MiPjwhW0NEQVRBWyNob2xkZXJfMTRlZmNkYWRhYjQgdGV4dCB7IGZpbGw6I0FBQUFBQTtmb250LXdlaWdodDpib2xkO2ZvbnQtZmFtaWx5OkFyaWFsLCBIZWx2ZXRpY2EsIE9wZW4gU2Fucywgc2Fucy1zZXJpZiwgbW9ub3NwYWNlO2ZvbnQtc2l6ZToxMHB0IH0gXV0+PC9zdHlsZT48L2RlZnM+PGcgaWQ9ImhvbGRlcl8xNGVmY2RhZGFiNCI+PHJlY3Qgd2lkdGg9IjE3MSIgaGVpZ2h0PSIxODAiIGZpbGw9IiNFRUVFRUUiLz48Zz48dGV4dCB4PSI2MSIgeT0iOTQuNSI+MTcxeDE4MDwvdGV4dD48L2c+PC9nPjwvc3ZnPg==" data-holder-rendered="true" style="height: 140px; width: 100%; display: block;"></a>
@@ -522,7 +455,7 @@
     </div>
    </div>
   <div class="clearfix"> </div>
- </div>
+ 
 </div>
 <div class="footer">
 	<div class="container">
@@ -576,5 +509,5 @@
 	  </div>
 	</div>
   </div>
-  </body>
-  </html>	
+  
+  	</body></html>
