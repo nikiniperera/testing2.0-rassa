@@ -76,8 +76,8 @@
 				<i class="fa fa-calendar"></i>
 			</div>
 			<div class="icon-box-body">
-				<h4>Content here</h4>
-				<p>The standard chunk of Lorem Ipsum used since the 1500s</p>
+				<h4>Comment</h4>
+				<p>Anyone can comment to the posts.</p>
 			</div>
 		</div>
        	<div class="col-md-4 icon-service">
@@ -85,8 +85,8 @@
 				<i class="fa fa-lightbulb-o"></i>
 			</div>
 			<div class="icon-box-body">
-				<h4>Content here</h4>
-				<p>The standard chunk of Lorem Ipsum used since the 1500s</p>
+				<h4>Map</h4>
+				<p>Easily find a nearby jobs using a map.</p>
 			</div>
 		</div>
        	<div class="col-md-4 icon-service">
@@ -94,8 +94,8 @@
 				<i class="fa fa-briefcase"></i>
 			</div>
 			<div class="icon-box-body">
-				<h4>Content here</h4>
-				<p>The standard chunk of Lorem Ipsum used since the 1500s</p>
+				<h4>Post a job</h4>
+				<p>Post a job vacancy for your company.</p>
 			</div>
 		</div>
 		<div class="col-md-4 icon-service">
@@ -103,8 +103,8 @@
 				<i class="fa fa-bar-chart-o"></i>
 			</div>
 			<div class="icon-box-body">
-				<h4>Content here</h4>
-				<p>The standard chunk of Lorem Ipsum used since the 1500s</p>
+				<h4>Customer services </h4>
+				<p>You can contact us using Gmail, mobile numbers or social media.</p>
 			</div>
 		</div>
 		<div class="col-md-4 icon-service">
@@ -112,8 +112,8 @@
 				<i class="fa fa-bug"></i>
 			</div>
 			<div class="icon-box-body">
-				<h4>Content here</h4>
-				<p>The standard chunk of Lorem Ipsum used since the 1500s</p>
+				<h4>Applying A Job</h4>
+				<p>Easy to apply a job post. </p>
 			</div>
 		</div>
 		<div class="col-md-4 icon-service">
@@ -121,8 +121,8 @@
 				<i class="fa fa-flash"></i>
 			</div>
 			<div class="icon-box-body">
-				<h4>Content here</h4>
-				<p>The standard chunk of Lorem Ipsum used since the 1500s</p>
+				<h4>Locate You</h4>
+				<p>See what are the jobs vacancies near by.</p>
 			</div>
 		</div>
        	<div class="clearfix"> </div>
