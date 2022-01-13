@@ -216,7 +216,7 @@
 		</div>
 		<div class="col-md-3 team-member text-center">
 	        <img src="images/Tharu.jpg" class="img-responsive img-circle1" alt=""/>
-			<h5>Tharshi</h5>
+			<h5>Tharshi Umayanga</h5>
 			<h6>Account Manager</h6>
 			<p>As an Account Manager at Rassa.lk, I have experience working extensively with several companies. I am a graduate of software engineering at sri lanka technologycle campus and am currently studying for my master's degree.</p>
 			<a href="#"><i class="fa fa-facebook fa1"> </i></a>
