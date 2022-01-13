@@ -83,8 +83,7 @@
     <div class="single">  
 	   <div class="form-container">
         <h2>Upload Your Job Details</h2>
-		<p1>Confirmation of your post will be provided through email.
-		<p2>Post your Email and information RAR file below. 
+		<p>Confirmation of your post will be provided through email. Post your Email and information RAR file below. </p>
         <div class="search_form1">
 		    <form action="">
 			  <input type="text" class="text" placeholder=" " value="Email Address" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Email Address';}"><br>
@@ -109,7 +108,7 @@
 				<li><a href="features.php">Features</a></li>
 				<li><a href="terms.php">Terms of use</a></li>
 				<li><a href="contact.php">Contact Us</a></li>
-				<li><a href="jobs.php">Post a Job</a></li>
+				<li><a href="postjob.php">Post a Job</a></li>
 			</ul>
 			<div class="clearfix"> </div>
 		</div>

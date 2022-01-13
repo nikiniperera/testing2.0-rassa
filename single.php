@@ -222,7 +222,7 @@
 				<li><a href="features.php">Features</a></li>
 				<li><a href="terms.php">Terms of use</a></li>
 				<li><a href="contact.php">Contact Us</a></li>
-				<li><a href="jobs.php">Post a Job</a></li>
+				<li><a href="postjob.php">Post a Job</a></li>
 			</ul>
 			<div class="clearfix"> </div>
 		</div>
