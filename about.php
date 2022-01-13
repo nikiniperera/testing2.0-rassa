@@ -64,7 +64,7 @@
 				<ul>
 					<li><span class="dropcap">1.</span>  
 					   <div class="item_content">
-						<h5><a href="#">• Any Company representatives logging in may also access any information put up by Job Seeker.</a></h5> 
+						<h5><a href="#">Any Company representatives logging in may also access any information put up by Job Seeker.</a></h5> 
 						</div>
 					</li>
 			    </ul>
@@ -75,7 +75,7 @@
 				<ul>
 					<li><span class="dropcap">2.</span>  
 					   <div class="item_content">
-						<h5><a href="#">• we can be used as an Online Job Portal for the Placements providing to the un employees who are seeking for a job placement. </a></h5> 
+						<h5><a href="#">we can be used as an Online Job Portal for the Placements providing to the un employees who are seeking for a job placement. </a></h5> 
 					   </div>
 					</li>
 			    </ul>
@@ -86,7 +86,7 @@
 				<ul>
 					<li><span class="dropcap">3.</span>  
 					   <div class="item_content">
-						<h5><a href="#">• Anyone can easily place an ad for any job vacancy anywhere, in any workplace</a></h5> 
+						<h5><a href="#">Anyone can easily place an ad for any job vacancy anywhere, in any workplace</a></h5> 
 					</div>
 					</li>
 			    </ul>
