@@ -34,17 +34,7 @@
 	    <!--/.navbar-header-->
 	    <div class="navbar-collapse collapse" id="bs-example-navbar-collapse-1" style="height: 1px;">
 	        <ul class="nav navbar-nav">
-		        <li class="dropdown">
-		            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Jobs<b class="caret"></b></a>
-		            <ul class="dropdown-menu">
-			            <li><a href="location.php">Contract Jobs</a></li>
-			            <li><a href="location.php">Walkin Jobs</a></li>
-			            <li><a href="location.php">Jobs by Location</a></li>
-			            <li><a href="location.php">Jobs by Function</a></li>
-			            <li><a href="location.php">Jobs by Industry</a></li>
-			            <li><a href="location.php">Jobs by Company</a></li>
-		            </ul>
-		        </li>
+				<li><a href="jobs.php">Jobs</a></li>
 				<li><a href="services.php">Services</a></li>
 		        <li><a href="recruiters.php">Recruiters</a></li>
 		        <li class="dropdown">
