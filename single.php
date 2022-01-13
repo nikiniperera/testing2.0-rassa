@@ -111,7 +111,7 @@
 		            </ul>
 		        </li>
 		        <li><a href="login.php">Login</a></li>
-		        <li><a href="resume.php">Upload Resume</a></li>
+		        <li><a href="postjob.php">Post Job</a></li>
 	        </ul>
 	    </div>
 	    <div class="clearfix"> </div>
