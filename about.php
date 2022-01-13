@@ -208,7 +208,7 @@
 		    <img src="images/f13.jpg" class="img-responsive img-circle1" alt=""/>
 			<h5>Nipun Anjana</h5>
 			<h6>Administrative Manager</h6>
-			<p>Nipun Anjana is an administrative working alongside the executive team of a Rassa.lk company. he is studying Cloud Computing at Sri Lanka technological campus.</p>
+			<p>Nipun Anjana is an administrative working alongside the executive team of a Rassa.lk company. Currently he is studying Cloud Computing at Sri Lanka Technological Campus in Padukka..</p>
 			<a href="#"><i class="fa fa-facebook fa1"> </i></a>
 			<a href="#"><i class="fa fa-twitter fa1"> </i></a>
 			<a href="#"><i class="fa fa-linkedin fa1"> </i></a>
