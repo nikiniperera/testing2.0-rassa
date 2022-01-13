@@ -214,7 +214,7 @@
 			<a href="#"><i class="fa fa-linkedin fa1"> </i></a>
 			<a href="#"><i class="fa fa-instagram fa1"> </i></a>
 		</div>
-		<div class="col-md-3 team-member text-center">
+		<div class=" team-member text-center">
 	        <img src="images/Tharu.jpg" class="img-responsive img-circle1" alt=""/>
 			<h5>Tharshi Umayanga</h5>
 			<h6>Account Manager</h6>
