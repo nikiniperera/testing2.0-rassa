@@ -1,4 +1,4 @@
-//removed some "X" in code 
+
 <!DOCTYPE HTML>
 <html>
 <head>
@@ -160,7 +160,7 @@
 					      	</div>
 	                        <div class="modal-body">
 					          Before you apply you have to login as a candidate			
-					          <p><a href="login.htphpml">Log in</a></p>
+					          <p><a href="login.php">Log in</a></p>
 					      	</div>
 				    	</div>
 				  	</div>
