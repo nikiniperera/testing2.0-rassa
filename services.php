@@ -131,25 +131,25 @@
        	  <h3>Clients say</h3>
        	  <div class="col-md-6 testimonial">
 		    <blockquote>
-				<p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable</p>
+				<p>This is a very useful website that can provide job opportunities to many people. What I find most unique is the ease of providing job opportunities around them.</p>
 			</blockquote>
 			<div class="author">
 				<figure class="author-img">
 					<img src="images/f2.jpg" class="img-responsive" alt=""/>
 				</figure>
-				<h6>randomised</h6>
+				<h6>Mark</h6>
 				<span class="author-info">Designer, Compay Name</span>
 			</div>
 		  </div>
 		  <div class="col-md-6 testimonial">
 		    <blockquote>
-				<p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable</p>
+				<p>A very valuable website. Please continue.</p>
 			</blockquote>
 			<div class="author">
 				<figure class="author-img">
 					<img src="images/f1.jpg" class="img-responsive" alt=""/>
 				</figure>
-				<h6>alteration</h6>
+				<h6>Tharushi</h6>
 				<span class="author-info">Designer, Compay Name</span>
 			</div>
 		 </div>
