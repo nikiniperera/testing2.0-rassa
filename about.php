@@ -175,7 +175,7 @@
 	<div class="container">
 		<h3>Our Team</h3>
 	    <div class="col-md-3 team-member text-center">
-		    <img src="images/f9.jpg" class="img-responsive img-circle1" alt=""/>
+		    <img src="images/Yomin.jpg" class="img-responsive img-circle1" alt=""/>
 			<h5>Yomindu Rajasooriya</h5>
 			<h6>Front-End Developer </h6>
 			<p>Yomindu Rajasooriya is Working as a front-end developer and Managing director alongside the executive team of Rassa.lk company. He is studying Cloud Computing at Sri Lanka Technological Campus. </p>
@@ -185,7 +185,7 @@
 			<a href="#"><i class="fa fa-instagram fa1"> </i></a>
 		</div>
 		<div class="col-md-3 team-member text-center">
-			<img src="images/f8.jpg" class="img-responsive img-circle1" alt=""/>
+			<img src="images/Niki.jpg" class="img-responsive img-circle1" alt=""/>
 			<h5>Nikini Perera</h5>
 			<h6>Back-End Developer</h6>
 			<p>Nikini Perera is working as back-end developer and Graphic Designer alongside the executive team of Rassa.lk company. She is studying Cyber Security  at Sri Lanka Technological Campus.</p>
@@ -195,7 +195,7 @@
 			<a href="#"><i class="fa fa-instagram fa1"> </i></a>
 		</div>
 		<div class="col-md-3 team-member text-center">
-		    <img src="images/f10.jpg" class="img-responsive img-circle1" alt=""/>
+		    <img src="images/Dine.jpg" class="img-responsive img-circle1" alt=""/>
 			<h5>Dinethri Upeksha</h5>
 			<h6>Content Manager</h6>
 			<p>Dinethri Upeksha is the Content Manager on the Executive Team of Rassa.lk company. She is responsible for creating improving and maintaining content with the goal of achieving business goals. Currently she is studying Cloud Computing at Sri Lanka Technological Campus in Padukka.</p>
@@ -215,7 +215,7 @@
 			<a href="#"><i class="fa fa-instagram fa1"> </i></a>
 		</div>
 		<div class="col-md-3 team-member text-center">
-	        <img src="images/f7.jpg" class="img-responsive img-circle1" alt=""/>
+	        <img src="images/Tharu.jpg" class="img-responsive img-circle1" alt=""/>
 			<h5>Tharshi</h5>
 			<h6>Account Manager</h6>
 			<p>As an Account Manager at Rassa.lk, I have experience working extensively with several companies. I am a graduate of software engineering at sri lanka technologycle campus and am currently studying for my master's degree.</p>
