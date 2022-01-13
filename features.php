@@ -59,27 +59,17 @@
 	 </div>
 	 <div class="col-md-8 single_right">
 	    <h3>Features</h3>	
-	    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
-	    <p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.</p>
-	    <h5>Requirements</h5>   
-	    <ul class="feature_list">
-			<li>There are many variations of passages of Lorem Ipsum available.</li>
-			<li>It is a long established fact that a reader.</li>
-			<li>Nulla rutrum nisi mi, iaculis commodo nibh lobortis sed.</li>
-			<li>Sed pulvinar, nunc vitae molestie dapibus, lacus dolor dignissim sapien.</li>
-			<li>Pellentesque ipsum ex, imperdiet quis consequat sed, consectetur ut ante.</li>
-			<li>Aliquam libero felis, mollis vitae elementum vel, bibendum eu tortor.</li>
-			<li>Lorem ipsum dolor sit amet.</li>
-		</ul>
+	    <p>We design and develop an online job portal for delivering job placements to employees who are looking for a job vacancies. Our system allows job seekers and recruiters to communicate with each other. We develop our site that any job seekers can register and look for positions that are suited for them, while companies may register and post opportunities that are available at their organization. Gives members with a job catalog and information, assisting them in deciding which jobs to apply for. Also admins and businesses can keep the jobs database up to current at all times so that job seekers have access to the most up-to-date information. We provide an option that any outsiders can post a job and job advertisement.</p>
+	    
 		<h5>Benefits</h5>   
 		<ul class="feature_list">
-			<li>Aliquam rhoncus justo eget tellus scelerisque, at mollis mi aliquam.</li>
-			<li>Quisque pretium convallis pulvinar.</li>
-			<li>Nulla rutrum nisi mi, iaculis commodo nibh lobortis sed.</li>
-			<li>Sed pulvinar, nunc vitae molestie dapibus, lacus dolor dignissim sapien.</li>
-			<li>Pellentesque ipsum ex, imperdiet quis consequat sed, consectetur ut ante.</li>
-			<li>Aliquam libero felis, mollis vitae elementum vel, bibendum eu tortor.</li>
-			<li>Morbi rhoncus luctus interdum.</li>
+			<li>•	The user is mainly concerned with the data's accuracy, regardless of what he is entering. Every stage of any new creation, data entering, or updating is checked to ensure that the user does not submit invalid data.</li>
+			<li>•	The user can manage records he previously entered. With the various options available to him, he can see the records he wants.</li>
+			<li>•	Data storage and retrieval will become faster and easier to maintain because data is stored in a systematic manner and in a single database.</li>
+			<li>•	The decision-making process would be greatly aided by faster information processing, as data collecting from computer-based information takes much less time than a manual system.</li>
+			<li>•	Allocating sample results becomes significantly faster because the user can view previous year's records at any time.</li>
+			<li>•	Easier and faster data transfer thanks to the latest computer and communication technology; these features will boost efficiency, accuracy, and transparency.</li>
+			
 		</ul>
      </div>
      <div class="clearfix"> </div>
