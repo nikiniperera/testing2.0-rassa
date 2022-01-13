@@ -170,8 +170,7 @@
     </div>
 </div>
 <div class="map">
-<div class="mapouter"><div class="gmap_canvas"><iframe width="2000" height="215" id="gmap_canvas" src="https://maps.google.com/maps?q=kottawa&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><a href="https://123movies-to.org"></a><br><style>.mapouter{position:relative;text-align:right;height:215px;width:1014px;}</style><a href="https://www.embedgooglemap.net">how to copy a map from google maps</a><style>.gmap_canvas {overflow:hidden;background:none!important;height:215px;width:1014px;}</style></div></div></div>
-<div class="footer">
+<div class="mapouter"><div class="gmap_canvas"><iframe width="1080" height="215" id="gmap_canvas" src="https://maps.google.com/maps?q=kottawa&t=&z=9&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><a href="https://123movies-to.org"></a><br><style>.mapouter{position:relative;text-align:right;height:215px;width:1080px;}</style><a href="https://www.embedgooglemap.net">how to copy a map from google maps</a><style>.gmap_canvas {overflow:hidden;background:none!important;height:215px;width:1080px;}</style></div></div><div class="footer">
 	<div class="container">
 		<div class="col-md-3 grid_3">
 			<h4>Navigate</h4>
