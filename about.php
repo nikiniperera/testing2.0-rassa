@@ -45,8 +45,8 @@
 		            </ul>
 		        </li>
 		        <li><a href="services.php">Services</a></li>
-				
-		        <li><a href="follow_single.php">Recruiters</a></li>
+
+		        <li><a href="recruiters.php">Recruiters</a></li>
 		            
 		        <li class="dropdown">
 		            <a href="#" class="dropdown-toggle" data-toggle="dropdown">More<b class="caret"></b></a>
