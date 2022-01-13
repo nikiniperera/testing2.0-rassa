@@ -39,18 +39,10 @@
 		        <li class="dropdown">
 		            <a href="#" class="dropdown-toggle" data-toggle="dropdown">More<b class="caret"></b></a>
 		            <ul class="dropdown-menu">
-			            <li><a href="jobs.php">Walk-ins</a></li>
-			            <li><a href="jobs.php">Bpo Jobs</a></li>
-			            <li><a href="jobs.php">Teaching Jobs</a></li>
-			            <li><a href="jobs.php">Diploma Jobs</a></li>
-			            <li><a href="jobs.php">Tech Support</a></li>
-			            <li><a href="jobs.php">Finance Jobs</a></li>
-			            <li><a href="jobs.php">Part time Jobs</a></li>
-			            <li><a href="jobs.php">Health Care</a></li>
-			            <li><a href="jobs.php">Hospitality</a></li>
-			            <li><a href="jobs.php">Internships</a></li>
-			            <li><a href="jobs.php">Research Jobs</a></li>
-			            <li><a href="jobs.php">Defence Jobs</a></li>
+                        <li><a href="features.php">Features</a></li>
+			            <li><a href="terms.php">Terms of use</a></li>
+						<li><a href="contact.php">Contact Us</a></li>
+			            <li><a href="about.php">About Us</a></li>
 		            </ul>
 		        </li>
 		        <li><a href="login.php">Login</a></li>
