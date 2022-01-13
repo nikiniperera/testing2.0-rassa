@@ -133,8 +133,6 @@
 </div>	
 <div class="container">
     <div class="single">  
-	   
-	 </div>
 	 <div class="col-md-8 single_right">
 	 	   <div class="login-form-section">
                 <div class="login-content">
@@ -184,7 +182,7 @@
 		           </div>
                 </div>
          </div>
-   </div>
+  
   <div class="clearfix"> </div>
  </div>
 </div>
