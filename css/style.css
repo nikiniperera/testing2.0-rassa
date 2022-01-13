@@ -1,4 +1,4 @@
-
+team-member
 h4, h5, h6,
 h1, h2, h3 {margin-top: 0;}
 ul, ol {margin: 0;}
@@ -2742,7 +2742,7 @@ ul.grid-1 li.grid-1_right h4, ul.grid-1 li.grid-1_left h4 {
     font-size: 0.85em;
 }    
 .col-md-3.team-member.text-center {
-    width: 100%;
+    width: 80%;
     padding: 20px 10px;
     float: none;
 }
