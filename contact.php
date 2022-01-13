@@ -67,90 +67,32 @@
                 <dl>
                     <dt>Freephone:</dt>
                     <dd>
-                        +1 2587 4677 236
+                        +9 4771 495 372
+
                     </dd>
                 </dl>
                 <dl>
                     <dt>Telephone:</dt>
                     <dd>
-                        +1 2587 4677 236
+                        +9 4766 720 606
+
                     </dd>
                 </dl>
                 <dl>
                     <dt>FAX:</dt>
                     <dd>
-                        +1 2587 4677 236
+                        +9 4714 150 451
+
                     </dd>
                 </dl>
                 <dl class="email">
                     <dt>E-mail:</dt>
                     <dd>
-                        <a href="malito:mail@demolink.org">mail(at)Job Portal.com</a>
+                        <a href=" dev.rassa.lk@gmail.com">mail(at)Rassa.lk</a>
                     </dd>
                 </dl>
            </address>
-          </div>
-          <div class="col-sm-4">
-	   	   <address class="addr">
-                <p class="secondary3">
-                    58701 Lorem Ipsum, <br>
-                   nulla pariatur.</p>
-                <dl>
-                    <dt>Freephone:</dt>
-                    <dd>
-                        +1 2587 4677 236
-                    </dd>
-                </dl>
-                <dl>
-                    <dt>Telephone:</dt>
-                    <dd>
-                        +1 2587 4677 236
-                    </dd>
-                </dl>
-                <dl>
-                    <dt>FAX:</dt>
-                    <dd>
-                        +1 2587 4677 236
-                    </dd>
-                </dl>
-                <dl class="email">
-                    <dt>E-mail:</dt>
-                    <dd>
-                        <a href="malito:mail@demolink.org">mail(at)Job Portal.com</a>
-                    </dd>
-                </dl>
-           </address>
-          </div>
-          <div class="col-sm-4">
-	   	   <address class="addr">
-                <p class="secondary3">
-                    578 Marmora Road, <br>
-                   Lorem Ipsum, D04 89GR.</p>
-                <dl>
-                    <dt>Freephone:</dt>
-                    <dd>
-                        +1 2587 4677 236
-                    </dd>
-                </dl>
-                <dl>
-                    <dt>Telephone:</dt>
-                    <dd>
-                        +1 2587 4677 236
-                    </dd>
-                </dl>
-                <dl>
-                    <dt>FAX:</dt>
-                    <dd>
-                        +1 2587 4677 236
-                    </dd>
-                </dl>
-                <dl class="email">
-                    <dt>E-mail:</dt>
-                    <dd>
-                        <a href="malito:mail@demolink.org">mail(at)Job Portal.com</a>
-                    </dd>
-                </dl>
-           </address>
+        
           </div>
           <div class="clearfix"> </div>
 	   </div>
