@@ -65,10 +65,10 @@
 	      	</div>
 	      	<div class="col-sm-7 single-para">
 			  <table class="condidate_detail">
-          	<h4>Candidate Details</h4>
+          	<h4>Job Details</h4>
 			<tbody>
 				<tr>
-					<td>Name</td>
+					<td>Company Name</td>
 					<td>Lorem Ipsum</td>
 				</tr>
 

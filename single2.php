@@ -68,7 +68,7 @@
           	<h4>Candidate Details</h4>
 			<tbody>
 				<tr>
-					<td>Name</td>
+					<td>Company Name</td>
 					<td>Lorem Ipsum</td>
 				</tr>
 
