@@ -267,6 +267,7 @@
 		   </div>
 	   </div>
 	   <div class="clearfix"> </div>
+	<div class="clearfix"> </div>
 	 </div>
 	 <div class="container">
 	 	<ul class="pagination jobs_pagination">
@@ -279,7 +280,7 @@
 			<li><a href="#" aria-label="Next"><span aria-hidden="true">»</span></a></li>
 		</ul>
 	</div>
-	<div class="clearfix"> </div>
+	
 	<div class="single">  
    </div>
 </div>
