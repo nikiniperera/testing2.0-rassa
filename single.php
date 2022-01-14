@@ -64,8 +64,60 @@
 	      		<img src="images/a1.jpg" class="img-responsive" alt=""/>
 	      	</div>
 	      	<div class="col-sm-7 single-para">
-	      		<p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', </p>
-	      		<p>"Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
+			  <table class="condidate_detail">
+          	<h4>Candidate Details</h4>
+			<tbody>
+				<tr>
+					<td>Name</td>
+					<td>Lorem Ipsum</td>
+				</tr>
+
+				<tr>
+					<td>Age</td>
+					<td>35 Years Old</td>
+				</tr>
+
+				<tr>
+					<td>Location</td>
+					<td>Australia</td>
+				</tr>
+
+				<tr>
+					<td>Experiance</td>
+					<td>10 Years</td>
+				</tr>
+
+				<tr>
+					<td>Dgree</td>
+					<td>MCA</td>
+				</tr>
+
+				<tr>
+					<td>Career Lavel</td>
+					<td>Mid-Level</td>
+				</tr>
+
+				<tr>
+					<td>Phone</td>
+					<td>(800) 2547-879</td>
+				</tr>
+
+				<tr>
+					<td>Fax</td>
+					<td>(800) 1247-256</td>
+				</tr>
+
+				<tr>
+					<td>E-mail</td>
+					<td><a href="mailto:example@example.com">example@example.com</a></td>
+				</tr>
+
+				<tr>
+					<td>Website</td>
+					<td><a href="#">example.com</a></td>
+				</tr>
+			</tbody>
+		 </table>
 	      	</div>
 	      	<div class="clearfix"> </div>
 	      </div>
