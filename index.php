@@ -261,13 +261,8 @@
 						<span class="share1 google">Share</span>
 					</a>
 			   </div>
-
-			  </div>
-			<div class="clearfix"> </div>
-		   </div>
-		   <div class="clearfix"> </div>
-	 	   </div>
-			<ul class="pagination jobs_pagination">
+			   <div class="clearfix"> </div>
+			   <ul class="pagination jobs_pagination">
 					<li class="disabled"><a href="#" aria-label="Previous"><span aria-hidden="true">«</span></a></li>
 					<li class="active"><a href="#">1 <span class="sr-only">(current)</span></a></li>
 					<li><a href="#">2</a></li>
@@ -275,8 +270,10 @@
 					<li><a href="#">4</a></li>
 					<li><a href="#">5</a></li>
 					<li><a href="#" aria-label="Next"><span aria-hidden="true">»</span></a></li>
-			</ul>
-		   
+				</ul>
+			  </div>
+			<div class="clearfix"> </div>
+		   </div>
 	   </div>
 	   <div class="clearfix"> </div>
 	 </div>
