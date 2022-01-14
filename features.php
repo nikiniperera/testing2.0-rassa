@@ -58,8 +58,15 @@
     <div class="single">     
 	 </div>
 	 <div class="col-md-8 single_right">
-	    <h3>Features</h3>	
-	    <p>We design and develop an online job portal for delivering job placements to employees who are looking for a job vacancies. Our system allows job seekers and recruiters to communicate with each other. We develop our site that any job seekers can register and look for positions that are suited for them, while companies may register and post opportunities that are available at their organization. Gives members with a job catalog and information, assisting them in deciding which jobs to apply for. Also admins and businesses can keep the jobs database up to current at all times so that job seekers have access to the most up-to-date information. We provide an option that any outsiders can post a job and job advertisement.</p>
+	 	<h5>Features</h5>   
+		<ul class="feature_list">
+			<li>Apply on job.</li>
+			<li>Job posting.</li>
+			<li>Applicants should be able to store their preferred positions that they have already browsed through and bookmark them so that they may refer back to them when they need to review, update, or re-submit their applications.</li>
+			<li>Easy to use.</li>
+			<li>Quick and easy registration.</li>
+			<li>Social Media integrations.</li>
+			<li>Mobility Support or App.</li>
 	    
 		<h5>Benefits</h5>   
 		<ul class="feature_list">
