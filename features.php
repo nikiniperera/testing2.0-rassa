@@ -69,14 +69,14 @@
 			<li>Mobility Support or App.</li>
 			<li>Applicants should be able to store their preferred positions that they have already browsed through and bookmark them so that they may refer back to them when they need to review, update, or re-submit their applications.</li>
 	    
-		<h5>Benefits</h5>   
-		<ul class="Benefit_list">
-			<li>The user is mainly concerned with the data's accuracy, regardless of what he is entering. Every stage of any new creation, data entering, or updating is checked to ensure that the user does not submit invalid data.</li>
-			<li>The user can manage records he previously entered. With the various options available to him, he can see the records he wants.</li>
-			<li>Data storage and retrieval will become faster and easier to maintain because data is stored in a systematic manner and in a single database.</li>
-			<li>The decision-making process would be greatly aided by faster information processing, as data collecting from computer-based information takes much less time than a manual system.</li>
-			<li>Allocating sample results becomes significantly faster because the user can view previous year's records at any time.</li>
-			<li>Easier and faster data transfer thanks to the latest computer and communication technology; these features will boost efficiency, accuracy, and transparency.</li>
+			<li><h5>Benefits</h5> </li>  
+			<li><ul class="Benefit_list"></li>
+				<li>The user is mainly concerned with the data's accuracy, regardless of what he is entering. Every stage of any new creation, data entering, or updating is checked to ensure that the user does not submit invalid data.</li>
+				<li>The user can manage records he previously entered. With the various options available to him, he can see the records he wants.</li>
+				<li>Data storage and retrieval will become faster and easier to maintain because data is stored in a systematic manner and in a single database.</li>
+				<li>The decision-making process would be greatly aided by faster information processing, as data collecting from computer-based information takes much less time than a manual system.</li>
+				<li>Allocating sample results becomes significantly faster because the user can view previous year's records at any time.</li>
+				<li>Easier and faster data transfer thanks to the latest computer and communication technology; these features will boost efficiency, accuracy, and transparency.</li>
 			
 		</ul>
 	 </ul>
