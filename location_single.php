@@ -33,7 +33,7 @@
 	    <!--/.navbar-header-->
 	    <div class="navbar-collapse collapse" id="bs-example-navbar-collapse-1" style="height: 1px;">
 	        <ul class="nav navbar-nav">
-				<li><a href="jobs.php">Jobs</a></li>
+				<li><a href="index.php">Jobs</a></li>
 		        <li><a href="services.php">Services</a></li>
 		        <li><a href="https://recruitme.lk/jobs-in-sri-lanka">Recruiters</a></li>
 		        <li class="dropdown">
