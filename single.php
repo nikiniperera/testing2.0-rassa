@@ -133,16 +133,14 @@
 			  </div>
 			  <div class="clearfix"> </div>
 			</div>
-			<div class="media">
-			  <div class="media-left"><a href="#"> </a></div>
-			  <div class="media-body">
-			    <h4 class="media-heading"><a class="author" href="#"></a><a class="reply" href="#"></a><div class="clearfix"> </div></h4>
-			   
-			  </div>
+			
 			</div>
 		  </div>
 		  <form>
-			
+			<div class="to">
+             	<input type="text" class="text" value="Name" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Name';}">
+			 	<input type="text" class="text" value="Email" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Email';}" style="margin-left:3%">
+			</div>
 			<div class="text">
                <textarea value="Message" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Message';}">Message</textarea>
             </div>
