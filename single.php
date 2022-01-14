@@ -125,15 +125,7 @@
 	      <p>This position will work directly with client customers to provide world-class application baseload and non-baseload support for multiple utility company applications. The successful candidate will design, develop, deploy and support technical solutions in a collaborative team environment. Must have solid understanding and production experience in analyzing, developing, and deploying solutions Gather software application requirements through interactions with business users. And must Collaborate with business analyst team members to identify gaps and dependencies in requirements across applications and departments. We provide outsourcing, staffing, consulting and workforce solutions within the areas of engineering, accounting and finance, healthcare, human resources, IT, legal, life sciences, manufacturing and logistics, office and administration and sales and marketing. </p>
 	      <div class="comments">
 	      	<h6>Comments</h6>
-			<div class="media media_1">
-			  <div class="media-left"><a href="#"> </a></div>
-			  <div class="media-body">
-			    <h4 class="media-heading"><a class="author" href="#"></a><a class="reply" href="#"></a><div class="clearfix"> </div></h4>
-			   
-			  </div>
-			  <div class="clearfix"> </div>
-			</div>
-			
+
 			</div>
 		  </div>
 		  <form>
