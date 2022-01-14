@@ -55,8 +55,7 @@
 	    <!--/.navbar-collapse-->
 	</nav>
 <div class="container">
-    <div class="single">  
-	 </div>
+   
 	 <div class="col-md-8 single_right">
 	      <h3>Sed ut perspiciatis unde omnis iste natus</h3>
 	      <div class="row_1">
