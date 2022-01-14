@@ -55,14 +55,14 @@
 	</nav>
 	
 <div class="container">
-    <div class="single">     
-	 </div>
+    <div class="single"></div>     
 	 
+	 <div class="col-md-8 single_right">
 	 	<h5>Features</h5>   
 		<ul class="feature_list">
 			<li>Apply on job.</li>
 			<li>Job posting.</li>
-			<li>Applicants should be able to store their preferred positions that they have already browsed through and bookmark them so that they may refer back to them when they need to review, update, or re-submit their applications.</li>
+			
 			<li>Easy to use.</li>
 			<li>Quick and easy registration.</li>
 			<li>Social Media integrations.</li>
