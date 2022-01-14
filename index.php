@@ -144,7 +144,7 @@
 				<a href="single1.php"><img src="images/a2.jpg" class="img-responsive" alt=""/></a>
 			</div>
 			<div class="col-sm-8 row_1">
-				<h4><a href="single.php">Lorem Ipsum is simply dummy</a></h4>
+				<h4><a href="single1.php">Lorem Ipsum is simply dummy</a></h4>
 				<h6>SIt is a long <span class="dot">·</span> Jul. 31, 2015</h6>
 				<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium.</p>
 				<div class="social">	
@@ -169,7 +169,7 @@
 				<a href="single2.php"><img src="images/a3.jpg" class="img-responsive" alt=""/></a>
 			</div>
 			<div class="col-sm-8 row_1">
-				<h4><a href="single.php">There are many variations</a></h4>
+				<h4><a href="single2.php">There are many variations</a></h4>
 				<h6>SIt is a long <span class="dot">·</span> Jul. 31, 2015</h6>
 				<p>YBut I must explain to you how all this mistaken idea of denouncing pleasure.</p>
 				<div class="social">	
@@ -191,10 +191,10 @@
 		   </div>
 		   <div class="col_1">
    	         <div class="col-sm-4 row_2">
-				<a href="single.php"><img src="images/a4.jpg" class="img-responsive" alt=""/></a>
+				<a href="single3.php"><img src="images/a4.jpg" class="img-responsive" alt=""/></a>
 			</div>
 			<div class="col-sm-8 row_1">
-				<h4><a href="single.php">Contrary to popular belief</a></h4>
+				<h4><a href="single3.php">Contrary to popular belief</a></h4>
 				<h6>SIt is a long <span class="dot">·</span> Jul. 31, 2015</h6>
 				<p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti.</p>
 				<div class="social">	
@@ -216,10 +216,10 @@
 		   </div>
 		   <div class="col_1">
    	         <div class="col-sm-4 row_2">
-				<a href="single.php"><img src="images/a5.jpg" class="img-responsive" alt=""/></a>
+				<a href="single4.php"><img src="images/a5.jpg" class="img-responsive" alt=""/></a>
 			</div>
 			<div class="col-sm-8 row_1">
-				<h4><a href="single.php">At vero eos et accusamus</a></h4>
+				<h4><a href="single4.php">At vero eos et accusamus</a></h4>
 				<h6>SIt is a long <span class="dot">·</span> Jul. 31, 2015</h6>
 				<p>On the other hand, we denounce with righteous indignation and dislike men.</p>
 				<div class="social">	
@@ -241,10 +241,10 @@
 		   </div>
 		   <div class="col_2">
    	         <div class="col-sm-4 row_2">
-				<a href="single.php"><img src="images/a6.jpg" class="img-responsive" alt=""/></a>
+				<a href="single5.php"><img src="images/a6.jpg" class="img-responsive" alt=""/></a>
 			</div>
 			<div class="col-sm-8 row_1">
-				<h4><a href="single.php">On the other hand</a></h4>
+				<h4><a href="single5.php">On the other hand</a></h4>
 				<h6>SIt is a long <span class="dot">·</span> Jul. 31, 2015</h6>
 				<p>Contrary to popular belief, Lorem Ipsum is not simply random text.</p>
 				<div class="social">	
