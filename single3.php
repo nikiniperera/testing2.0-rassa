@@ -58,7 +58,7 @@
     <div class="single">  
 	 </div>
 	 <div class="col-md-8 single_right">
-	      <h3>Sed ut perspiciatis unde omnis iste natus</h3>
+	      <h3>Finance Manager</h3>
 	      <div class="row_1">
 	      	<div class="col-sm-5 single_img">
 	      		<img src="images/a4.jpg" class="img-responsive" alt=""/>
@@ -69,17 +69,17 @@
 			<tbody>
 				<tr>
 					<td>Company Name</td>
-					<td>POINT O'WOODS BEACH ASSOCIATION</td>
+					<td>Sysco Resources Services</td>
 				</tr>
 
 				<tr>
 					<td>Age</td>
-					<td>28-35</td>
+					<td>20-35</td>
 				</tr>
 
 				<tr>
 					<td>Location</td>
-					<td>Tricomalee</td>
+					<td>Colombo</td>
 				</tr>
 
 				<tr>
@@ -94,12 +94,12 @@
 
 				<tr>
 					<td>Career Lavel</td>
-					<td>High-Level</td>
+					<td>Mid-Level</td>
 				</tr>
 
 				<tr>
 					<td>Phone</td>
-					<td>: 078 4343 567</td>
+					<td>: 011 433 5677</td>
 				</tr>
 
 				<tr>
@@ -109,7 +109,7 @@
 
 				<tr>
 					<td>E-mail</td>
-					<td><a href="pointwood@gmail.com">pointwood@gmail.com</a></td>
+					<td><a href="syscoresources@gmai.com">syscoresources@gmai.com</a></td>
 				</tr>
 
 			
@@ -125,8 +125,8 @@
 			<div class="media media_1">
 			  <div class="media-left"><a href="#"> </a></div>
 			  <div class="media-body">
-			    <h4 class="media-heading"><a class="author" href="#">Nipun</a><a class="reply" href="#">Reply</a><div class="clearfix"> </div></h4>
-                I would like to work with your company.
+			    <h4 class="media-heading"><a class="author" href="#">Kesha</a><a class="reply" href="#">Reply</a><div class="clearfix"> </div></h4>
+                How do I know the details of your company?  I would like to join with your cmpany.
 			  </div>
 			  <div class="clearfix"> </div>
 			</div>
