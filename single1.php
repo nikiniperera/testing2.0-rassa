@@ -112,33 +112,25 @@
 					<td><a href="saasevent@gmail.com">saasevent@gmail.com</a></td>
 				</tr>
 
-				<tr>
-					<td>Website</td>
-					<td><a href="#">example.com</a></td>
-				</tr>
+				
 			</tbody>
 		 </table>
 	      	</div>
 	      	<div class="clearfix"> </div>
 	      </div>
-	      <h5>At vero eos et accusamus et iusto odio dignissimos</h5>
-	      <p>"On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire, that they cannot foresee the pain and trouble that are bound to ensue; and equal blame belongs to those who fail in their duty through weakness of will, which is the same as saying through shrinking from toil and pain. These cases are perfectly simple and easy to distinguish. In a free hour, when our power of choice is untrammelled and when nothing prevents our being able to do what we like best, every pleasure is to be welcomed and every pain avoided. But in certain circumstances and owing to the claims of duty or the obligations of business it will frequently occur that pleasures have to be repudiated and annoyances accepted. </p>
+	      <h5>Job Description</h5>
+	      <p>"Our mission is to be a world leader in matching demand for, and supply of, labor and HR services. We believe in the value of work as a unifying force that shapes society for the better. We live by the core values established early in our company's history. A Project Assistant/ Administrative Support Specialist is needed for a leading manufacturing. The Project Assistant/ Administrative Support Specialist is responsible for manage SharePoint sites and performing daily departmental functions for the engineering department including budget management, running reports, record and draft minute meetings, and coordinating weekly engineering schedules.</p>
 	      <div class="comments">
 	      	<h6>Comments</h6>
 			<div class="media media_1">
 			  <div class="media-left"><a href="#"> </a></div>
 			  <div class="media-body">
 			    <h4 class="media-heading"><a class="author" href="#">Sollicitudin</a><a class="reply" href="#">Reply</a><div class="clearfix"> </div></h4>
-			    Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin commodo. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus.
+			    I have these qualifications.  How do I apply for this?  May I know more details.
 			  </div>
 			  <div class="clearfix"> </div>
 			</div>
-			<div class="media">
-			  <div class="media-left"><a href="#"> </a></div>
-			  <div class="media-body">
-			    <h4 class="media-heading"><a class="author" href="#">Sollicitudin</a><a class="reply" href="#">Reply</a><div class="clearfix"> </div></h4>
-			    Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin commodo. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus.
-			  </div>
+			
 			</div>
 		  </div>
 		  <form>
