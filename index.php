@@ -72,7 +72,7 @@
 </div>	
 <div class="container">
   <div class="grid_1">
-	 <h3>Featured Employers</h3>
+	 <h3>Featured Companies</h3>
 	   <ul id="flexiselDemo3">
 	      <li><img src="images/c1.gif"  class="img-responsive" /></li>
 		  <li><img src="images/c2.gif"  class="img-responsive" /></li>
