@@ -68,8 +68,8 @@
           	<h4>Job Details</h4>
 			<tbody>
 				<tr>
+					<td>Company Name</td>
 					<td>GSK Software PVT LTD</td>
-					<td>Lorem Ipsum</td>
 				</tr>
 
 				<tr>
@@ -124,7 +124,34 @@
 	      <h5>Job Description</h5>
 	      <p>This position will work directly with client customers to provide world-class application baseload and non-baseload support for multiple utility company applications. The successful candidate will design, develop, deploy and support technical solutions in a collaborative team environment. Must have solid understanding and production experience in analyzing, developing, and deploying solutions Gather software application requirements through interactions with business users. And must Collaborate with business analyst team members to identify gaps and dependencies in requirements across applications and departments. We provide outsourcing, staffing, consulting and workforce solutions within the areas of engineering, accounting and finance, healthcare, human resources, IT, legal, life sciences, manufacturing and logistics, office and administration and sales and marketing. </p>
 	      <div class="comments">
-	      
+	      	<h6>Comments</h6>
+			<div class="media media_1">
+			  <div class="media-left"><a href="#"> </a></div>
+			  <div class="media-body">
+			    <h4 class="media-heading"><a class="author" href="#"></a><a class="reply" href="#"></a><div class="clearfix"> </div></h4>
+			   
+			  </div>
+			  <div class="clearfix"> </div>
+			</div>
+			<div class="media">
+			  <div class="media-left"><a href="#"> </a></div>
+			  <div class="media-body">
+			    <h4 class="media-heading"><a class="author" href="#"></a><a class="reply" href="#"></a><div class="clearfix"> </div></h4>
+			   
+			  </div>
+			</div>
+		  </div>
+		  <form>
+			<div class="to">
+             	<input type="text" class="text" value="Name" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Name';}">
+			 	<input type="text" class="text" value="Email" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Email';}" style="margin-left:3%">
+			</div>
+			<div class="text">
+               <textarea value="Message" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Message';}">Message</textarea>
+            </div>
+            <div class="form-submit1">
+	           <input name="submit" type="submit" id="submit" value="Submit"><br>
+	        </div>
 			<div class="clearfix"></div>
           </form>
 	   </div>

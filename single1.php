@@ -58,38 +58,38 @@
     <div class="single">  
 	 </div>
 	 <div class="col-md-8 single_right">
-	      <h3>Lorem Ipsum is simply dummy</h3>
+	      <h3>Project Coordinator</h3>
 	      <div class="row_1">
 	      	<div class="col-sm-5 single_img">
 	      		<img src="images/a2.jpg" class="img-responsive" alt=""/>
 	      	</div>
 	      	<div class="col-sm-7 single-para">
 			  <table class="condidate_detail">
-          	<h4>Candidate Details</h4>
+          	<h4>Job details</h4>
 			<tbody>
 				<tr>
 					<td>Company Name</td>
-					<td>Lorem Ipsum</td>
+					<td>SAAS Event</td>
 				</tr>
 
 				<tr>
 					<td>Age</td>
-					<td>35 Years Old</td>
+					<td>25-35</td>
 				</tr>
 
 				<tr>
 					<td>Location</td>
-					<td>Australia</td>
+					<td>Pinnaduva</td>
 				</tr>
 
 				<tr>
 					<td>Experiance</td>
-					<td>10 Years</td>
+					<td>2 Years</td>
 				</tr>
 
 				<tr>
-					<td>Dgree</td>
-					<td>MCA</td>
+					<td>Education</td>
+					<td>Degree holder</td>
 				</tr>
 
 				<tr>
@@ -99,17 +99,17 @@
 
 				<tr>
 					<td>Phone</td>
-					<td>(800) 2547-879</td>
+					<td>011 5557 132</td>
 				</tr>
 
 				<tr>
 					<td>Fax</td>
-					<td>(800) 1247-256</td>
+					<td>011 8247-256</td>
 				</tr>
 
 				<tr>
 					<td>E-mail</td>
-					<td><a href="mailto:example@example.com">example@example.com</a></td>
+					<td><a href="saasevent@gmail.com">saasevent@gmail.com</a></td>
 				</tr>
 
 				<tr>
