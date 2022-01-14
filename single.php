@@ -58,7 +58,7 @@
     <div class="single">  
 	 </div>
 	 <div class="col-md-8 single_right">
-	      <h3>Sed ut perspiciatis unde omnis iste natus</h3>
+	      <h3>Software Developer</h3>
 	      <div class="row_1">
 	      	<div class="col-sm-5 single_img">
 	      		<img src="images/a1.jpg" class="img-responsive" alt=""/>
@@ -68,18 +68,18 @@
           	<h4>Job Details</h4>
 			<tbody>
 				<tr>
-					<td>Company Name</td>
+					<td>GSK Software PVT LTD</td>
 					<td>Lorem Ipsum</td>
 				</tr>
 
 				<tr>
 					<td>Age</td>
-					<td>35 Years Old</td>
+					<td>28-35</td>
 				</tr>
 
 				<tr>
 					<td>Location</td>
-					<td>Australia</td>
+					<td>Colombo 10</td>
 				</tr>
 
 				<tr>
@@ -88,8 +88,8 @@
 				</tr>
 
 				<tr>
-					<td>Dgree</td>
-					<td>MCA</td>
+					<td>Education</td>
+					<td>Degree holder</td>
 				</tr>
 
 				<tr>
@@ -99,59 +99,32 @@
 
 				<tr>
 					<td>Phone</td>
-					<td>(800) 2547-879</td>
+					<td>077 2729 729</td>
 				</tr>
 
 				<tr>
 					<td>Fax</td>
-					<td>(800) 1247-256</td>
+					<td>011 1247-256</td>
 				</tr>
 
 				<tr>
 					<td>E-mail</td>
-					<td><a href="mailto:example@example.com">example@example.com</a></td>
+					<td><a href="gsksoftware@gmail.com">gsksoftware@gmail.com</a></td>
 				</tr>
 
 				<tr>
 					<td>Website</td>
-					<td><a href="#">example.com</a></td>
+					<td><a href="https://www.gsk.com/en-gb/home/">Gsk.com</a></td>
 				</tr>
 			</tbody>
 		 </table>
 	      	</div>
 	      	<div class="clearfix"> </div>
 	      </div>
-	      <h5>At vero eos et accusamus et iusto odio dignissimos</h5>
-	      <p>"On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire, that they cannot foresee the pain and trouble that are bound to ensue; and equal blame belongs to those who fail in their duty through weakness of will, which is the same as saying through shrinking from toil and pain. These cases are perfectly simple and easy to distinguish. In a free hour, when our power of choice is untrammelled and when nothing prevents our being able to do what we like best, every pleasure is to be welcomed and every pain avoided. But in certain circumstances and owing to the claims of duty or the obligations of business it will frequently occur that pleasures have to be repudiated and annoyances accepted. </p>
+	      <h5>Job Description</h5>
+	      <p>This position will work directly with client customers to provide world-class application baseload and non-baseload support for multiple utility company applications. The successful candidate will design, develop, deploy and support technical solutions in a collaborative team environment. Must have solid understanding and production experience in analyzing, developing, and deploying solutions Gather software application requirements through interactions with business users. And must Collaborate with business analyst team members to identify gaps and dependencies in requirements across applications and departments. We provide outsourcing, staffing, consulting and workforce solutions within the areas of engineering, accounting and finance, healthcare, human resources, IT, legal, life sciences, manufacturing and logistics, office and administration and sales and marketing. </p>
 	      <div class="comments">
-	      	<h6>Comments</h6>
-			<div class="media media_1">
-			  <div class="media-left"><a href="#"> </a></div>
-			  <div class="media-body">
-			    <h4 class="media-heading"><a class="author" href="#">Sollicitudin</a><a class="reply" href="#">Reply</a><div class="clearfix"> </div></h4>
-			    Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin commodo. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus.
-			  </div>
-			  <div class="clearfix"> </div>
-			</div>
-			<div class="media">
-			  <div class="media-left"><a href="#"> </a></div>
-			  <div class="media-body">
-			    <h4 class="media-heading"><a class="author" href="#">Sollicitudin</a><a class="reply" href="#">Reply</a><div class="clearfix"> </div></h4>
-			    Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin commodo. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus.
-			  </div>
-			</div>
-		  </div>
-		  <form>
-			<div class="to">
-             	<input type="text" class="text" value="Name" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Name';}">
-			 	<input type="text" class="text" value="Email" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Email';}" style="margin-left:3%">
-			</div>
-			<div class="text">
-               <textarea value="Message" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Message';}">Message</textarea>
-            </div>
-            <div class="form-submit1">
-	           <input name="submit" type="submit" id="submit" value="Submit"><br>
-	        </div>
+	      
 			<div class="clearfix"></div>
           </form>
 	   </div>
