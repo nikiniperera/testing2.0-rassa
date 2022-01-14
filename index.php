@@ -307,7 +307,7 @@
 			<h4>Contact Us</h4>
 			<p>Contact Us trough Email, Mobile, Telephone or Fax</p>
 			<form>
-				<input type="text" class="form-control" placeholder="Enter your email">
+		
 				<button type="button" class="btn "><span class="yellow"> <a href="contact.php">Contact Now!</a></span></button>
 		    </form>
 		</div>
