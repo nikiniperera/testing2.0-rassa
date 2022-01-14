@@ -57,7 +57,7 @@
 <div class="container">
     <div class="single"></div>     
 	 
-	 <div class="col-md-8 single_right">
+	 <div class="col-md-8 ">
 	 	<h5>Features</h5>   
 		<ul class="feature_list">
 			<li>Apply on job.</li>
