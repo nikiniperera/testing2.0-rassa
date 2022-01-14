@@ -166,7 +166,7 @@
 		   </div>
 		   <div class="col_1">
    	        <div class="col-sm-4 row_2">
-				<a href="single.php"><img src="images/a3.jpg" class="img-responsive" alt=""/></a>
+				<a href="single2.php"><img src="images/a3.jpg" class="img-responsive" alt=""/></a>
 			</div>
 			<div class="col-sm-8 row_1">
 				<h4><a href="single.php">There are many variations</a></h4>
