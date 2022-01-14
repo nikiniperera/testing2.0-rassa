@@ -167,23 +167,10 @@
 				<a href="single4.php"><img src="images/a5.jpg" class="img-responsive" alt=""/></a>
 			</div>
 			<div class="col-sm-8 row_1">
-				<h4><a href="single4.php">At vero eos et accusamus</a></h4>
-				<h6>SIt is a long <span class="dot">·</span> Jul. 31, 2015</h6>
-				<p>On the other hand, we denounce with righteous indignation and dislike men.</p>
-				<div class="social">	
-					<a class="btn_1" href="#">
-						<i class="fa fa-facebook fb"></i>
-						<span class="share1 fb">Share</span>								
-					</a>
-					<a class="btn_1" href="#">
-						<i class="fa fa-twitter tw"></i>
-						<span class="share1">Tweet</span>								
-					</a>
-					<a class="btn_1" href="#">
-						<i class="fa fa-google-plus google"></i>
-						<span class="share1 google">Share</span>
-					</a>
-			   </div>
+				<h4><a href="single4.php">Engineering Associate</a></h4>
+				<h6>Posted By <span class="dot">·</span> Dec. 11, 2021</h6>
+				<p>The Contract Engineering Associate will support Engineering Department in revising PM checklists and Calibration program for Manufacturing and Packaging.</p>
+				
 			</div>
 			<div class="clearfix"> </div>
 		   </div>
@@ -192,23 +179,10 @@
 				<a href="single5.php"><img src="images/a6.jpg" class="img-responsive" alt=""/></a>
 			</div>
 			<div class="col-sm-8 row_1">
-				<h4><a href="single5.php">On the other hand</a></h4>
-				<h6>SIt is a long <span class="dot">·</span> Jul. 31, 2015</h6>
-				<p>Contrary to popular belief, Lorem Ipsum is not simply random text.</p>
-				<div class="social">	
-					<a class="btn_1" href="#">
-						<i class="fa fa-facebook fb"></i>
-						<span class="share1 fb">Share</span>								
-					</a>
-					<a class="btn_1" href="#">
-						<i class="fa fa-twitter tw"></i>
-						<span class="share1">Tweet</span>								
-					</a>
-					<a class="btn_1" href="#">
-						<i class="fa fa-google-plus google"></i>
-						<span class="share1 google">Share</span>
-					</a>
-			   </div>
+				<h4><a href="single5.php">Sales Associate</a></h4>
+				<h6>Posted By <span class="dot">·</span> Nov. 14, 2021</h6>
+				<p>This position is responsible for creating a compelling and welcoming sales atmosphere for guests of the Shreveport Aquarium.</p>
+				
 			    
 			  </div>
 			<div class="clearfix"> </div>
