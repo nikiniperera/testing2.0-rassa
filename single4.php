@@ -65,7 +65,7 @@
 	      	</div>
 	      	<div class="col-sm-7 single-para">
 			  <table class="condidate_detail">
-          	<h4>Candidate Details</h4>
+          	<h4>Job details</h4>
 			<tbody>
 				<tr>
 					<td>Company Name</td>
@@ -121,7 +121,7 @@
 	      	</div>
 	      	<div class="clearfix"> </div>
 	      </div>
-	      <h5>At vero eos et accusamus et iusto odio dignissimos</h5>
+	      <h5>Job Description</h5>
 	      <p>"On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire, that they cannot foresee the pain and trouble that are bound to ensue; and equal blame belongs to those who fail in their duty through weakness of will, which is the same as saying through shrinking from toil and pain. These cases are perfectly simple and easy to distinguish. In a free hour, when our power of choice is untrammelled and when nothing prevents our being able to do what we like best, every pleasure is to be welcomed and every pain avoided. But in certain circumstances and owing to the claims of duty or the obligations of business it will frequently occur that pleasures have to be repudiated and annoyances accepted. </p>
 	      <div class="comments">
 	      	<h6>Comments</h6>

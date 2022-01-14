@@ -125,7 +125,7 @@
 			<div class="media media_1">
 			  <div class="media-left"><a href="#"> </a></div>
 			  <div class="media-body">
-			    <h4 class="media-heading"><a class="author" href="#">Sollicitudin</a><a class="reply" href="#">Reply</a><div class="clearfix"> </div></h4>
+			    <h4 class="media-heading"><a class="author" href="#">Janu</a><a class="reply" href="#">Reply</a><div class="clearfix"> </div></h4>
 			    I have these qualifications.  How do I apply for this?  May I know more details.
 			  </div>
 			  <div class="clearfix"> </div>
