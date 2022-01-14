@@ -96,30 +96,31 @@
 			<div class="clearfix"> </div>
 		</div>
 		<div class="col-md-3 grid_3">
-			<h4>Twitter Widget</h4>
+			<h4>Social Medias</h4>
 			<div class="footer-list">
 			  <ul>
-				<li><i class="fa fa-twitter tw1"> </i><p><span class="yellow"><a href="#">consectetuer</a></span> adipiscing elit web design</p></li>
-				<li><i class="fa fa-twitter tw1"> </i><p><span class="yellow"><a href="#">consectetuer</a></span> adipiscing elit web design</p></li>
-				<li><i class="fa fa-twitter tw1"> </i><p><span class="yellow"><a href="#">consectetuer</a></span> adipiscing elit web design</p></li>
+				<li><i class="fa fa-twitter tw1"> </i><p><span class="yellow"><a href="https://twitter.com/SLTechbro6">Twitter Support</a></span> Latest Updates trough Twitter</p></li>
+				<li><i class="fa fa-facebook fb"> </i><p><span class="yellow"><a href="https://www.facebook.com/anjana.nipun.1">Facebook Support</a></span> Latest Updates trough Facebook</p></li>
+				
 			  </ul>
 			</div>
 		</div>
 		<div class="col-md-3 grid_3">
-			<h4>Job Portal</h4>
-			<p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. </p>
+			<h4>Rassa.lk</h4>
+			<p>This is a system that allows job seekers and recruiters to communicate with each other. This is was online job portal for delivering job placements to employees who are looking for a job vacancies.</p>
 		</div>
 		<div class="col-md-3 grid_3">
-			<h4>Sign up for our newsletter</h4>
-			<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam.</p>
+			<h4>Contact Us</h4>
+			<p>Contact Us trough Email, Mobile, Telephone or Fax</p>
 			<form>
-				<input type="text" class="form-control" placeholder="Enter your email">
-				<button type="button" class="btn red">Subscribe now!</button>
+		
+				<button type="button" class="btn "><span class="yellow"> <a href="contact.php">Contact Now!</a></span></button>
 		    </form>
 		</div>
 		<div class="clearfix"> </div>
 	</div>
 </div>
+
 <div class="footer_bottom">	
 	<div class="container">
   
