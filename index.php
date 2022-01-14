@@ -290,12 +290,11 @@
 			<div class="clearfix"> </div>
 		</div>
 		<div class="col-md-3 grid_3">
-			<h4>Twitter Widget</h4>
+			<h4>Social Medias</h4>
 			<div class="footer-list">
 			  <ul>
 				<li><i class="fa fa-twitter tw1"> </i><p><span class="yellow"><a href="https://twitter.com/SLTechbro6">Twitter Support</a></span> Latest Updates trough Twitter</p></li>
 				<li><i class="fa fa-facebook fb"> </i><p><span class="yellow"><a href="https://www.facebook.com/anjana.nipun.1">Facebook Support</a></span> Latest Updates trough Facebook</p></li>
-				<li><i class="fa fa-instagram fa1"> </i><p><span class="yellow"><a href="https://www.instagram.com/dinethri_upeksha/">Instergram Support</a></span> Latest Updates trough Instergram</p></li>
 			  </ul>
 			</div>
 		</div>
@@ -308,7 +307,7 @@
 			<p>Contact Us trough Email, Mobile, Telephone or Fax</p>
 			<form>
 				<input type="text" class="form-control" placeholder="Enter your email">
-				<button type="button" class="btn red"> <a href="contact.php">Contact Now!</a></button>
+				<button type="button"> <a href="contact.php">Contact Now!</a></button>
 		    </form>
 		</div>
 		<div class="clearfix"> </div>
