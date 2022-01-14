@@ -283,6 +283,7 @@
 			<li><a href="#" aria-label="Next"><span aria-hidden="true">»</span></a></li>
 		</ul>
 	</div>
+	<div class="clearfix"> </div>
 </div>
 <div class="footer">
 	<div class="container">
