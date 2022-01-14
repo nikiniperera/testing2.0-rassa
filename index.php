@@ -295,6 +295,7 @@
 			  <ul>
 				<li><i class="fa fa-twitter tw1"> </i><p><span class="yellow"><a href="https://twitter.com/SLTechbro6">Twitter Support</a></span> Latest Updates trough Twitter</p></li>
 				<li><i class="fa fa-facebook fb"> </i><p><span class="yellow"><a href="https://www.facebook.com/anjana.nipun.1">Facebook Support</a></span> Latest Updates trough Facebook</p></li>
+				
 			  </ul>
 			</div>
 		</div>
@@ -307,7 +308,7 @@
 			<p>Contact Us trough Email, Mobile, Telephone or Fax</p>
 			<form>
 				<input type="text" class="form-control" placeholder="Enter your email">
-				<button type="button"> <a href="contact.php">Contact Now!</a></button>
+				<button type="button" class="btn "><span class="yellow"> <a href="contact.php">Contact Now!</a></span></button>
 		    </form>
 		</div>
 		<div class="clearfix"> </div>
