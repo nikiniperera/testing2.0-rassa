@@ -119,23 +119,10 @@
 				<a href="single.php"><img src="images/a1.jpg" class="img-responsive" alt=""/></a>
 			</div>
 			<div class="col-sm-8 row_1">
-				<h4><a href="single.php">It is a long established fact</a></h4>
-				<h6>SIt is a long <span class="dot">·</span> Jul. 31, 2015</h6>
-				<p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered</p>
-				<div class="social">	
-					<a class="btn_1" href="#">
-						<i class="fa fa-facebook fb"></i>
-						<span class="share1 fb">Share</span>								
-					</a>
-					<a class="btn_1" href="#">
-						<i class="fa fa-twitter tw"></i>
-						<span class="share1">Tweet</span>								
-					</a>
-					<a class="btn_1" href="#">
-						<i class="fa fa-google-plus google"></i>
-						<span class="share1 google">Share</span>
-					</a>
-			   </div>
+				<h4><a href="single.php">Software Developer</a></h4>
+				<h6>Posted By <span class="dot">·</span> Jan. 03, 2022</h6>
+				<p>This position will work directly with client customers to provide world-class application baseload and non-baseload support for multiple utility company applications.</p>
+				
 			</div>
 			<div class="clearfix"> </div>
 		   </div>
@@ -144,23 +131,10 @@
 				<a href="single1.php"><img src="images/a2.jpg" class="img-responsive" alt=""/></a>
 			</div>
 			<div class="col-sm-8 row_1">
-				<h4><a href="single1.php">Lorem Ipsum is simply dummy</a></h4>
-				<h6>SIt is a long <span class="dot">·</span> Jul. 31, 2015</h6>
-				<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium.</p>
-				<div class="social">	
-					<a class="btn_1" href="#">
-						<i class="fa fa-facebook fb"></i>
-						<span class="share1 fb">Share</span>								
-					</a>
-					<a class="btn_1" href="#">
-						<i class="fa fa-twitter tw"></i>
-						<span class="share1">Tweet</span>								
-					</a>
-					<a class="btn_1" href="#">
-						<i class="fa fa-google-plus google"></i>
-						<span class="share1 google">Share</span>
-					</a>
-			   </div>
+				<h4><a href="single1.php">Project Coordinator</a></h4>
+				<h6>Posted By<span class="dot">·</span> Jan. 02, 2022</h6>
+				<p>Our mission is to be a world leader in matching demand for, and supply of, labor and HR services.</p>
+				
 			</div>
 			<div class="clearfix"> </div>
 		   </div>
@@ -169,23 +143,10 @@
 				<a href="single2.php"><img src="images/a3.jpg" class="img-responsive" alt=""/></a>
 			</div>
 			<div class="col-sm-8 row_1">
-				<h4><a href="single2.php">There are many variations</a></h4>
-				<h6>SIt is a long <span class="dot">·</span> Jul. 31, 2015</h6>
-				<p>YBut I must explain to you how all this mistaken idea of denouncing pleasure.</p>
-				<div class="social">	
-					<a class="btn_1" href="#">
-						<i class="fa fa-facebook fb"></i>
-						<span class="share1 fb">Share</span>								
-					</a>
-					<a class="btn_1" href="#">
-						<i class="fa fa-twitter tw"></i>
-						<span class="share1">Tweet</span>								
-					</a>
-					<a class="btn_1" href="#">
-						<i class="fa fa-google-plus google"></i>
-						<span class="share1 google">Share</span>
-					</a>
-			   </div>
+				<h4><a href="single2.php">Office Administrator</a></h4>
+				<h6>Posted By <span class="dot">·</span> Dec. 31, 2021</h6>
+				<p>The position duties will include collecting, sorting and distributing mail and handling outgoing mail.</p>
+				
 			</div>
 			<div class="clearfix"> </div>
 		   </div>
@@ -194,23 +155,10 @@
 				<a href="single3.php"><img src="images/a4.jpg" class="img-responsive" alt=""/></a>
 			</div>
 			<div class="col-sm-8 row_1">
-				<h4><a href="single3.php">Contrary to popular belief</a></h4>
-				<h6>SIt is a long <span class="dot">·</span> Jul. 31, 2015</h6>
-				<p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti.</p>
-				<div class="social">	
-					<a class="btn_1" href="#">
-						<i class="fa fa-facebook fb"></i>
-						<span class="share1 fb">Share</span>								
-					</a>
-					<a class="btn_1" href="#">
-						<i class="fa fa-twitter tw"></i>
-						<span class="share1">Tweet</span>								
-					</a>
-					<a class="btn_1" href="#">
-						<i class="fa fa-google-plus google"></i>
-						<span class="share1 google">Share</span>
-					</a>
-			   </div>
+				<h4><a href="single3.php">Finance Manager</a></h4>
+				<h6>Posted By <span class="dot">·</span> Dec. 31, 2021</h6>
+				<p>Manage the financial activities of the Redistribution Network in accordance with generally accepted </p>
+				
 			</div>
 			<div class="clearfix"> </div>
 		   </div>
