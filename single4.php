@@ -58,7 +58,7 @@
     <div class="single">  
 	 </div>
 	 <div class="col-md-8 single_right">
-	      <h3>Sed ut perspiciatis unde omnis iste natus</h3>
+	      <h3>Engineering Associate</h3>
 	      <div class="row_1">
 	      	<div class="col-sm-5 single_img">
 	      		<img src="images/a5.jpg" class="img-responsive" alt=""/>
@@ -69,17 +69,17 @@
 			<tbody>
 				<tr>
 					<td>Company Name</td>
-					<td>Lorem Ipsum</td>
+					<td>Helanka Contract</td>
 				</tr>
 
 				<tr>
 					<td>Age</td>
-					<td>35 Years Old</td>
+					<td>21-35</td>
 				</tr>
 
 				<tr>
 					<td>Location</td>
-					<td>Australia</td>
+					<td>Colombo 4</td>
 				</tr>
 
 				<tr>
@@ -88,34 +88,31 @@
 				</tr>
 
 				<tr>
-					<td>Dgree</td>
+					<td>Education</td>
 					<td>MCA</td>
 				</tr>
 
 				<tr>
 					<td>Career Lavel</td>
-					<td>Mid-Level</td>
+					<td>High-Level</td>
 				</tr>
 
 				<tr>
 					<td>Phone</td>
-					<td>(800) 2547-879</td>
+					<td>011 1343 164</td>
 				</tr>
 
 				<tr>
 					<td>Fax</td>
-					<td>(800) 1247-256</td>
+					<td>011 1343 147</td>
 				</tr>
 
 				<tr>
 					<td>E-mail</td>
-					<td><a href="mailto:example@example.com">example@example.com</a></td>
+					<td><a href="helanka@gmail.com">helanka@gmail.com</a></td>
 				</tr>
 
-				<tr>
-					<td>Website</td>
-					<td><a href="#">example.com</a></td>
-				</tr>
+			
 			</tbody>
 		 </table>
 	      	</div>
@@ -125,21 +122,7 @@
 	      <p>"On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire, that they cannot foresee the pain and trouble that are bound to ensue; and equal blame belongs to those who fail in their duty through weakness of will, which is the same as saying through shrinking from toil and pain. These cases are perfectly simple and easy to distinguish. In a free hour, when our power of choice is untrammelled and when nothing prevents our being able to do what we like best, every pleasure is to be welcomed and every pain avoided. But in certain circumstances and owing to the claims of duty or the obligations of business it will frequently occur that pleasures have to be repudiated and annoyances accepted. </p>
 	      <div class="comments">
 	      	<h6>Comments</h6>
-			<div class="media media_1">
-			  <div class="media-left"><a href="#"> </a></div>
-			  <div class="media-body">
-			    <h4 class="media-heading"><a class="author" href="#">Sollicitudin</a><a class="reply" href="#">Reply</a><div class="clearfix"> </div></h4>
-			    Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin commodo. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus.
-			  </div>
-			  <div class="clearfix"> </div>
-			</div>
-			<div class="media">
-			  <div class="media-left"><a href="#"> </a></div>
-			  <div class="media-body">
-			    <h4 class="media-heading"><a class="author" href="#">Sollicitudin</a><a class="reply" href="#">Reply</a><div class="clearfix"> </div></h4>
-			    Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin commodo. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus.
-			  </div>
-			</div>
+			
 		  </div>
 		  <form>
 			<div class="to">
