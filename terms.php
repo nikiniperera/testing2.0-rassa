@@ -61,32 +61,25 @@
 	 <div class="col-md-8 single_right">
 	    <h3>Recruiters</h3>	
 	    <ul class="feature_list">
-			<li><a href="#">There are many variations of passages of Lorem Ipsum available.</a></li>
-			<li><a href="#">It is a long established fact that a reader.</a></li>
-			<li><a href="#">Nulla rutrum nisi mi, iaculis commodo nibh lobortis sed.</a></li>
-			<li><a href="#">Sed pulvinar, nunc vitae molestie dapibus, lacus dolor dignissim sapien.</a></li>
-			<li><a href="#">Pellentesque ipsum ex, imperdiet quis consequat sed, consectetur ut ante.</a></li>
-			<li><a href="#">Aliquam libero felis, mollis vitae elementum vel, bibendum eu tortor.</a></li>
-			<li><a href="#">Lorem ipsum dolor sit amet.</a></li>
+			<li><a href="#">Enter the detail about job position, functional area, industry type, keyword, experience, qualification, location, country, and order by date.</a></li>
+			<li><a href="#">Employer or recruiter must be register.</a></li>
+			<li><a href="#">After the employers or recruiters register, then only they can search the job seeker resumes.</a></li>
+			<li><a href="#">You can use recruters tab to directly go to the recruitme.lk trough api.</a></li>
+		
 		</ul>
 	    <h5>Job Seekers</h5>   
 	    <ul class="feature_list feature_list1">
-			<li><a href="#">There are many variations of passages of Lorem Ipsum available.</a></li>
-			<li><a href="#">It is a long established fact that a reader.</a></li>
-			<li><a href="#">Nulla rutrum nisi mi, iaculis commodo nibh lobortis sed.</a></li>
-			<li><a href="#">Sed pulvinar, nunc vitae molestie dapibus, lacus dolor dignissim sapien.</a></li>
-			<li><a href="#">Pellentesque ipsum ex, imperdiet quis consequat sed, consectetur ut ante.</a></li>
-			<li><a href="#">Aliquam libero felis, mollis vitae elementum vel, bibendum eu tortor.</a></li>
-			<li><a href="#">Lorem ipsum dolor sit amet.</a></li>
+			<li><a href="#">Apply for a job with the click of a button </a></li>
+			<li><a href="#">Resume Posting.</a></li>
+			<li><a href="#">Automatically retrieve passwords by email.</a></li>
+			<li><a href="#">Job Seeker Registration.</a></li>
+			<li><a href="#">Login and update profile, including forgotten password reminders.</a></li>
+			<li><a href="#">View Application History from profile.</a></li>
+			<li><a href="#">Powerful online job search-tool.</a></li>
 		</ul>
-		<p>"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."</p>
-		<p>"At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio.</p>
-		<p>But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth,</p>
-		<p>On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire, that they cannot foresee the pain and trouble that are bound to ensue; and equal blame belongs to those who fail in their duty through weakness of will, which is the same as saying through shrinking from toil and pain.</p>
-		<p>"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."</p>
-		<p>"At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio.</p>
-		<p>But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth,</p>
-		<p>On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire, that they cannot foresee the pain and trouble that are bound to ensue; and equal blame belongs to those who fail in their duty through weakness of will, which is the same as saying through shrinking from toil and pain.</p>
+		<p>Job seeker sets privacy level to control how-much information is visible to employers through resume searches.</p>
+		<p>This is a system that allows job seekers and recruiters to communicate with each other.</p>
+		<p>This is was online job portal for delivering job placements to employees who are looking for a job vacancies.</p>
      </div>
      <div class="clearfix"> </div>
 	 <div class="single">  
