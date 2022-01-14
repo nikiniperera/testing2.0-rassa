@@ -19,6 +19,13 @@
 <!----font-Awesome----->
 </head>
 <body>
+<div> 
+	<?php
+	if(isset($_POST['create'])){
+		echo 'User submitted.';
+	}
+	?>
+</div>
 <nav class="navbar navbar-default" role="navigation">
 	<div class="container">
 	    <div class="navbar-header">
@@ -63,7 +70,7 @@
             <div class="form-group col-md-12">
                 <label class="col-md-3 control-lable" for="firstName">First Name</label>
                 <div class="col-md-9">
-                    <input type="text" path="firstName" id="firstName" class="form-control input-sm"/>
+                    <input type="text" path="firstName" id="firstName" class="form-control input-sm" required/>
                 </div>
             </div>
          </div>
@@ -71,7 +78,7 @@
             <div class="form-group col-md-12">
                 <label class="col-md-3 control-lable" for="lastName">Last Name</label>
                 <div class="col-md-9">
-                    <input type="text" path="lastName" id="lastName" class="form-control input-sm"/>
+                    <input type="text" path="lastName" id="lastName" class="form-control input-sm" required/>
                 </div>
             </div>
         </div>
@@ -79,7 +86,7 @@
             <div class="form-group col-md-12">
                 <label class="col-md-3 control-lable" for="lastName">Mobile Number</label>
                 <div class="col-md-9">
-                    <input type="text" path="lastName" id="lastName" class="form-control input-sm"/>
+                    <input type="text" path="lastName" id="lastName" class="form-control input-sm" required/>
                 </div>
             </div>
         </div>
@@ -109,7 +116,7 @@
             <div class="form-group col-md-12">
                 <label class="col-md-3 control-lable" for="email">Email</label>
                 <div class="col-md-9">
-                    <input type="text" path="email" id="email" class="form-control input-sm"/>
+                    <input type="text" path="email" id="email" class="form-control input-sm" required/>
                 </div>
             </div>
         </div>
