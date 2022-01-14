@@ -268,10 +268,6 @@
 	   </div>
 	   <div class="clearfix"> </div>
 	 </div>
-	 
-	 <div class="single">  
-	   
-	 </div>
 	 <div class="container">
 	 	<ul class="pagination jobs_pagination">
 			<li class="disabled"><a href="#" aria-label="Previous"><span aria-hidden="true">«</span></a></li>
@@ -284,6 +280,8 @@
 		</ul>
 	</div>
 	<div class="clearfix"> </div>
+	<div class="single">  
+   </div>
 </div>
 <div class="footer">
 	<div class="container">
