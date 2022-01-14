@@ -262,6 +262,8 @@
 					</a>
 			   </div>
 			   <div class="clearfix"> </div>
+			   <div class="clearfix"> </div>
+			   <div class="clearfix"> </div>
 			   <ul class="pagination jobs_pagination">
 					<li class="disabled"><a href="#" aria-label="Previous"><span aria-hidden="true">«</span></a></li>
 					<li class="active"><a href="#">1 <span class="sr-only">(current)</span></a></li>
