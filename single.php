@@ -68,70 +68,7 @@
 		</div>
    </div> 
 </div>	
-<div class="container">
-    <div class="single">  
-	   <div class="col-md-4">
-	   	  <div class="col_3">
-	   	  	<h3>Todays Jobs</h3>
-	   	  	<ul class="list_1">
-	   	  		<li><a href="#">LIC Housing Finance Ltd. recruitment for Personal Assistant in Mumbai</a></li>
-	   	  		<li><a href="#">Madurai Kamaraj University recruitment for Research Assistants Econometrics in Madurai</a></li>		
-	   	  		<li><a href="#">LIC Housing Finance Ltd. recruitment for Personal Assistant in Mumbai</a></li>
-	   	  		<li><a href="#">Madurai Kamaraj University recruitment for Research Assistants Econometrics in Madurai</a></li>		
-	   	  		<li><a href="#">LIC Housing Finance Ltd. recruitment for Personal Assistant in Mumbai</a></li>
-	   	  		<li><a href="#">Madurai Kamaraj University recruitment for Research Assistants Econometrics in Madurai</a></li>		
-	   	  		<li><a href="#">LIC Housing Finance Ltd. recruitment for Personal Assistant in Mumbai</a></li>
-	   	  		<li><a href="#">Madurai Kamaraj University recruitment for Research Assistants Econometrics in Madurai</a></li>								
-	   	  	</ul>
-	   	  </div>
-	   	  <div class="col_3">
-	   	  	<h3>Jobs by Category</h3>
-	   	  	<ul class="list_2">
-	   	  		<li><a href="#">Railway Recruitment</a></li>
-	   	  		<li><a href="#">Indian Air Force Jobs</a></li>		
-	   	  		<li><a href="#">Police Jobs</a></li>
-	   	  		<li><a href="#">Intelligence Bureau Jobs</a></li>		
-	   	  		<li><a href="#">Indian Army Jobs</a></li>
-	   	  		<li><a href="#">Indian Navy Jobs</a></li>		
-	   	  		<li><a href="#">BSNL Jobs</a></li>
-	   	  		<li><a href="#">SBI Jobs</a></li>								
-	   	  	</ul>
-	   	  </div>
-	   	  <div class="widget">
-	        <h3>Take The Job Portal Poll!</h3>
-    	        <div class="widget-content"> 
-                 <div class="Job Portal-answer">
-			    	<span class="Job Portal-answer-group">
-		    			<span class="Job Portal-answer-input">
-		    			   <input class="Job Portal-radiobutton" type="radio">
-		    			</span>
-		    			<label for="" class="Job Portal-input-label">
-		    				<span class="Job Portal-answer-span">Frequently</span>
-		    			</label>
-		    		</span>
-			    	<span class="Job Portal-answer-group">
-		    			<span class="Job Portal-answer-input">
-		    			   <input class="Job Portal-radiobutton" type="radio">
-		    			</span>
-		    			<label for="" class="Job Portal-input-label">
-		    				<span class="Job Portal-answer-span">Interviewing</span>
-		    			</label>
-		    		</span>
-			        <span class="Job Portal-answer-group">
-		    			<span class="Job Portal-answer-input">
-		    			   <input class="Job Portal-radiobutton" type="radio">
-		    			</span>
-		    			<label for="" class="Job Portal-input-label">
-		    				<span class="Job Portal-answer-span">Leaving a familiar workplace</span>
-		    			</label>
-		    		</span>
-		    		<div class="Job Portal_vote">
-		    		  <a class="Job Portal-vote-button">Vote</a>
-		    		</div>
-			     </div>
-    	       </div>
-    	</div>
-	 </div>
+=
 	 <div class="col-md-8 single_right">
 	      <h3>Sed ut perspiciatis unde omnis iste natus</h3>
 	      <div class="row_1">
