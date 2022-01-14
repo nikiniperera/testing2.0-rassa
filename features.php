@@ -57,7 +57,8 @@
 <div class="container">
     <div class="single"></div>     
 	 
-	 <div class="col-md-8 ">
+	 <div class="col-md-8 single_right">
+	 <ul class="features">
 	 	<h5>Features</h5>   
 		<ul class="feature_list">
 			<li>Apply on job.</li>
@@ -78,6 +79,7 @@
 			<li>Easier and faster data transfer thanks to the latest computer and communication technology; these features will boost efficiency, accuracy, and transparency.</li>
 			
 		</ul>
+	 </ul>
      </div>
      <div class="clearfix"> </div>
 	 <div class="single">     
