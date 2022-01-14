@@ -59,13 +59,15 @@
 	 </div>
 	 <div class="col-md-8 single_right">
 	    <h3>Features</h3>	
-	    <p><li>Apply on job.</li>
+	    <ul>
+			<li>Apply on job.</li>
 			<li>Job posting.</li>
 			<li>Applicants should be able to store their preferred positions that they have already browsed through and bookmark them so that they may refer back to them when they need to review, update, or re-submit their applications.</li>
 			<li>Easy to use.</li>
 			<li>Quick and easy registration.</li>
 			<li>Social Media integrations.</li>
 			<li>Mobility Support or App</li>
+        </ul>
 		<h5>Benefits</h5>   
 		<ul class="feature_list">
 			<li>The user is mainly concerned with the data's accuracy, regardless of what he is entering. Every stage of any new creation, data entering, or updating is checked to ensure that the user does not submit invalid data.</li>
