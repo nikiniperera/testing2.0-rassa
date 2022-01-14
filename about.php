@@ -108,13 +108,8 @@
 				   	 				<img src="images/f5.jpg" class="img-responsive" alt=""/>
 				   	 			</li>
 				   	 			<li class="grid-1_right">
-				   	 				<p>Garcinia cambogia is one of the main 
-										components in one of the best-selling 
-										supplemental weight loss products, 
-										Hydroxycut., and researchers have 
-										concluded that "the evidence for G. 
-										cambogia is not compelling.</p>
-								      <h4><a href="#">annette Doe</a> | Abc Company</h4>
+				   	 				<p>“Far and away the best prize that life has to offer is the chance to work hard at work worth doing.”</p>
+								      <h4><a href="#">Theodore Roosevelt</a></h4>
 				   	 			</li>
 				   	 			<div class="clearfix"> </div>
 				   	 		</ul>
@@ -127,13 +122,8 @@
 				   	 				<img src="images/f6.jpg" class="img-responsive" alt=""/>
 				   	 			</li>
 				   	 			<li class="grid-1_right">
-				   	 				<p>Garcinia cambogia is one of the main 
-										components in one of the best-selling 
-										supplemental weight loss products, 
-										Hydroxycut., and researchers have 
-										concluded that "the evidence for G. 
-										cambogia is not compelling.</p>
-								      <h4><a href="#">annette Doe</a> | Abc Company</h4>
+				   	 				<p>“When one door closes, another opens; but we often look so long and so regretfully upon the closed door that we do not see the one which has opened for us.”</p>
+								      <h4><a href="#">Alexander Graham Bell</a></h4>
 				   	 			</li>
 				   	 			<div class="clearfix"> </div>
 				   	 		</ul>
@@ -146,13 +136,8 @@
 				   	 				<img src="images/f7.jpg" class="img-responsive" alt=""/>
 				   	 			</li>
 				   	 			<li class="grid-1_right">
-				   	 				<p>Garcinia cambogia is one of the main 
-										components in one of the best-selling 
-										supplemental weight loss products, 
-										Hydroxycut., and researchers have 
-										concluded that "the evidence for G. 
-										cambogia is not compelling.</p>
-								      <h4><a href="#">annette Doe</a> | Abc Company</h4>
+				   	 				<p>“But failure has to be an option in art and in exploration—because its a leap of faith. And no important endeavor that required innovation was done without risk. You have to be willing to take those risks.”</p>
+								      <h4><a href="#">James Cameron</a></h4>
 				   	 			</li>
 				   	 			<div class="clearfix"> </div>
 				   	 		</ul>
