@@ -36,7 +36,7 @@
 				<li><a href="jobs.php">Jobs</a></li>
 		    
 		        <li><a href="services.php">Services</a></li>
-				<li><a href="recruiters.php">Recruiters</a></li>
+				<li><a href="https://recruitme.lk/jobs-in-sri-lanka">Recruiters</a></li>
 		        <li class="dropdown">
 		            <a href="#" class="dropdown-toggle" data-toggle="dropdown">More<b class="caret"></b></a>
 		            <ul class="dropdown-menu">
