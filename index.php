@@ -141,7 +141,7 @@
 		   </div>
 		   <div class="col_1">
    	         <div class="col-sm-4 row_2">
-				<a href="single.php"><img src="images/a2.jpg" class="img-responsive" alt=""/></a>
+				<a href="single1.php"><img src="images/a2.jpg" class="img-responsive" alt=""/></a>
 			</div>
 			<div class="col-sm-8 row_1">
 				<h4><a href="single.php">Lorem Ipsum is simply dummy</a></h4>

@@ -61,7 +61,7 @@
 	      <h3>Lorem Ipsum is simply dummy</h3>
 	      <div class="row_1">
 	      	<div class="col-sm-5 single_img">
-	      		<img src="images/a1.jpg" class="img-responsive" alt=""/>
+	      		<img src="images/a2.jpg" class="img-responsive" alt=""/>
 	      	</div>
 	      	<div class="col-sm-7 single-para">
 			  <table class="condidate_detail">
